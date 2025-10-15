@@ -1,2 +1,2 @@
 # Notatki - Muzykologia UAM
-Baza Danych Notatek i innych 
+Baza Danych Notatek 
