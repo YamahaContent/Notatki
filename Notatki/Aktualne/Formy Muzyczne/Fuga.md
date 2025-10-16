@@ -44,5 +44,11 @@ Wyróźniamy trzy rodzaje tematów:
 ### J. S. Bach - VII
 ![[Pasted image 20251016120405.png]]
 **Tonacja:** Es-dur
-**Melodyka:** Ornamentalna 
-**Temat:** Soggetto, Figuracyjny, Diatoniczny
+**Melodyka:** Ornamentalna, Diatoniczny,  Figuracyjny
+**Temat:** Soggetto
+
+### J. S. Bach - Fuga VIII
+![[Pasted image 20251016121051.png]]
+**Tonacja:** Es-moll
+**Melodyka:** Kantylenowa, Diatoniczna
+**Temat:** 
