@@ -27,7 +27,7 @@ Wyróźniamy trzy rodzaje tematów:
 - **Soggetto** - temat dwuczęściowy, zawiera czoło i jego ewolucje.  
 - **Andamento** - składa się z czoła, ewolucji i kody.  
 
-# Przykłady
+# Przykłady 
 ### J. S. Bach - Fuga IV
 ![[Pasted image 20251016114651.png]]
 
@@ -43,6 +43,6 @@ Wyróźniamy trzy rodzaje tematów:
 
 ### J. S. Bach - VII
 ![[Pasted image 20251016120405.png]]
-**Tonacja:** 
-**Melodyka:** 
-**Temat:** 
+**Tonacja:** Es-dur
+**Melodyka:** Ornamentalna 
+**Temat:** Soggetto, Figuracyjny, Diatoniczny
