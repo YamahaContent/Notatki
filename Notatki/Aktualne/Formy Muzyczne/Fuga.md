@@ -59,6 +59,11 @@ Wyróźniamy trzy rodzaje tematów:
 **Temat:** Soggetto, pochód chromatyczny z zawieszonym e w czolei figuracjami położonymi niżej w drugiej części
 ### Fuga XV
 ![[Pasted image 20251016122420.png]]
-**Tonacja:** 
+**Tonacja:** G-dur
 **Melodyka:** Diatoniczna, kantylenowa, ornamentyczna
 **Temat:** Andamento, taneczny charakter
+### Fuga XXIV
+![[Pasted image 20251016123303.png]]
+**Tonacja:** 
+**Melodyka:** 
+**Temat:** 
