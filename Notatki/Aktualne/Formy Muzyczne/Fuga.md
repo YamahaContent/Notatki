@@ -56,4 +56,9 @@ Wyróźniamy trzy rodzaje tematów:
 ![[Pasted image 20251016121359.png]]
 **Tonacja:** E-moll
 **Melodyka:** Chromatyczna, Figuracyjna
-**Temat:** Soggetto, pochód chromatyczny z zawieszonym e w czole, 
+**Temat:** Soggetto, pochód chromatyczny z zawieszonym e w czolei figuracjami położonymi niżej w drugiej części
+### J. S. Bach - Fuga XV
+![[Pasted image 20251016122420.png]]
+**Tonacja:** 
+**Melodyka:** 
+**Temat:** 
