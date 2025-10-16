@@ -65,5 +65,5 @@ Wyróźniamy trzy rodzaje tematów:
 ### Fuga XXIV
 ![[Pasted image 20251016123303.png]]
 **Tonacja:** 
-**Melodyka:** 
+**Melodyka:** Figuracyjna, Chromatyczna
 **Temat:** 
