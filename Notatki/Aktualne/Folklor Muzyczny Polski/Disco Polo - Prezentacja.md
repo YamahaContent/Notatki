@@ -5,7 +5,7 @@ tags:
 Typ: Notatka
 ---
 ---
-# Geneza Disco Polo
+# Geneza
 ## Piosenki Brukowe - Folklor Miejski
 Annna Kowalczyk etnolog w artykule dla "Wiedza i życie" z września 1997 r. dopatruję się począktów discopolo w Piosenkach Brukowych, Podwórzowych lub Ulicznych. 
 Piosenki Brukowe poruszały temat życia miejskiego lub podmiejskiego. Opowiadały o miłości, zdradzie, przestępczości oraz życiu klasy robotniczej. 
@@ -29,9 +29,14 @@ Wartym wspomnienia jest Mały Władziu, znany także jako Li'l Wally, Władysła
 >[!important]
 >Władysław w 1984r. wystąpił na audiencju u Jana Pawła II z utworem *God Bless our Polish Pope*
 
-W latach 80 popularne stały się zespoły takie jak: Polskie Orły, Biało-Czerwoni i Boby Vinton. To właśnie Polskie Orły odpowiadają za takie hity jak m.in.: *Cztery razy po dwa razy* czy *Biały Miś*
+W latach 80 popularne stały się zespoły takie jak: Polskie Orły, Biało-Czerwoni i Boby Vinton. To właśnie Polskie Orły odpowiadają za takie hity jak m.in.: *Cztery razy po dwa razy* czy *Biały Miś*. To za sprawą polskich zespołów na emigracji możemy doświadczyć tekstów utworów sięgających rodowodem do dwudziestolecia. 
 Nagrania ze Stanów przedostawały się do polski za pośrednictwem pocztówek muzycznych i pożniej kaset magnotofonowych, które sprzedawano podobnie jak te krajowej produkcji na bazarach.
-## Italo Disco i Synthpop
+## Muzyka Disco z Zachodu
+Największy wpływ na rozwój disco polo miała jednak muzyka disco z europy. Artyści tacy jak Modern Talking, C. C. Catch czy Blue System zgromadziły w Polsce lat 80 dużą ilość fanów za pośerednictwem bazarowego piractwa. 
+Niemiecki duet Modern Talking często wymieniani są wśród inspiracji wykonawców disco polo przełomu lat 80 i 90. Zenek Martyniuk przyjaźni się z reszczą do dzisiaj z Thomasem Andersem.
+Oprócz niemców swoją cegiełke inspiracji dołożyli włosi. Italo Disco bo o nim mowa, rozpopularyzowała syntezatorowe brzmienie uzyskane przy pomocy takich syntezatorów jak Roland JX-8P, Roland Juno, Yamahy DX7 oraz automatu perkusyjnego Roland TR 808.
+Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dziennikarz muzyczny, prowadzący audycje *Słuchajmy Razem* na antenie programu II  polskiego radia, który w drugiej połowie lat 80 puszczał słuchaczom nowowydane zachodnie utwory.
+
 
 
 
