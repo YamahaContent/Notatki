@@ -6,6 +6,7 @@ tags:
   - lokalizacja/europa
   - kompozytor/Mozart
   - gatunek/opera
+  - kontekst/rewolucja-francuska
 Typ: Notatka
 ---
 ---
@@ -36,17 +37,20 @@ Opera przedstawia wyraźnie zarysowane trzy warstwy społeczne:
 
 ## **2. Pierwowzór libretta i jego recepcja**
 
-Libretto opery Lorenzo da Pontego powstało na podstawie sztuki "Le Mariage de Figaro" Pierre'a Beaumarchais'go z 1781 roku (wystawionej w 1784). Sztuka spotkała się z krytyką króla Ludwika XVI, który nazwał ją "ohydną" i zakazał jej publicznego wykonania, mówiąc: "To ohydne; nigdy nie pozwolę wystawić tej sztuki; trzeba by zburzyć Bastylię, jeśli wystawienie tej sztuki nie miałoby być groźną niekonsekwencją".
+Libretto opery Lorenzo da Pontego powstało na podstawie sztuki *Le Mariage de Figaro* Pierre'a Beaumarchais'go z 1781 roku (wystawionej w 1784). Sztuka spotkała się z krytyką króla Ludwika XVI, który nazwał ją "ohydną" i zakazał jej publicznego wykonania, mówiąc:
+>[!quote]
+>*To ohydne, nigdy nie pozwolę wystawić tej sztuki. 
+>Trzeba by zburzyć Bastylię, jeśli wystawienie tej sztuki nie miałoby być groźną niekonsekwencją.*
 
 Premiera odbyła się dopiero 27 kwietnia 1784 roku w Comédie Française i wywołała bezprecedensowy skandal. Przed teatrem złamano kordon straży i kratę żelazną, kilka osób uduszono w ścisku. Trzysta osób z wielkiego świata jadło obiad w garderobach aktorek, aby dostać się na salę. Sztuka miała 68 przedstawień niemal jednym ciągiem - liczba olbrzymia na owe czasy.
 
-Napoleon nazwał trylogię Figara "rewolucją w czynie", a Maria Antonina - "okropną sztuką".
+Napoleon nazwał trylogię Figara *rewolucją w czynie*, a Maria Antonina - *okropną sztuką*.
 
 ## **3. Krytyka arystokracji i stosunków społecznych**
 
 Sztuka kwestionowała francuski system klas społecznych, przedstawiając szukającego przyjemności, niekompetentnego szlachcica. Triumf Figara, służącego, nad szlachcicem oznaczał zwycięstwo zdolności nad prawem pierworodztwa.
 
-Mozart i da Ponte musieli usunąć z dramatu najostrzejsze akcenty polityczne na polecenie cesarza Józefa II. Mimo to w operze pozostały fragmenty o dosadnej wymowie, jak pierwsza cavatina Figara "Se vuol ballare" (Gdy zechce Hrabia potańczyć), która jest bezpośrednim wyzwaniem rzuconym władzy arystokratycznej.
+Mozart i da Ponte musieli usunąć z dramatu najostrzejsze akcenty polityczne na polecenie cesarza Józefa II. Mimo to w operze pozostały fragmenty o dosadnej wymowie, jak pierwsza cavatina Figara *Se vuol ballare* (Gdy zechce Hrabia potańczyć), która jest bezpośrednim wyzwaniem rzuconym władzy arystokratycznej.
 
 Społeczna wymowa komedii Beaumarchais otrzymała poprzez mozartowską muzykę wymiar psychologii społecznej. Mozart obdarzył każdą postać indywidualnymi rysami muzycznymi - inna jest charakterystyka śmiałego Figara, brutalnego Hrabiego, rezolutnej Zuzanny czy udręczonej Hrabiny.
 
@@ -60,9 +64,9 @@ Kobiety w operze nie są biernymi ofiarami - same projektują intrygi, podejmuj�
 
 ## **5. Pary bohaterów i ich charakterystyka**
 
-**Figaro i Zuzanna** - młoda para przed ślubem, pełna energii i sprytu, stojąca u progu życia małżeńskiego. Reprezentują "sojusz dusz" i żar młodości.
+**Figaro i Zuzanna** - młoda para przed ślubem, pełna energii i sprytu, stojąca u progu życia małżeńskiego. Reprezentują sojusz dusz i żar młodości.
 
-**Hrabia i Hrabina Almaviva** - małżeństwo po trzech latach związku, w kryzysie. Hrabia jest znudzonym małżeństwem poszukującym "nowych emocji", Hrabina cierpi z powodu utraconej miłości męża.
+**Hrabia i Hrabina Almaviva** - małżeństwo po trzech latach związku, w kryzysie. Hrabia jest znudzonym małżeństwem poszukującym nowych emocji, Hrabina cierpi z powodu utraconej miłości męża.
 
 **Cherubin i Barbarina** - młodzieńcze zauroczenie, niedojrzała miłość.
 
@@ -81,7 +85,7 @@ Jest pierwszym dziełem operowym, w którym odbija się krytyka stosunków społ
 
 ## **7. Elementy opery buffa**
 
-Opera określana jest jako "opera buffa" i zawiera typowe dla tego gatunku elementy:
+Opera określana jest jako opera buffa i zawiera typowe dla tego gatunku elementy:
 
 - **Komizm sytuacyjny** - przebieranki, qui pro quo, ukrywanie się postaci
 - **Szybkie recytatywy** (recitativo secco)
