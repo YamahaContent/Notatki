@@ -12,19 +12,27 @@ Piosenki Brukowe poruszały temat życia miejskiego lub podmiejskiego. Opowiada�
 Melodyka utworów przeważnie była prosta, wpadająca w ucho. Komponowała była przez ulicznych grajków lub zapożyczano ją z kabaretów lub operetek. 
 Przykład:
 https://staremelodie.pl/piosenka/2692/Daj%20mi%20s%C5%82owo
-## Wiejski PRL
+## Muzyka Biesiadna PRLu
 PRL zmonopolizowała sprzęt nagraniowy, co za tym idzie możliwość chałupniczego wydawania muzyki. Regulacje te nie objeły jednak pocztówek, od lat 60 do lat 80 XX wydawano na nich od zdecentralizowanych przyśpiewek ludowych do muzyki zagranicznej. 
-Okres PRL to także promowanie reprezentacyjnych zespołów folklorystycznych takich jak Mazowsze czy Śląsk. Na wsi królowały nadal rubaszne i wulgarne piosenki często z tradycją przedwojenną. Wiejscy muzycy adaptowali utwory tradycyjne na ówczesną modłe. Powstawały aranżacje na instrumenty nie tradycyjne takie jak akordeon, gitara czy w co bogatszych gminach syntezator. 
-Przez działanie nijako w podziemiu, powstało wiele wersji lokalnych, specyficznych dla danego regionu.
+Okres PRL to także promowanie reprezentacyjnych zespołów folklorystycznych takich jak Mazowsze czy Śląsk. Na wsi królowały nadal rubaszne i wulgarne piosenki często z tradycją przedwojenną. Wiejscy muzycy adaptowali utwory tradycyjne na ówczesną modłe. Powstawały aranżacje na instrumenty nie tradycyjne takie jak akordeon, gitara czy w co bogatszych gminach syntezator. Muzyke ta pełniła funkcje użytkową, amatorskie kapele przygrywały często na weselach, dożynkach czy innych zabawach. 
+
+Janusz Laskowski urodzony w 1947 r. na Wileńszczyźnie, Debiutował w latach 60 w zespole Ananasy działającym przy Związkach Zawodowych Kolejarzy w Białymstoku. Jego utwory odniosły wielki sukces i często sprzedawane były na bazarach w formie singli wydawanych półlegalnie na pocztówkach. Według Grzegorza Nawrockiego, dziennikarza i dramaturga 
+>[!quote]
+>Tu wstaw cytat z Polski Bajer str. 26
+
+
+Laskowski wystąpił na festiwalu piosenki w Opolu w 1977 r. z utworem *Kolorowe Jarmarki*, który nie zdobył wysokich nut wśród jurorów ale został wyróżnony Nagrodą Dziennikarzy i Publiczności. W tym samym roku *Kolorowe Jarmarki* zostały wykonane przez Maryle Rodowicz na Międzynarodowym Konkursie Interwizji w Sopocie. Piosenkarka zdobyła nagrode publiczności, a utwór stał się hitem w całym bloku wschodnim. Laskowski został zapomniany, lecz jego utwory odniosły sukces w okresie świetności discopolo, były bowiem często coverowane przez wykonawców discopolowych lat 90.
 
 ## Wpływy Polonii
 Innym ważnym elementem genealogi disco polo, wymienionym przez Anne Kowalczyk są utwory polonii. Po 2 wojnie swiatowej, piosenki ludowe i popularne niedocenione w ojczyźnie, nadal rezonowały z polakami za granicą.
-Wartym wspomnienia jest Mały Władziu, znany także jako Li'l Wally, Władysław Jagiełło.
+Wartym wspomnienia jest Mały Władziu, znany także jako Li'l Wally, Władysław Jagiełło. Działający w latach 60 i 70 XX w. w Chicago tworzył Polonijną wersje muzyki biesiadnej. 
 >[!important]
 >Władysław w 1984r. wystąpił na audiencju u Jana Pawła II z utworem *God Bless our Polish Pope*
 
-Innymi zespołami ze Stanów są: Polskie Orły, Biało-Czerwoni i Boby Vinton. To właśnie Polskie Orły odpowiadają za takie hity jak m.in.: *Cztery razy po dwa razy* czy *Biały Miś*
-Nagrania ze Stanów przedostawały się do polski za pośrednictwem pocztówek muzycznych. 
+W latach 80 popularne stały się zespoły takie jak: Polskie Orły, Biało-Czerwoni i Boby Vinton. To właśnie Polskie Orły odpowiadają za takie hity jak m.in.: *Cztery razy po dwa razy* czy *Biały Miś*
+Nagrania ze Stanów przedostawały się do polski za pośrednictwem pocztówek muzycznych i pożniej kaset magnotofonowych, które sprzedawano podobnie jak te krajowej produkcji na bazarach.
+## Italo Disco i Synthpop
+
 
 
 
