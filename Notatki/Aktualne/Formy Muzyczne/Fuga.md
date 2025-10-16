@@ -64,6 +64,6 @@ Wyróźniamy trzy rodzaje tematów:
 **Temat:** Andamento, taneczny charakter
 ### Fuga XXIV
 ![[Pasted image 20251016123303.png]]
-**Tonacja:** 
+**Tonacja:** A-moll, modulacja do skali 12 stopniowej
 **Melodyka:** Figuracyjna, Chromatyczna
 **Temat:** 
