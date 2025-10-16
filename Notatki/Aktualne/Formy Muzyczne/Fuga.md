@@ -4,6 +4,7 @@ data: 2025-10-09
 tags:
   - "#forma/fuga"
   - techniki/polifonia
+  - kompozytor/Jan-Sebastian-Bach
 Typ: Notatka
 ---
 ---
@@ -32,10 +33,16 @@ Wyróźniamy trzy rodzaje tematów:
 
 **Tonacja:** ?
 **Melodyka:** Diatoniczna, Figuracyjna
-**Temat**: soggetto, składa się z czoła i roziwnięcia. 
+**Temat:** Soggetto, składa się z czoła i roziwnięcia. 
 
 ### J. S. Bach - Fuga VI
 ![[Pasted image 20251016115751.png]]
 **Tonacja:** B-moll
 **Melodyka:** Kantylenowa, ornamentalna
-**Temat:** Soggetto 
+**Temat:** Kwestia dyskusyjna, 
+
+### J. S. Bach - VII
+![[Pasted image 20251016120405.png]]
+**Tonacja:** 
+**Melodyka:** 
+**Temat:** 
