@@ -27,38 +27,38 @@ Wyróźniamy trzy rodzaje tematów:
 - **Soggetto** - temat dwuczęściowy, zawiera czoło i jego ewolucje.  
 - **Andamento** - składa się z czoła, ewolucji i kody.  
 
-# Przykłady 
-### J. S. Bach - Fuga IV
+# Przykłady - Das wohltemperierte Klavier I, BWV 846-869
+### Fuga IV
 ![[Pasted image 20251016114651.png]]
 
 **Tonacja:** ?
 **Melodyka:** Diatoniczna, Figuracyjna
 **Temat:** Soggetto, składa się z czoła i roziwnięcia. 
 
-### J. S. Bach - Fuga VI
+### Fuga VI
 ![[Pasted image 20251016115751.png]]
 **Tonacja:** B-moll
 **Melodyka:** Kantylenowa, ornamentalna
 **Temat:** Kwestia dyskusyjna, 
 
-### J. S. Bach - Fuga VII
+### Fuga VII
 ![[Pasted image 20251016120405.png]]
 **Tonacja:** Es-dur
 **Melodyka:** Ornamentalna, Diatoniczny,  Figuracyjny
 **Temat:** Soggetto
 
-### J. S. Bach - Fuga VIII
+### Fuga VIII
 ![[Pasted image 20251016121051.png]]
 **Tonacja:** Es-moll
 **Melodyka:** Kantylenowa, Diatoniczna
 **Temat:** Attaca?
-### J. S. Bach - Fuga X
+### Fuga X
 ![[Pasted image 20251016121359.png]]
 **Tonacja:** E-moll
 **Melodyka:** Chromatyczna, Figuracyjna
 **Temat:** Soggetto, pochód chromatyczny z zawieszonym e w czolei figuracjami położonymi niżej w drugiej części
-### J. S. Bach - Fuga XV
+### Fuga XV
 ![[Pasted image 20251016122420.png]]
 **Tonacja:** 
-**Melodyka:** 
-**Temat:** 
+**Melodyka:** Diatoniczna, kantylenowa, ornamentyczna
+**Temat:** Andamento, taneczny charakter
