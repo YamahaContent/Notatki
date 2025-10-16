@@ -2,6 +2,9 @@
 przedmiot: Folklor Muzyczny Polski
 data: 2025-10-16
 tags:
+  - gatunek/disco-polo
+  - epoka/wspolczesnosc
+  - lokalizacja/europa/polska
 Typ: Notatka
 ---
 ---
