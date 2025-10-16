@@ -5,3 +5,5 @@ tags:
 Typ: Notatka
 ---
 ---
+# Geneza Disco Polo
+## 
