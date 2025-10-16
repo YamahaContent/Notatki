@@ -3,6 +3,7 @@ przedmiot: Formy Muzyczne
 data: 2025-10-09
 tags:
   - "#forma/fuga"
+  - techniki/polifonia
 Typ: Notatka
 ---
 ---
