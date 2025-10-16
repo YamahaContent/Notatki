@@ -24,7 +24,7 @@ Janusz Laskowski urodzony w 1947 r. na Wileńszczyźnie, Debiutował w latach 60
 Laskowski wystąpił na festiwalu piosenki w Opolu w 1977 r. z utworem *Kolorowe Jarmarki*, który nie zdobył wysokich nut wśród jurorów ale został wyróżnony Nagrodą Dziennikarzy i Publiczności. W tym samym roku *Kolorowe Jarmarki* zostały wykonane przez Maryle Rodowicz na Międzynarodowym Konkursie Interwizji w Sopocie. Piosenkarka zdobyła nagrode publiczności, a utwór stał się hitem w całym bloku wschodnim. Laskowski został zapomniany, lecz jego utwory odniosły sukces w okresie świetności discopolo, były bowiem często coverowane przez wykonawców discopolowych lat 90.
 
 ## Wpływy Polonii
-Innym ważnym elementem genealogi disco polo, wymienionym przez Anne Kowalczyk są utwory polonii. Po 2 wojnie swiatowej, piosenki ludowe i popularne niedocenione w ojczyźnie, nadal rezonowały z polakami za granicą.
+Innym ważnym elementem genealogi disco polo, wymienionym przez Anne Kowalczyk są utwory polonii. Po 2 wojnie swiatowej, piosenki ludowe i popularne niedocenione w ojczyźnie, nadal rezonowały z polakami za granicą. Funkcjonowały one podobnie jak na Polskiej wsi, jednak twórcy emigracyjnej muzyki biesiadnej często mieli dostęp do lepszego sprzętu oraz studiów nagraniowych.
 Wartym wspomnienia jest Mały Władziu, znany także jako Li'l Wally, Władysław Jagiełło. Działający w latach 60 i 70 XX w. w Chicago tworzył Polonijną wersje muzyki biesiadnej. 
 >[!important]
 >Władysław w 1984r. wystąpił na audiencju u Jana Pawła II z utworem *God Bless our Polish Pope*
@@ -35,9 +35,19 @@ Nagrania ze Stanów przedostawały się do polski za pośrednictwem pocztówek m
 Największy wpływ na rozwój disco polo miała jednak muzyka disco z europy. Artyści tacy jak Modern Talking, C. C. Catch czy Blue System zgromadziły w Polsce lat 80 dużą ilość fanów za pośerednictwem bazarowego piractwa. 
 Niemiecki duet Modern Talking często wymieniani są wśród inspiracji wykonawców disco polo przełomu lat 80 i 90. Zenek Martyniuk przyjaźni się z reszczą do dzisiaj z Thomasem Andersem.
 Oprócz niemców swoją cegiełke inspiracji dołożyli włosi. Italo Disco bo o nim mowa, rozpopularyzowała syntezatorowe brzmienie uzyskane przy pomocy takich syntezatorów jak Roland JX-8P, Roland Juno, Yamahy DX7 oraz automatu perkusyjnego Roland TR 808.
+Inną falą inspiracji z zachodu jest New Romantic i Synth Pop. Duran Duran czy Midge Ure świetnie łączyli brzmienie syntezatorów z schematem piosenki popowej oraz tematyką miłosną.
 Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dziennikarz muzyczny, prowadzący audycje *Słuchajmy Razem* na antenie programu II  polskiego radia, który w drugiej połowie lat 80 puszczał słuchaczom nowowydane zachodnie utwory.
+## Muzyka Romska I Bałkańska
+W latach 80 w Rumuni rozwineła się manela. Gatunek ten tworzyli głównie Romowie łącząc ówczesny pop z muzyką tradycyjną. Podobna Sytuacja zachodziła na całych bałkanach, w Bułgarii wykształciła się Czałga mieszająca muzyke tradycyjną Bułgarii, z muzyką Romską oraz wpływów osmańskich; w Serbi i Chorwacji natomiast narodził się turbofolk też łączący tradycje lokalną z zachodnią muzyką dyskotekową. Jest to zjawisko odrębne od disco polo, natomiast u polskich wykonawców można usłyszeć inspiracje bałkańskimi muzykami a co za tym idzie ich folklorem.
+# Właściwe Disco Polo
+Disco Polo można podzielić na kilka fal rozwoju. Od proto disco polo z połowy lat 80 do pierwszej fali działającej w latach 89-
+## Pierwsza Fala Disco Polo
+Działalnośc polskich artystów dyskotekowych przed rokiem 89 jest bardzo skromna. Po stylistyke disco sięgano rzadko, jeśli w ogóle. Wyjątkiem jest formacja Papa Dance, duet dwóch producentów Mariusza Zabrodzkiego i Sławomira Wesołowskiego. Ich twórczość skierowana była do młodzieży szkolnej, muzycy wykożystywali uczniowski żargon i nawiązywali do ówczesnej popkultury. 
+Pierwszymi zespołami disco polowymi które odniosły sukces były Fanatic i Top One. Oby dwa zespoły powstały w podobnym czasie i w podobnym miejscu (kolejno Żyraldów i Ursus) i obydwa odniosły nie mały sukces w pierwszym roku swojej działalności
+### Top One
 
-
+## Blue Star
+Przełomem dla muzyki chodnikowej jak wówczas określano disco polo jest 
 
 
 
