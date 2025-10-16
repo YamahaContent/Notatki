@@ -51,4 +51,9 @@ Wyróźniamy trzy rodzaje tematów:
 ![[Pasted image 20251016121051.png]]
 **Tonacja:** Es-moll
 **Melodyka:** Kantylenowa, Diatoniczna
-**Temat:** 
+**Temat:** Attaca?
+### J. S. Bach - Fuga X
+![[Pasted image 20251016121359.png]]
+**Tonacja:**
+**Melodyka:** Chromatyczna
+**Temat:** Attaca
