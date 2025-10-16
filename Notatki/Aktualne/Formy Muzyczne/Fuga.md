@@ -41,7 +41,7 @@ Wyróźniamy trzy rodzaje tematów:
 **Melodyka:** Kantylenowa, ornamentalna
 **Temat:** Kwestia dyskusyjna, 
 
-### J. S. Bach - VII
+### J. S. Bach - Fuga VII
 ![[Pasted image 20251016120405.png]]
 **Tonacja:** Es-dur
 **Melodyka:** Ornamentalna, Diatoniczny,  Figuracyjny
