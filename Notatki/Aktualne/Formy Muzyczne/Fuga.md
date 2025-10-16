@@ -19,6 +19,7 @@ Fuga spełnia cechy
 Melodia poddawana przekształceniu podczas trwania utworu. Rozpoczyna fuge. Stanowi podstawe konstrukcyjną dla formy.
 ## Cechy Tematu
 Cechuje go zazwyczaj ciągłość ewolucyjna (naturalne rozwijanie się). Temat musi być charakterystyczny pod względem rytmiki i melodyki. Zazwyczaj zanyczna się i kończy na tonice. Melodyka kantylenowa (eksponują czynnik melodia) lub figuracyjna (ruch).
+Melika może chromatyczna lub diatoniczna.
 ## Rodzaje Tematu
 Wyróźniamy trzy rodzaje tematów:
 - **Attaca** - temat krótki, jednoczęściowy
