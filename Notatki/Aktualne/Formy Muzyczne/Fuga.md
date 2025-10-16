@@ -30,8 +30,12 @@ Wyróźniamy trzy rodzaje tematów:
 ### J. S. Bach - Fuga IV
 ![[Pasted image 20251016114651.png]]
 
+Tonacja: D
+**Melodyka:** Diatoniczna, Figuracyjna
 **Temat**: soggetto, składa się z czoła i roziwnięcia. 
-**Ambitus:** Seksta Wielka
-**Melodia:** Diatoniczna,  Figuracyjna
 
-### J. S. Bach - Fuga 
+### J. S. Bach - Fuga VI
+![[Pasted image 20251016115751.png]]
+**Tonacja:** B-moll
+**Melodyka:** Kantylenowa, ornamentalna
+**Temat:** Soggetto 
