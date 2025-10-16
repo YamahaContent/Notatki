@@ -54,6 +54,6 @@ Wyróźniamy trzy rodzaje tematów:
 **Temat:** Attaca?
 ### J. S. Bach - Fuga X
 ![[Pasted image 20251016121359.png]]
-**Tonacja:**
-**Melodyka:** Chromatyczna
-**Temat:** Attaca
+**Tonacja:** E-moll
+**Melodyka:** Chromatyczna, Figuracyjna
+**Temat:** Soggetto, pochód chromatyczny z zawieszonym e w czole, 
