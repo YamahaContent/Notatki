@@ -17,7 +17,7 @@ W praktyce mówiono o śpiewie **Cantus**.
 Śpiew dzilono na *Cantus Planus* (śpiew równy) i *Canus Mensurabilis* (śpiew menzuralny/rytmizowany). 
 Każdy z tych śpiewów mógł dzielić się na kolejno *simplex* (śpiew jednogłosowy) lub *multiplex* (śpiew wielogłosowy).
 
-# Źródła
+# Źródła *Cantus Mensurabilis Multiplex*
 ## Kazania Świętokrzyskie 
 
 Rękopis z początku XIV wieku. Najstarszy zabytek polskiej prozy. Odnalezione w postaci 13 pasków które sklejały inne dokumenty. 
@@ -63,3 +63,6 @@ Zawiera też utwór **Piotra z Grudziądza** *Probitate eminentem*.
 Wielki zbiór datowany na 1480 zawierający 260 utworów takich twórców jak m.in.: Ockghema, 
 Zachował się też *Probitate eminentem (II/7)* Piotra z Grudziądza.
 
+# Źródła *Cantus Plantus Multiplex*
+## Wn 201 Wn 202
+Zawirają dwie części Mszalne Sanctus i Agnus Dei. 
