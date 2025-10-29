@@ -31,6 +31,8 @@ Aria Cara Sposa Rinalo Heandla, wpisuję się w ten schamat. Część A, utrzyma
 Hartley podważa model Kartezjański, w szczególności wrodzoność afektów. Hartley odchodzi też od koncepcji 6 afektów, proponuje iż afekty mają charakter płynny, trudno je opisać oraz rozpoznań. Afekty rodzą się w zależności bodźców zewnętrznych. 
 Myśl Hartleyowska podobnie jak Kartezjańska oddziaływała w zakresie muzyki. Pierwszym teoretykiem odwołującym sie do Hartleya był Johan Georg Sulzer ([[Johan Georg Sulzer, Allgemeine Theorie der Schönen Künste]]). 
 ## Forma Sonatowa
+
+[[Klasyczna forma sonatowa]]
 Już w latach 70 XVIII wieku myśl Hartleyowska jest stosowana przez kompozytorów. Przejawem tego jest forma sonatowa, składająca się z 2 lub więcej tematu, połączonych łącznikiem.
 Taka koncepcia pojawia się w Don Giovanni autorstwa Mozarta. Najpierw pojawia się aria jednoafektowa (żal służącego), następnie pojawia się złość (kłótnia San Giovaniego z Donną Anną) zakończona punktem kulminacyjnym (śmiercią Komandora). Afekty zmieniają się płynnie, wraz z eskalacją akcji opery. 
  
