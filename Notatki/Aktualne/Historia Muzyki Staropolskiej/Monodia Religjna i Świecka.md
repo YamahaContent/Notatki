@@ -98,12 +98,23 @@ Polskie pieśni religijne zrodziły się na podłożu łacińskich śpiewów (g�
 ## Bogurodzica
 Bogurodzica owiana jest do dzisiaj wieloma niedopowiedzami, nie udało się ustalić definitywnego czasu i miejsca postwania, autora oraz związku z liturgią czy ewentualną zależność od wzorów obcych.
 
-Samo zadatowanie utworu nie jest pewne wg. niektórych źródeł Bogurodzica może pochodzić z XIII, XII lub nawet XI wieku. Na ogół uznaje się date ok. 1300 roku. 
-Najdawniejsza tradyce przypisywała autorstwo 
+Samo zadatowanie utworu nie jest pewne wg. niektórych źródeł Bogurodzica może pochodzić z XIII, XII lub nawet XI wieku. Na ogół uznaje się date ok. 1300 roku. Najdawniejsza tradyce przypisywała autorstwo św. Wojciechowi. 
 
+### Tekst
+Najstarsze dwie zwrotki to pieśń o charakterze wstawienniczo-modlitewnym.
+W pierwszej zwrotce wierni zwracają się do Maryi jako Bożej Rodzicielki. W drugiej wierni zwracają się do Chrystusa z powołaniem się na św. Jana Chrzciciela o usłyszenie ludzkich głosów, wysłuchanie modlitw oraz o dar pobożnego życia na ziemi i wiecznego zbawienia.
+
+### Zachowane Wersje
+Łącznie zachowało się 17 kopi Bogurodzicy. Najstarsze zachowane do dzisiaj źródło Bogurodzicy datowane jest na 1408 rok, pochodzi z Kycina k. Gniezna. Zapisane jest w zbiorze łacińskich kazan skopiowanych przez Macieja z Grochowa, wikariusza w Kcyni. Dwie pierwsze zwrotki zapisane są bardzo poprawnym zapisem muzycznym co może wskazywać na doświadczenie kantora.
+Drugi przekaz datowany jest na 1409-1420 i pochodzi z Krakowa, zawiera 13 zwrotek, przekaz ten stał się podstawą dla późniejszych kopii.
+### Forma
+Stylistycznie nie stanowi całości, utwór jest konglomeratem różnorodnych składników.
+Bogorodzice można podzielić na trzy części:
+1. Część Archaiczną - właściwą Bogurodzice 1-2 zwrotki, tonacja dorycka (gdzie późniejsze dodatki napisane są w odmiennych tonacjach.)
+2. Część Wielkanocna - zwrotki 3-6
+3. Część Pasyjna - zwrotki 7-15
 Bourodzica zainspirował motyw Deesis. Wskazuje na to mowa o Jezusie, Marii oraz Janie Chrzcicielu.
 
-Najstarsze zachowane do dzisiaj źródło Bogurodzicy datowane jest na 1407 rok.
 
 
 ## Inne Pieśni Polskie
