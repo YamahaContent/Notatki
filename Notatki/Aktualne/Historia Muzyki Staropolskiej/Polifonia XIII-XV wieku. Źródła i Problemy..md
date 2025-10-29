@@ -64,5 +64,12 @@ Wielki zbiór datowany na 1480 zawierający 260 utworów takich twórców jak m.
 Zachował się też *Probitate eminentem (II/7)* Piotra z Grudziądza.
 
 # Źródła *Cantus Plantus Multiplex*
-## Wn 201 Wn 202
-Zawirają dwie części Mszalne Sanctus i Agnus Dei. 
+**StS 3 (ok. 1300-1350)** - 2 x Benedicamus Domino (2 gł.)
+**StS 4 (ok. 1300)** – trop. do Benedicamus Domino
+**StS 4 (ok. 1300)** - Jube domne benedicere (2 gł. tropowana lekcja bożonarodz.)
+**Kklar 205 (ok. 1350)** - Surrexit cristus hodie (2- i 3- gł.)
+**Kklar 2 (ok. 1400)** – cantus planus binatim + sekw. Adama Śwonki (O pewnym mruknięciu)
+**Wn 201** (ok. 1440, tylko fotokopia!) - organalne Sanctus-Agnus (Sieciechowskie)
+**Tm** - organalne Jesus Cristus nostra salus (2 gł.)
+**Kk 235 + Ka 1706** – organalne Liber generationis (3- i 4-gł.)
+i wiele innych

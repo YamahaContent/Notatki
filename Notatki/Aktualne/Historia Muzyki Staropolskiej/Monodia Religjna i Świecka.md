@@ -79,6 +79,9 @@ Syn Mieszka II książe Kazimierz Odnowiciel (1016 - 1058) zmuszony byl przenie�
 # Lokalne Nacechowanie
 Z okazji kanonizacji świętych poeci tworzyli teksty liturgiczne, a następnie do tekstów tych komporzytorzy opracowywali melodie - pisali nowe lub adaptowali już istniejące.
 ## Winceny z Kielcz
+
+^d73ddc
+
 Pierwszy znany z imienia polski kompozytor. Żyjący w pierwszej połowie XIII wieku. Twórca *Gaude Mater Polonia* i *Źywotów św. Stanisława*. 
 Żywoty św. Stanisława są oficium rymowanym składające się z 34 utworów, głównie antyfon, responsorów i hymnów. Drugą antyfoną jest *Ortus de Polonia Stanislaus*, wspominający w tekscie Polske.
 
@@ -113,9 +116,11 @@ Bogorodzice można podzielić na trzy części:
 1. Część Archaiczną - właściwą Bogurodzice 1-2 zwrotki, tonacja dorycka (gdzie późniejsze dodatki napisane są w odmiennych tonacjach.)
 2. Część Wielkanocna - zwrotki 3-6
 3. Część Pasyjna - zwrotki 7-15
-Bourodzica zainspirował motyw Deesis. Wskazuje na to mowa o Jezusie, Marii oraz Janie Chrzcicielu.
-
-
+Melodia zwrotki 1-2 oparta jest na kombinacji czterech fraz (dorycka, z elementami pentatoniki), przypuszczalnie została napisana przez jednego kantora.
+### Tekst
+Tekst zawiera wiele archaizmów. Powstał wcześniej niż Kazania świętokrzyskie (przed pocz. XIV w.). Tekst jest przemieszany reminiscencyjnie - bizantyjsko-greckie, cerkiewno-słowiańskie oraz łacińskie.
+Motywy Bogurodzicy są pokrewne z hymnografią **grecko-bizantyjską**, albo bezpośrednio z tradycją **cerkwnosłowiańskiej**. 
+Występuje wyrazista analogia z ikonografią bizantyjską, przejawiająca się w wykorzystaniu motywu *Deesis*. 
 
 ## Inne Pieśni Polskie
 ### Pieśni Religijne
@@ -127,8 +132,11 @@ Używało jej wojsko krzyżackie.
 Pieśni opowiadające o pasji Jezusa.
 Jezusa Judasz przedał - Napisane w 1488 r przez. W renesansie opracowaną tą melodie na 4 glosy
 ### Bożonarodzeniowe
+Pieśni pisane na okazje bożegonarodzenia. M.in. *Zdrow bądź, krolu anjelski* datowane na 1424r. 
 ### Maryjne
+Pieśni pisane na święta Maryjne. *Maryja, czysta dziewice* z XIV w.
 ### Sekwencja
+[[Monodia Religjna i Świecka#^d73ddc|Wincenty z Kielcz]]
 
 
 
