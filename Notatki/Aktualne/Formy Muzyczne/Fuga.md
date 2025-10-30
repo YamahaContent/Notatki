@@ -26,6 +26,10 @@ Wyróźniamy trzy rodzaje tematów:
 - **Attaca** - temat krótki, jednoczęściowy
 - **Soggetto** - temat dwuczęściowy, zawiera czoło i jego ewolucje.  
 - **Andamento** - składa się z czoła, ewolucji i kody.  
+# Odpowiedź 
+Odpowiedz to powtórzenie tematu w drugim głosie po ekspozycji tematu w pierwszym głosie. 
+## Rodzaje Odpowiedzi
+Wyróżnia się dwa rodzaje odpowiedzi, realną i tonalną. Odpowiedz realna zachowuje interwały, tonalna nie.
 
 # Przykłady - Das wohltemperierte Klavier I, BWV 846-869
 ### Fuga IV
