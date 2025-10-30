@@ -5,6 +5,7 @@ tags:
 Typ: Notatka
 ---
 ---
+Marc minkowski - gluck odsluch
 # Johan Georg Sulzer i  Allgemeine Theorie der Schönen Künste
 Johann Georg Sulzer (1720-1779) był szwajcarskim profesorem matematyki, który później zajął się badaniami nad elektrycznością. Urodził się 16 października 1720 roku w Winterthur, zmarł 27 lutego 1779 roku w Berlinie.
 
