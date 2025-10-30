@@ -5,7 +5,6 @@ tags:
 Typ: Notatka
 ---
 ---
-
 # Muzyka Ludowa
 Historyczne	pojęcie	obejmujące muzykę przekazywanąu stnie. Dziś	
 często	używane	
