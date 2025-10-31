@@ -40,6 +40,9 @@ Wachcińska O., *Disco polo kontynuacją folkloru? Rozwój muzyki chodnikowej i 
 
 
 
+---
+# Czym jest disco polo
+
 # Geneza
 ## Piosenki Brukowe - Folklor Miejski
 Annna Kowalczyk etnolog w artykule dla "Wiedza i życie" z września 1997 r. dopatruję się począktów discopolo w Piosenkach Brukowych, Podwórzowych lub Ulicznych. 
@@ -74,6 +77,8 @@ Inną falą inspiracji z zachodu jest New Romantic i Synth Pop. Duran Duran czy 
 Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dziennikarz muzyczny, prowadzący audycje *Słuchajmy Razem* na antenie programu II  polskiego radia, który w drugiej połowie lat 80 puszczał słuchaczom nowowydane zachodnie utwory.
 ## Muzyka Romska I Bałkańska
 W latach 80 w Rumuni rozwineła się manela. Gatunek ten tworzyli głównie Romowie łącząc ówczesny pop z muzyką tradycyjną. Podobna Sytuacja zachodziła na całych bałkanach, w Bułgarii wykształciła się Czałga mieszająca muzyke tradycyjną Bułgarii, z muzyką Romską oraz wpływów osmańskich; w Serbi i Chorwacji natomiast narodził się turbofolk też łączący tradycje lokalną z zachodnią muzyką dyskotekową. Jest to zjawisko odrębne od disco polo, natomiast u polskich wykonawców można usłyszeć inspiracje bałkańskimi muzykami a co za tym idzie ich folklorem.
+---
+---
 # Właściwe Disco Polo
 Disco Polo można podzielić na kilka fal rozwoju. Od proto disco polo z połowy lat 80 do pierwszej fali działającej w latach 89-
 ## Pierwsza Fala Disco Polo
