@@ -8,40 +8,9 @@ tags:
 Typ: Notatka
 ---
 ---
-# Literatura
-Bagińska-Oleniacz M., *Dyskoteka jako nowa wersja "pastwiska"? Rzecz o niektórych zachowaniach wspólnotowych młodzierzy*, Rocznik Pedagogiczny 1999, t. 22 s. 143-157 - brak
 
-Waliński M., *Mały Władzio i inni. Czy istnieje folklor polonijny? Przegląd Prasy (1 VII - 31 VIII)*, "Literatura Ludowa. Miesięcznik naukowo-literacki", 1977, nr 6, s. 62-76 - Brak
-
-Koczanowski L., *Postkomunizm i muzyka pop. Zniszczenie czy odbudowa pamięci w Disco polo*, w: *idem, Polityka czasu. Dynamika tożsamościowa w postkomunistycznej Polsce*, DSW, Wrocław 2009. - Brak
-
----
-
-Bieńkowski A., *Ostatni wiejscy muzykańci, Muzyka Odnaleziona*, Mazowieckie Centrum Kultury i Sztuki, Narodowe Centrum Kultury, Warszawa 2012 - Biblioteka Collegium Historicum
-
-Dabert K., *Krótka Historia disco polo*, "Zeszyt Etnologii Wrocławskiej", 2002, nr 1 (4), s. 57-70 - Biblioteka Collegium Historicum
-
-Donnerstag B., *Na romską nutę. Disco-polo i powrót do tradycji*, Dialog-Pheniben 1999, nr. 2, s. 9-11 - Biblioteka Collegium Historicum
-
-Wężowicz-Ziółkowska D., *Miłość ludowa. Wzory miłości wieśniaczej w polskiej pieśni ludowej XVIII-XX wieku*, Polskie Towarzystwo Ludoznawcze, Wrocław 1991. - Biblioteka Collegium Historicum
-
-Woźniak Z. *Fenomen disco polo i jego miejsce w polskiej kulturze lat dziewięćdziesiątych*, "Etnografia Polska" 1998, nr 1-2, s. 187-203. - Biblioteka Collegium Historicum
-
----
-
-Kołodziejek E. *Repertuar polonijnego zespołu folklorystycznego (na podstawie nagrań płytowych Małego Władzia z Chicago)*, "Przegląd Zachodniopomorski" 1977, z 1-2, s. 97-111 - Biblioteka UAM Ratajczaka
-
-Piotrowska A. G., *Od Carmen po cygańskie disco polo. Mit cygański w kulturze muzycznej Europy nowożytnej*, "Przegląd Narodowościowy - Review of Nationalities", 2014, nr. 3, s. 105-114. - Biblioteka UAM Ratajczaka
-
----
-
-Wachcińska O., *Disco polo kontynuacją folkloru? Rozwój muzyki chodnikowej i jej charakterystyka w kontekście rodzimej twórczości ludowej*, "Warmińsko-Mazurski Kwartalnik Naukowy. Nauki Społeczne" 2013, nr. 3m s 87-102. - Online
-
-
-
-
----
 # Czym jest disco polo
+
 
 # Geneza
 ## Piosenki Brukowe - Folklor Miejski
@@ -77,7 +46,7 @@ Inną falą inspiracji z zachodu jest New Romantic i Synth Pop. Duran Duran czy 
 Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dziennikarz muzyczny, prowadzący audycje *Słuchajmy Razem* na antenie programu II  polskiego radia, który w drugiej połowie lat 80 puszczał słuchaczom nowowydane zachodnie utwory.
 ## Muzyka Romska I Bałkańska
 W latach 80 w Rumuni rozwineła się manela. Gatunek ten tworzyli głównie Romowie łącząc ówczesny pop z muzyką tradycyjną. Podobna Sytuacja zachodziła na całych bałkanach, w Bułgarii wykształciła się Czałga mieszająca muzyke tradycyjną Bułgarii, z muzyką Romską oraz wpływów osmańskich; w Serbi i Chorwacji natomiast narodził się turbofolk też łączący tradycje lokalną z zachodnią muzyką dyskotekową. Jest to zjawisko odrębne od disco polo, natomiast u polskich wykonawców można usłyszeć inspiracje bałkańskimi muzykami a co za tym idzie ich folklorem.
----
+
 ---
 # Właściwe Disco Polo
 Disco Polo można podzielić na kilka fal rozwoju. Od proto disco polo z połowy lat 80 do pierwszej fali działającej w latach 89-
@@ -91,3 +60,37 @@ Przełomem dla muzyki chodnikowej jak wówczas określano disco polo jest
 
 
 
+
+# Literatura
+Bagińska-Oleniacz M., *Dyskoteka jako nowa wersja "pastwiska"? Rzecz o niektórych zachowaniach wspólnotowych młodzierzy*, Rocznik Pedagogiczny 1999, t. 22 s. 143-157 - brak
+
+---
+
+Bieńkowski A., *Ostatni wiejscy muzykańci, Muzyka Odnaleziona*, Mazowieckie Centrum Kultury i Sztuki, Narodowe Centrum Kultury, Warszawa 2012 - Biblioteka Collegium Historicum
+
+Dabert K., *Krótka Historia disco polo*, "Zeszyt Etnologii Wrocławskiej", 2002, nr 1 (4), s. 57-70 - Biblioteka Collegium Historicum
+
+Donnerstag B., *Na romską nutę. Disco-polo i powrót do tradycji*, Dialog-Pheniben 1999, nr. 2, s. 9-11 - Biblioteka Collegium Historicum
+
+Wężowicz-Ziółkowska D., *Miłość ludowa. Wzory miłości wieśniaczej w polskiej pieśni ludowej XVIII-XX wieku*, Polskie Towarzystwo Ludoznawcze, Wrocław 1991. - Biblioteka Collegium Historicum
+
+Woźniak Z. *Fenomen disco polo i jego miejsce w polskiej kulturze lat dziewięćdziesiątych*, "Etnografia Polska" 1998, nr 1-2, s. 187-203. - Biblioteka Collegium Historicum
+
+---
+
+Kołodziejek E. *Repertuar polonijnego zespołu folklorystycznego (na podstawie nagrań płytowych Małego Władzia z Chicago)*, "Przegląd Zachodniopomorski" 1977, z 1-2, s. 97-111 - Biblioteka UAM Ratajczaka
+
+Piotrowska A. G., *Od Carmen po cygańskie disco polo. Mit cygański w kulturze muzycznej Europy nowożytnej*, "Przegląd Narodowościowy - Review of Nationalities", 2014, nr. 3, s. 105-114. - Biblioteka UAM Ratajczaka
+
+Koczanowski L., *Postkomunizm i muzyka pop. Zniszczenie czy odbudowa pamięci w Disco polo*, w: *idem, Polityka czasu. Dynamika tożsamościowa w postkomunistycznej Polsce*, DSW, Wrocław 2009. - biblioteka Ratajczaka
+
+Waliński M., *Mały Władzio i inni. Czy istnieje folklor polonijny? Przegląd Prasy (1 VII - 31 VIII)*, "Literatura Ludowa. Miesięcznik naukowo-literacki", 1977, nr 6, s. 62-76 - Biblioteka UAM Ratajczaka
+
+---
+
+Wachcińska O., *Disco polo kontynuacją folkloru? Rozwój muzyki chodnikowej i jej charakterystyka w kontekście rodzimej twórczości ludowej*, "Warmińsko-Mazurski Kwartalnik Naukowy. Nauki Społeczne" 2013, nr. 3m s 87-102. - Online
+
+
+
+
+---
