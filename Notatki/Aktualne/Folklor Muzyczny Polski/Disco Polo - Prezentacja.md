@@ -9,9 +9,6 @@ Typ: Notatka
 ---
 ---
 
-# Czym jest disco polo
-
-
 # Geneza
 ## Piosenki Brukowe - Folklor Miejski
 Annna Kowalczyk etnolog w artykule dla "Wiedza i życie" z września 1997 r. dopatruję się począktów discopolo w Piosenkach Brukowych, Podwórzowych lub Ulicznych. 
@@ -49,7 +46,7 @@ W latach 80 w Rumuni rozwineła się manela. Gatunek ten tworzyli głównie Romo
 
 ---
 # Właściwe Disco Polo
-Disco Polo można podzielić na kilka fal rozwoju. Od proto disco polo z połowy lat 80 do pierwszej fali działającej w latach 89-
+Disco polo rozwineło się na początku lat 90
 ## Pierwsza Fala Disco Polo
 Działalnośc polskich artystów dyskotekowych przed rokiem 89 jest bardzo skromna. Po stylistyke disco sięgano rzadko, jeśli w ogóle. Wyjątkiem jest formacja Papa Dance, duet dwóch producentów Mariusza Zabrodzkiego i Sławomira Wesołowskiego. Ich twórczość skierowana była do młodzieży szkolnej, muzycy wykożystywali uczniowski żargon i nawiązywali do ówczesnej popkultury. 
 Pierwszymi zespołami disco polowymi które odniosły sukces były Fanatic i Top One. Oby dwa zespoły powstały w podobnym czasie i w podobnym miejscu (kolejno Żyraldów i Ursus) i obydwa odniosły nie mały sukces w pierwszym roku swojej działalności
