@@ -84,8 +84,8 @@ Na ich łamac czytelnicy mogli zapoznać się z wywiadami, reportaże z nowych d
 Popularność disco polo odbiła się także na wesołą działalność polskich prywaciarzy lat 90. Firma J. B. Cosmetics wyprodukowała dezodorant "I love disco polo". 
 ### Wieki Ciemne i Odrodzenie
 Począwszy od 97 disco polo traci na popularności, z trzech czasopism pozostaje tylko *Disco Hit*. W 2002 roku polsat przestaje emitować disco relax oraz disco polo live. Spadła także sprzedaż kaset i płyt CD, przez co zespoły zaczeły popadać w problemy finansowe. Na popularności zaczeły zyskiwać zespoły satyryczne takie jak Bracia Figo Fagot Walaszka.
-Powrotem disco polo do dawnej popularności jest utwór "Ona Tańczy dla mnie" zespołu wekend wydana w połowie 2012 roku. Po pół roku piosenka osiągneła dwadzieścia milionów wyświetleń, a aktualnie liczba odsłon teledysku wynosi około 150 milionów
-
+Powrotem disco polo do dawnej popularności jest utwór "Ona Tańczy dla mnie" zespołu wekend wydana w połowie 2012 roku. Po pół roku piosenka osiągneła dwadzieścia milionów wyświetleń, a aktualnie liczba odsłon teledysku wynosi około 150 milionów.
+Od 2012 disco polo funkcjonuje w swoistej bańce słuchaczy stworzonej za pośrednictwem mediów społecznościowych. Niektóre utwory przebijają się jednak do szerszego grona słuczaczy. Warto tutaj wspomnieć o "Miłość w Zakopanem", czy ostatnim numerze Zenka Martyniuka "Mandacik" oraz karierze Skolima.
 
 # Literatura
 Bagińska-Oleniacz M., *Dyskoteka jako nowa wersja "pastwiska"? Rzecz o niektórych zachowaniach wspólnotowych młodzierzy*, Rocznik Pedagogiczny 1999, t. 22 s. 143-157 - brak
