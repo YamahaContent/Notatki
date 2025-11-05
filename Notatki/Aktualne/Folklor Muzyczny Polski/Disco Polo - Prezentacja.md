@@ -47,15 +47,18 @@ Dokończyć
 
 ---
 # Właściwe Disco Polo
-## Pierwsza Fala Disco Polo
+## Pierwsza Fala Muzyki Chodnikowej
 Działalnośc polskich artystów dyskotekowych przed rokiem 89 jest bardzo skromna. Po stylistyke disco sięgano rzadko, jeśli w ogóle. Wyjątkiem jest formacja Papa Dance, duet dwóch producentów Mariusza Zabrodzkiego i Sławomira Wesołowskiego. Ich twórczość skierowana była do młodzieży szkolnej, muzycy wykożystywali uczniowski żargon i nawiązywali do ówczesnej popkultury. 
 Pierwszymi zespołami disco polowymi które odniosły sukces były Fanatic i Top One. Oby dwa zespoły powstały w podobnym czasie i w podobnym miejscu (kolejno Żyraldów i Ursus) i obydwa odniosły nie mały sukces w pierwszym roku swojej działalności
 Początki muzyki discopolowej trudno jednak ustalić wiele zespołów które w ostatniej dekadzie XX wieku osiągneło sukces na chodnikowym poletku, z początku grało muzyke biesiadną w lokalnych społecznościach, a dopiero później odniosło większy sukces.
 
-## Blue Star
+## Gwiazdy Dwie
 Przełomem dla muzyki chodnikowej jak wówczas określano disco polo jest 
 założenie przez Sławomira Skręte firmy fonograficznej Blue Star w 1990 (**właściwie to nie wiadomo kiedy Blue Star powstał, Monika Borys w "Polskim Bajerze" podaje rok 93 [chyba najbardziej prawdobodobnie], Olga Wachcinska w pracy "Disco Polo Kontunuacją Folkloru?" rok 90, a "Leksykon Disco Polo i muzyki tanecznej" autorstwa Milana Budzińskiego 91**) roku. 
-Skręta rozpoczął swoją działaność rozprowadzając początkowo kasety Fanatica na warszawskich bazarach. Po ogromnym sukcesie Fanatica 
+Skręta rozpoczął swoją działaność rozprowadzając początkowo kasety Fanatica na warszawskich bazarach. Po ogromnym sukcesie Fanatica zespoły chodnikowe z stolicy i okolic same zaczęły zgłaszać się do Skręty z prośbami o wydanie płyt.
+Muzyków z regionu białostockiego sprowadza do Blue Stara Jerzy Suszycki, który postanawia założyć własną wytwórnie w 94/95 roku (znowu rozbierzność dat Budziński podaje 94, a Wachcińska 95.). Grenn Star odpowiada za większość zespołów pochodzących z Podlasia w tym m.in.: Akcentu, Boys czy Milano.
+
+## 
 
 
 
