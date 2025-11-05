@@ -27,6 +27,8 @@ Janusz Laskowski urodzony w 1947 r. na Wileńszczyźnie, Debiutował w latach 60
 
 Laskowski wystąpił na festiwalu piosenki w Opolu w 1977 r. z utworem *Kolorowe Jarmarki*, który nie zdobył wysokich nut wśród jurorów ale został wyróżnony Nagrodą Dziennikarzy i Publiczności. W tym samym roku *Kolorowe Jarmarki* zostały wykonane przez Maryle Rodowicz na Międzynarodowym Konkursie Interwizji w Sopocie. Piosenkarka zdobyła nagrode publiczności, a utwór stał się hitem w całym bloku wschodnim. Laskowski został zapomniany, lecz jego utwory odniosły sukces w okresie świetności discopolo, były bowiem często coverowane przez wykonawców discopolowych lat 90.
 
+
+
 ### Wpływy Polonii
 Innym ważnym elementem genealogi disco polo, wymienionym przez Anne Kowalczyk są utwory polonii. Po 2 wojnie swiatowej, piosenki ludowe i popularne niedocenione w ojczyźnie, nadal rezonowały z polakami za granicą. Funkcjonowały one podobnie jak na Polskiej wsi, jednak twórcy emigracyjnej muzyki biesiadnej często mieli dostęp do lepszego sprzętu oraz studiów nagraniowych.
 Wartym wspomnienia jest Mały Władziu, znany także jako Li'l Wally, Władysław Jagiełło. Działający w latach 60 i 70 XX w. w Chicago tworzył Polonijną wersje muzyki biesiadnej. 
@@ -35,17 +37,23 @@ Wartym wspomnienia jest Mały Władziu, znany także jako Li'l Wally, Władysła
 
 W latach 80 popularne stały się zespoły takie jak: Polskie Orły, Biało-Czerwoni i Boby Vinton. To właśnie Polskie Orły odpowiadają za takie hity jak m.in.: *Cztery razy po dwa razy* czy *Biały Miś*. To za sprawą polskich zespołów na emigracji możemy doświadczyć tekstów utworów sięgających rodowodem do dwudziestolecia. 
 Nagrania ze Stanów przedostawały się do polski za pośrednictwem pocztówek muzycznych i pożniej kaset magnotofonowych, które sprzedawano podobnie jak te krajowej produkcji na bazarach.
+
+
 ### Muzyka Disco z Zachodu
 Największy wpływ na rozwój disco polo miała jednak muzyka disco z europy. Artyści tacy jak Modern Talking, C. C. Catch czy Blue System zgromadziły w Polsce lat 80 dużą ilość fanów za pośerednictwem bazarowego piractwa. 
 Niemiecki duet Modern Talking często wymieniani są wśród inspiracji wykonawców disco polo przełomu lat 80 i 90. Zenek Martyniuk przyjaźni się z reszczą do dzisiaj z Thomasem Andersem.
 Oprócz niemców swoją cegiełke inspiracji dołożyli włosi. Italo Disco bo o nim mowa, rozpopularyzowała syntezatorowe brzmienie uzyskane przy pomocy takich syntezatorów jak Roland JX-8P, Roland Juno, Yamahy DX7 oraz automatu perkusyjnego Roland TR 808.
 Inną falą inspiracji z zachodu jest New Romantic i Synth Pop. Duran Duran czy Midge Ure świetnie łączyli brzmienie syntezatorów z schematem piosenki popowej oraz tematyką miłosną.
 Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dziennikarz muzyczny, prowadzący audycje *Słuchajmy Razem* na antenie programu II  polskiego radia, który w drugiej połowie lat 80 puszczał słuchaczom nowowydane zachodnie utwory.
+
+
 ### Muzyka Romska I Wpływy Wschodnie
 >[!important]
 Dokończyć
 
 ---
+
+
 ## Właściwe Disco Polo
 ### Pierwsze Disco Polo
 Działalnośc polskich artystów dyskotekowych przed rokiem 89 jest bardzo skromna. Po stylistyke disco sięgano rzadko, jeśli w ogóle. Wyjątkiem jest formacja Papa Dance, duet dwóch producentów Mariusza Zabrodzkiego i Sławomira Wesołowskiego. Ich twórczość skierowana była do młodzieży szkolnej, muzycy wykożystywali uczniowski żargon i nawiązywali do ówczesnej popkultury. 
@@ -59,14 +67,21 @@ Skręta rozpoczął swoją działaność rozprowadzając początkowo kasety Fana
 Muzyków z regionu białostockiego sprowadza do Blue Stara Jerzy Suszycki, który postanawia założyć własną wytwórnie w 94/95 roku (znowu rozbierzność dat Budziński podaje 94, a Wachcińska 95.). Grenn Star odpowiada za większość zespołów pochodzących z Podlasia w tym m.in.: Akcentu, Boys czy Milano.
 ### Gala Piosenki Chodnikowej
 W sobote 29 lutego 1992 roku w Sali Kongresowej w Warszawskim Pałacu Kultury i Nauki odbyła się I Gala Piosenki Popularnej i Chodnikowej. Gala jest ważnym momentem dla Polskiej Muzyki Tanecznej. 
-Wydażenie zostało zorganizowane przez TVP 2 i poczęści przez Sławomira Skręte, a kierownikiem muzycznym był Jarosław Kukulski (kompozytor, jazzman, absolwent poznanskiej akademi muzycznej). Całość wyreżysterował Krzysztof Jaślara, odpowiedzalny wczesniej głównie za programy kabaretowe. Prowadzącym został Janusz Weiss, który często w uszczypliwy sposób zapowiadał niedoświadczone zespoły
+Wydażenie zostało zorganizowane przez TVP 2 i poczęści przez Sławomira Skręte, a kierownikiem muzycznym był Jarosław Kukulski (kompozytor, jazzman, absolwent poznanskiej akademi muzycznej). Całość wyreżysterował Krzysztof Jaślara, odpowiedzalny wczesniej głównie za programy kabaretowe. 
 Na gali wsytąpili m.in.: Top One, Fanatic, Atlantis, Crazy Boys (z Martyniukiem), Chorus i inni. 
-Oprócz występów na żywo z playbacku zostały puszczone m.in. Biały Miś oraz Mydełko Fa. 
+Oprócz występów na żywo z playbacku zostały puszczone m.in. Biały Miś oraz Mydełko Fa.
 Gala okazała się wielkim sukcesem, sala kongresowa w niedługim czasie została zapełniona, a fani zjeżdzali się z całego kraju. Słuchaczy było na tyle dużo że po oficjalnej częsci wydarzenia na prętce zorganizowano drugi kocert dla osób którym nie udało się dostać na pierwszy występ.
 
-Gala Piosenki Chodnikowej idealnie opisuję stan discopolo na początku jego funkcjonowania: Ewidentną popuralność gatunku, niechęć inteligencji do niego oraz 
+Gala Piosenki Chodnikowej idealnie opisuję stan discopolo na początku jego funkcjonowania. Ewidentną popuralność gatunku, niechęć ówczesnych elit do niego oraz duże zróżnicowanie stylistyczne, począwszy od mocno inspirowanego zachodem Top One, po bardziej biesiande wykonania Białego Misia cz repertuaru zespołu Chorus.
 ### Szczyt Popularności
-
+Szczyt popularności disco polo przypada na drugą połowe lat dziewiędziesiątych. Po ogromnym sukcesie I Gali Piosenki Chodnikowej, Krzysztof Jaślara stworzył Gale Piosenki Biesiadnej. Widowisko po raz pierwszy zrealizowano dla TVP2 w 95 roku. W ciągu kilku kolejnych lat powstawały kolejne edycje.
+Od 94 roku na antenie polsatu można było obejrzeć program disco relax. Emitowany w niedzielne poranki program emitował na antenie teledyski, wywiady z muzykami, co tygodniową liste przebojów oraz muzyczne nowości. W Disco Relax można było przedewszystkim uświadczyć wykonawców ze stajni Blue Star, dlatego w 96 roku również na polsacie rozpoczeła się emisja Disco polo live, skupionego na artystac z podlasia. Disco relax napędzał popyt na teledyski discopolowe. Żeby zaistnieć na antenie trzeba było mieć klip.
+Od 95 ukazują się aż trzy czasopisma poświęcone gatunkowi: 
+- *Disco Hit*
+- *Disco Polo. Magazyn miłośników muzyki Disco Polo*
+- *Super Disco po Polsku*
+Na ich łamac czytelnicy mogli zapoznać się z wywiadami, reportaże z nowych dyskotek oraz tras koncertowych oraz listami i innymi fanartami fanów. 
+Popularność disco polo odbiła się także na wesołą działalność polskich prywaciarzy lat 90. Firma J. B. Cosmetics wyprodukowała dezodorant "I love disco polo", który reklamowało hasłem: "Poczuj Disco POlo. Nowa seria wyjątkowo skutecznych i trwałych dezodorantów "
 
 
 
