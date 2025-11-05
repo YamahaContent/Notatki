@@ -10,7 +10,7 @@ Typ: Notatka
 ---
 
 # Geneza
-## Piosenki Brukowe - Folklor Miejski
+## Piosenki Brukowe 
 Annna Kowalczyk etnolog w artykule dla "Wiedza i życie" z września 1997 r. dopatruję się począktów discopolo w Piosenkach Brukowych, Podwórzowych lub Ulicznych. 
 Piosenki Brukowe poruszały temat życia miejskiego lub podmiejskiego. Opowiadały o miłości, zdradzie, przestępczości oraz życiu klasy robotniczej. 
 Melodyka utworów przeważnie była prosta, wpadająca w ucho. Komponowała była przez ulicznych grajków lub zapożyczano ją z kabaretów lub operetek. 
@@ -22,7 +22,7 @@ Okres PRL to także promowanie reprezentacyjnych zespołów folklorystycznych ta
 
 Janusz Laskowski urodzony w 1947 r. na Wileńszczyźnie, Debiutował w latach 60 w zespole Ananasy działającym przy Związkach Zawodowych Kolejarzy w Białymstoku. Jego utwory odniosły wielki sukces i często sprzedawane były na bazarach w formie singli wydawanych półlegalnie na pocztówkach. Według Grzegorza Nawrockiego, dziennikarza i dramaturga 
 >[!quote]
->Tu wstaw cytat z Polski Bajer str. 26
+>Tu wstawić cytat Nawrockiego  z Polski Bajer str. 26
 
 
 Laskowski wystąpił na festiwalu piosenki w Opolu w 1977 r. z utworem *Kolorowe Jarmarki*, który nie zdobył wysokich nut wśród jurorów ale został wyróżnony Nagrodą Dziennikarzy i Publiczności. W tym samym roku *Kolorowe Jarmarki* zostały wykonane przez Maryle Rodowicz na Międzynarodowym Konkursie Interwizji w Sopocie. Piosenkarka zdobyła nagrode publiczności, a utwór stał się hitem w całym bloku wschodnim. Laskowski został zapomniany, lecz jego utwory odniosły sukces w okresie świetności discopolo, były bowiem często coverowane przez wykonawców discopolowych lat 90.
@@ -41,20 +41,21 @@ Niemiecki duet Modern Talking często wymieniani są wśród inspiracji wykonawc
 Oprócz niemców swoją cegiełke inspiracji dołożyli włosi. Italo Disco bo o nim mowa, rozpopularyzowała syntezatorowe brzmienie uzyskane przy pomocy takich syntezatorów jak Roland JX-8P, Roland Juno, Yamahy DX7 oraz automatu perkusyjnego Roland TR 808.
 Inną falą inspiracji z zachodu jest New Romantic i Synth Pop. Duran Duran czy Midge Ure świetnie łączyli brzmienie syntezatorów z schematem piosenki popowej oraz tematyką miłosną.
 Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dziennikarz muzyczny, prowadzący audycje *Słuchajmy Razem* na antenie programu II  polskiego radia, który w drugiej połowie lat 80 puszczał słuchaczom nowowydane zachodnie utwory.
-## Muzyka Romska I Bałkańska
-W latach 80 w Rumuni rozwineła się manela. Gatunek ten tworzyli głównie Romowie łącząc ówczesny pop z muzyką tradycyjną. Podobna Sytuacja zachodziła na całych bałkanach, w Bułgarii wykształciła się Czałga mieszająca muzyke tradycyjną Bułgarii, z muzyką Romską oraz wpływów osmańskich; w Serbi i Chorwacji natomiast narodził się turbofolk też łączący tradycje lokalną z zachodnią muzyką dyskotekową. Jest to zjawisko odrębne od disco polo, natomiast u polskich wykonawców można usłyszeć inspiracje bałkańskimi muzykami a co za tym idzie ich folklorem.
+## Muzyka Romska I Wpływy Wschodnie
+>[!important]
+Dokończyć
 
 ---
 # Właściwe Disco Polo
-Disco polo rozwineło się na początku lat 90
 ## Pierwsza Fala Disco Polo
 Działalnośc polskich artystów dyskotekowych przed rokiem 89 jest bardzo skromna. Po stylistyke disco sięgano rzadko, jeśli w ogóle. Wyjątkiem jest formacja Papa Dance, duet dwóch producentów Mariusza Zabrodzkiego i Sławomira Wesołowskiego. Ich twórczość skierowana była do młodzieży szkolnej, muzycy wykożystywali uczniowski żargon i nawiązywali do ówczesnej popkultury. 
 Pierwszymi zespołami disco polowymi które odniosły sukces były Fanatic i Top One. Oby dwa zespoły powstały w podobnym czasie i w podobnym miejscu (kolejno Żyraldów i Ursus) i obydwa odniosły nie mały sukces w pierwszym roku swojej działalności
-### Top One
+Początki muzyki discopolowej trudno jednak ustalić wiele zespołów które w ostatniej dekadzie XX wieku osiągneło sukces na chodnikowym poletku, z początku grało muzyke biesiadną w lokalnych społecznościach, a dopiero później odniosło większy sukces.
 
 ## Blue Star
 Przełomem dla muzyki chodnikowej jak wówczas określano disco polo jest 
-
+założenie przez Sławomira Skręte firmy fonograficznej Blue Star w 1990 (**właściwie to nie wiadomo kiedy Blue Star powstał, Monika Borys w "Polskim Bajerze" podaje rok 93 [chyba najbardziej prawdobodobnie], Olga Wachcinska w pracy "Disco Polo Kontunuacją Folkloru?" rok 90, a "Leksykon Disco Polo i muzyki tanecznej" autorstwa Milana Budzińskiego 91**) roku. 
+Skręta rozpoczął swoją działaność rozprowadzając początkowo kasety Fanatica na warszawskich bazarach. Po ogromnym sukcesie Fanatica 
 
 
 
