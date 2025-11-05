@@ -75,6 +75,7 @@ W zbiorach krakowskich zachowała się **Missa In te Domine speravi**, oparta na
 Utwór wydany w Norymberdze w 1564 roku wraz z *Timor et tremor* Orlanda di Lassa. Motet przeimitowany, mniej bogadszy od *In te domine, speravi*.
 
 ##### *Lamentationes Jeremiae*
+Wydane w Krakowie w 1553 roku. Wykonywane podczas wielkiego tygodnia (ciemna Jutrznia). Superios i Tenor zachowały sie w Monachium i Ratyzboni
 
 #### Twórczość w Języku Polskim
 Osiem czterogłosowych pieśni, cztery z tekstem A. Trzeciskiego, trzy M. Reja i jedna Jakuba z Iłzy. 
