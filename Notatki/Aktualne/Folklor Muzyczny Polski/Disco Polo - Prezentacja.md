@@ -10,12 +10,13 @@ Typ: Notatka
 ---
 # Historia Disco Polo
 ## Geneza
-### Piosenki Brukowe 
-Annna Kowalczyk etnolog w artykule dla "Wiedza i życie" z września 1997 r. dopatruję się począktów discopolo w Piosenkach Brukowych, Podwórzowych lub Ulicznych. 
+### Piosenki Brukowe i Tradycyjne
+Annna Kowalczyk w artykule dla "Wiedza i życie" z września 1997 r. dopatruję się począktów discopolo w Piosenkach Brukowych, Podwórzowych lub Ulicznych. 
 Piosenki Brukowe poruszały temat życia miejskiego lub podmiejskiego. Opowiadały o miłości, zdradzie, przestępczości oraz życiu klasy robotniczej. 
 Melodyka utworów przeważnie była prosta, wpadająca w ucho. Komponowała była przez ulicznych grajków lub zapożyczano ją z kabaretów lub operetek. 
 Przykład:
 https://staremelodie.pl/piosenka/2692/Daj%20mi%20s%C5%82owo
+Innym kamieniem węgielnym disco polo są pieśni weselne 
 ### Muzyka Biesiadna PRLu
 PRL zmonopolizowała sprzęt nagraniowy, co za tym idzie możliwość chałupniczego wydawania muzyki. Regulacje te nie objeły jednak pocztówek, od lat 60 do lat 80 XX wydawano na nich od zdecentralizowanych przyśpiewek ludowych do muzyki zagranicznej. 
 Okres PRL to także promowanie reprezentacyjnych zespołów folklorystycznych takich jak Mazowsze czy Śląsk. Na wsi królowały nadal rubaszne i wulgarne piosenki często z tradycją przedwojenną. Wiejscy muzycy adaptowali utwory tradycyjne na ówczesną modłe. Powstawały aranżacje na instrumenty nie tradycyjne takie jak akordeon, gitara czy w co bogatszych gminach syntezator. Muzyke ta pełniła funkcje użytkową, amatorskie kapele przygrywały często na weselach, dożynkach czy innych zabawach. 
@@ -86,6 +87,9 @@ Popularność disco polo odbiła się także na wesołą działalność polskich
 Począwszy od 97 disco polo traci na popularności, z trzech czasopism pozostaje tylko *Disco Hit*. W 2002 roku polsat przestaje emitować disco relax oraz disco polo live. Spadła także sprzedaż kaset i płyt CD, przez co zespoły zaczeły popadać w problemy finansowe. Na popularności zaczeły zyskiwać zespoły satyryczne takie jak Bracia Figo Fagot Walaszka.
 Powrotem disco polo do dawnej popularności jest utwór "Ona Tańczy dla mnie" zespołu wekend wydana w połowie 2012 roku. Po pół roku piosenka osiągneła dwadzieścia milionów wyświetleń, a aktualnie liczba odsłon teledysku wynosi około 150 milionów.
 Od 2012 disco polo funkcjonuje w swoistej bańce słuchaczy stworzonej za pośrednictwem mediów społecznościowych. Niektóre utwory przebijają się jednak do szerszego grona słuczaczy. Warto tutaj wspomnieć o "Miłość w Zakopanem", czy ostatnim numerze Zenka Martyniuka "Mandacik" oraz karierze Skolima.
+
+# Disco Polo, a folklor?
+
 
 # Literatura
 Bagińska-Oleniacz M., *Dyskoteka jako nowa wersja "pastwiska"? Rzecz o niektórych zachowaniach wspólnotowych młodzierzy*, Rocznik Pedagogiczny 1999, t. 22 s. 143-157 - brak
