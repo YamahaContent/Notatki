@@ -47,7 +47,7 @@ Inną falą inspiracji z zachodu jest New Romantic i Synth Pop. Duran Duran czy 
 Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dziennikarz muzyczny, prowadzący audycje *Słuchajmy Razem* na antenie programu II  polskiego radia, który w drugiej połowie lat 80 puszczał słuchaczom nowowydane zachodnie utwory.
 
 
-### Muzyka Romska I Wpływy Wschodnie
+### Romowie, Więźniowie i Białorusini
 >[!important]
 Dokończyć
 
@@ -81,8 +81,10 @@ Od 95 ukazują się aż trzy czasopisma poświęcone gatunkowi:
 - *Disco Polo. Magazyn miłośników muzyki Disco Polo*
 - *Super Disco po Polsku*
 Na ich łamac czytelnicy mogli zapoznać się z wywiadami, reportaże z nowych dyskotek oraz tras koncertowych oraz listami i innymi fanartami fanów. 
-Popularność disco polo odbiła się także na wesołą działalność polskich prywaciarzy lat 90. Firma J. B. Cosmetics wyprodukowała dezodorant "I love disco polo", który reklamowało hasłem: "Poczuj Disco POlo. Nowa seria wyjątkowo skutecznych i trwałych dezodorantów "
-
+Popularność disco polo odbiła się także na wesołą działalność polskich prywaciarzy lat 90. Firma J. B. Cosmetics wyprodukowała dezodorant "I love disco polo". 
+### Wieki Ciemne i Odrodzenie
+Począwszy od 97 disco polo traci na popularności, z trzech czasopism pozostaje tylko *Disco Hit*. W 2002 roku polsat przestaje emitować disco relax oraz disco polo live. Spadła także sprzedaż kaset i płyt CD, przez co zespoły zaczeły popadać w problemy finansowe. Na popularności zaczeły zyskiwać zespoły satyryczne takie jak Bracia Figo Fagot Walaszka.
+Powrotem disco polo do dawnej popularności jest utwór "Ona Tańczy dla mnie" zespołu wekend wydana w połowie 2012 roku. Po pół roku piosenka osiągneła dwadzieścia milionów wyświetleń, a aktualnie liczba odsłon teledysku wynosi około 150 milionów
 
 
 # Literatura
