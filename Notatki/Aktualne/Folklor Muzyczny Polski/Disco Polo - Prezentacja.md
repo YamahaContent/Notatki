@@ -8,15 +8,15 @@ tags:
 Typ: Notatka
 ---
 ---
-
-# Geneza
-## Piosenki Brukowe 
+# Historia Disco Polo
+## Geneza
+### Piosenki Brukowe 
 Annna Kowalczyk etnolog w artykule dla "Wiedza i życie" z września 1997 r. dopatruję się począktów discopolo w Piosenkach Brukowych, Podwórzowych lub Ulicznych. 
 Piosenki Brukowe poruszały temat życia miejskiego lub podmiejskiego. Opowiadały o miłości, zdradzie, przestępczości oraz życiu klasy robotniczej. 
 Melodyka utworów przeważnie była prosta, wpadająca w ucho. Komponowała była przez ulicznych grajków lub zapożyczano ją z kabaretów lub operetek. 
 Przykład:
 https://staremelodie.pl/piosenka/2692/Daj%20mi%20s%C5%82owo
-## Muzyka Biesiadna PRLu
+### Muzyka Biesiadna PRLu
 PRL zmonopolizowała sprzęt nagraniowy, co za tym idzie możliwość chałupniczego wydawania muzyki. Regulacje te nie objeły jednak pocztówek, od lat 60 do lat 80 XX wydawano na nich od zdecentralizowanych przyśpiewek ludowych do muzyki zagranicznej. 
 Okres PRL to także promowanie reprezentacyjnych zespołów folklorystycznych takich jak Mazowsze czy Śląsk. Na wsi królowały nadal rubaszne i wulgarne piosenki często z tradycją przedwojenną. Wiejscy muzycy adaptowali utwory tradycyjne na ówczesną modłe. Powstawały aranżacje na instrumenty nie tradycyjne takie jak akordeon, gitara czy w co bogatszych gminach syntezator. Muzyke ta pełniła funkcje użytkową, amatorskie kapele przygrywały często na weselach, dożynkach czy innych zabawach. 
 
@@ -27,7 +27,7 @@ Janusz Laskowski urodzony w 1947 r. na Wileńszczyźnie, Debiutował w latach 60
 
 Laskowski wystąpił na festiwalu piosenki w Opolu w 1977 r. z utworem *Kolorowe Jarmarki*, który nie zdobył wysokich nut wśród jurorów ale został wyróżnony Nagrodą Dziennikarzy i Publiczności. W tym samym roku *Kolorowe Jarmarki* zostały wykonane przez Maryle Rodowicz na Międzynarodowym Konkursie Interwizji w Sopocie. Piosenkarka zdobyła nagrode publiczności, a utwór stał się hitem w całym bloku wschodnim. Laskowski został zapomniany, lecz jego utwory odniosły sukces w okresie świetności discopolo, były bowiem często coverowane przez wykonawców discopolowych lat 90.
 
-## Wpływy Polonii
+### Wpływy Polonii
 Innym ważnym elementem genealogi disco polo, wymienionym przez Anne Kowalczyk są utwory polonii. Po 2 wojnie swiatowej, piosenki ludowe i popularne niedocenione w ojczyźnie, nadal rezonowały z polakami za granicą. Funkcjonowały one podobnie jak na Polskiej wsi, jednak twórcy emigracyjnej muzyki biesiadnej często mieli dostęp do lepszego sprzętu oraz studiów nagraniowych.
 Wartym wspomnienia jest Mały Władziu, znany także jako Li'l Wally, Władysław Jagiełło. Działający w latach 60 i 70 XX w. w Chicago tworzył Polonijną wersje muzyki biesiadnej. 
 >[!important]
@@ -35,30 +35,38 @@ Wartym wspomnienia jest Mały Władziu, znany także jako Li'l Wally, Władysła
 
 W latach 80 popularne stały się zespoły takie jak: Polskie Orły, Biało-Czerwoni i Boby Vinton. To właśnie Polskie Orły odpowiadają za takie hity jak m.in.: *Cztery razy po dwa razy* czy *Biały Miś*. To za sprawą polskich zespołów na emigracji możemy doświadczyć tekstów utworów sięgających rodowodem do dwudziestolecia. 
 Nagrania ze Stanów przedostawały się do polski za pośrednictwem pocztówek muzycznych i pożniej kaset magnotofonowych, które sprzedawano podobnie jak te krajowej produkcji na bazarach.
-## Muzyka Disco z Zachodu
+### Muzyka Disco z Zachodu
 Największy wpływ na rozwój disco polo miała jednak muzyka disco z europy. Artyści tacy jak Modern Talking, C. C. Catch czy Blue System zgromadziły w Polsce lat 80 dużą ilość fanów za pośerednictwem bazarowego piractwa. 
 Niemiecki duet Modern Talking często wymieniani są wśród inspiracji wykonawców disco polo przełomu lat 80 i 90. Zenek Martyniuk przyjaźni się z reszczą do dzisiaj z Thomasem Andersem.
 Oprócz niemców swoją cegiełke inspiracji dołożyli włosi. Italo Disco bo o nim mowa, rozpopularyzowała syntezatorowe brzmienie uzyskane przy pomocy takich syntezatorów jak Roland JX-8P, Roland Juno, Yamahy DX7 oraz automatu perkusyjnego Roland TR 808.
 Inną falą inspiracji z zachodu jest New Romantic i Synth Pop. Duran Duran czy Midge Ure świetnie łączyli brzmienie syntezatorów z schematem piosenki popowej oraz tematyką miłosną.
 Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dziennikarz muzyczny, prowadzący audycje *Słuchajmy Razem* na antenie programu II  polskiego radia, który w drugiej połowie lat 80 puszczał słuchaczom nowowydane zachodnie utwory.
-## Muzyka Romska I Wpływy Wschodnie
+### Muzyka Romska I Wpływy Wschodnie
 >[!important]
 Dokończyć
 
 ---
-# Właściwe Disco Polo
-## Pierwsza Fala Muzyki Chodnikowej
+## Właściwe Disco Polo
+### Pierwsze Disco Polo
 Działalnośc polskich artystów dyskotekowych przed rokiem 89 jest bardzo skromna. Po stylistyke disco sięgano rzadko, jeśli w ogóle. Wyjątkiem jest formacja Papa Dance, duet dwóch producentów Mariusza Zabrodzkiego i Sławomira Wesołowskiego. Ich twórczość skierowana była do młodzieży szkolnej, muzycy wykożystywali uczniowski żargon i nawiązywali do ówczesnej popkultury. 
 Pierwszymi zespołami disco polowymi które odniosły sukces były Fanatic i Top One. Oby dwa zespoły powstały w podobnym czasie i w podobnym miejscu (kolejno Żyraldów i Ursus) i obydwa odniosły nie mały sukces w pierwszym roku swojej działalności
 Początki muzyki discopolowej trudno jednak ustalić wiele zespołów które w ostatniej dekadzie XX wieku osiągneło sukces na chodnikowym poletku, z początku grało muzyke biesiadną w lokalnych społecznościach, a dopiero później odniosło większy sukces.
-
-## Gwiazdy Dwie
+ 
+### Gwiazdy Dwie
 Przełomem dla muzyki chodnikowej jak wówczas określano disco polo jest 
 założenie przez Sławomira Skręte firmy fonograficznej Blue Star w 1990 (**właściwie to nie wiadomo kiedy Blue Star powstał, Monika Borys w "Polskim Bajerze" podaje rok 93 [chyba najbardziej prawdobodobnie], Olga Wachcinska w pracy "Disco Polo Kontunuacją Folkloru?" rok 90, a "Leksykon Disco Polo i muzyki tanecznej" autorstwa Milana Budzińskiego 91**) roku. 
 Skręta rozpoczął swoją działaność rozprowadzając początkowo kasety Fanatica na warszawskich bazarach. Po ogromnym sukcesie Fanatica zespoły chodnikowe z stolicy i okolic same zaczęły zgłaszać się do Skręty z prośbami o wydanie płyt.
 Muzyków z regionu białostockiego sprowadza do Blue Stara Jerzy Suszycki, który postanawia założyć własną wytwórnie w 94/95 roku (znowu rozbierzność dat Budziński podaje 94, a Wachcińska 95.). Grenn Star odpowiada za większość zespołów pochodzących z Podlasia w tym m.in.: Akcentu, Boys czy Milano.
+### Gala Piosenki Chodnikowej
+W sobote 29 lutego 1992 roku w Sali Kongresowej w Warszawskim Pałacu Kultury i Nauki odbyła się I Gala Piosenki Popularnej i Chodnikowej. Gala jest ważnym momentem dla Polskiej Muzyki Tanecznej. 
+Wydażenie zostało zorganizowane przez TVP 2 i poczęści przez Sławomira Skręte, a kierownikiem muzycznym był Jarosław Kukulski (kompozytor, jazzman, absolwent poznanskiej akademi muzycznej). Całość wyreżysterował Krzysztof Jaślara, odpowiedzalny wczesniej głównie za programy kabaretowe. Prowadzącym został Janusz Weiss, który często w uszczypliwy sposób zapowiadał niedoświadczone zespoły
+Na gali wsytąpili m.in.: Top One, Fanatic, Atlantis, Crazy Boys (z Martyniukiem), Chorus i inni. 
+Oprócz występów na żywo z playbacku zostały puszczone m.in. Biały Miś oraz Mydełko Fa. 
+Gala okazała się wielkim sukcesem, sala kongresowa w niedługim czasie została zapełniona, a fani zjeżdzali się z całego kraju. Słuchaczy było na tyle dużo że po oficjalnej częsci wydarzenia na prętce zorganizowano drugi kocert dla osób którym nie udało się dostać na pierwszy występ.
 
-## 
+Gala Piosenki Chodnikowej idealnie opisuję stan discopolo na początku jego funkcjonowania: Ewidentną popuralność gatunku, niechęć inteligencji do niego oraz 
+### Szczyt Popularności
+
 
 
 
