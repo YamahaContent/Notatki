@@ -11,10 +11,47 @@ tags:
 Typ: Notatka
 ---
 ---
-# Muzyka o znamionach stylu **Międzynarodowego**
+# Kontekst Historyczny
+**Kazimierz IV Jagiellończyk** (rządy 1447 - 1492) zawarł unie personalną z Litwą, oraz rozwinął pozycje Jagiellonów na politycznej Mapie Europy.
+Na dworze Kazimierza IV Jagiellończyka działali m.in.:
+- **Jan Długosz** - nadworny kronikarz
+- **Filip Kalimach** (Filippo Buanaccorsi) - humanista
+- **Wit Stwosz** - rzeźbiarz 
+# Kapela Królewska
+## Henrich Finck 
+Kapelmistrz żyjący w latach 1445-1527 w polsce działał w latach 1498-1505 roku. Wyjątkowe ubóstwo materiału, nie odpowiada ani randze, ani znaczeniu historycznemu tego kompozytora.
+
+Herman Fink, wnuk Heinrichia wspomina dziada w *Practica musica* (1550):
+
+>[!quote]
+>*"... mój stryjeczny dziad [Heinrich] kształcił się za młodu w Polsce."*
+
+### Biografia
+Brak konkretnej biografii kompozytora.
+W latach 1452-1492 terminował w kapeli królewskiej w Krakowie, możliwie że w tym czasie także studiował.
+W 1482 immatrykulacja w Lipsku. 
+W latach 1498 - 1505 przebywał w Polsce. Poświadczają to 26 wpisy do królewskich ksiąg rachunkowych.
+
+### Twórczość
+116 dzieł pewnych i 10 wątpliwych. Kompozycje Fincka zachowały się w 69 źródłach. 
+**Źródła Polskie:**
+- **TBP** - tabulatura organowa z 1520 roku, zachowały się w niej fragmenty intawolacji pięcio głosowego motetu *Et valde mane*
+- **TJL; TKD** - 1540-1548
+
+Finck pisał motety z *cantus firmus*, o przeimitowanej fakturze; hymny; pieśni. 
+Pod względem rytmiki Finck jest najorginalniejszy z całej generacji.
+
+
+
+
+# Muzyka o znamionach stylu Międzynarodowego
 ## Wacław z Szamotuł
 ### Biografia
-
+Urodzony w Szamotułach około 1520 roku. Możliwe że pobirał nauke podstawową w Szamotulskiej szkole parafialnej, następnie uczeszczał do Kolegium Lubrańskiego w Poznaniu, Gimnazjum w Krakowie i Akademi Jagiellońskiej.
+Około 1545 roku obiął stanowisko sekretarz na dworze Gieronima Chodkiewicza, kasztelana trockiego, członka Litewskiej Rady Królewskiej.
+Od 1547 roku pełnił fukcje *componisty* na dworze Zygmuna Augusta. Dziesięć lat później w 1557 r. Wacławowi została wypłacona zaległa pensja, kompozytor nie jest już zaliczany do dworu.
+Po 1555 roku kompozytor wiąże się z **litewskim ośrodkiem protestanckim na dworze Radziwiła**. 
+Kompozytor umiera około 1560 w wieku 34 lat (wg. A. Trzecieskiego)
 ### Dorobek
 #### Twórczość w Języku Łaćinskiem
 **Dieła zachowane:**
@@ -48,7 +85,7 @@ Wacław z Szamotuł komponował także monodie takie jak *Dziękowanie po jedzen
 #### Twórczość Poetycka
 
 Zachowało się kilka poematów sygnowanych nazwiskiem kompozytora. Pierwszy datuje się na 1539 r., napisany był na okaze welsea Elżbiety Zapoliny. 
-W 1553 roku ukazał się poemat we wstępnie do Lamentacji dedykowaną 
+W 1553 roku ukazał się poemat we wstępnie do Lamentacji dedykowany Zygmuntowi Augustowi.
 
 
 ---
@@ -57,3 +94,20 @@ W 1553 roku ukazał się poemat we wstępnie do Lamentacji dedykowaną
 
 ## Muzyka o cechach **Lokalnych**
 ### Kapela Rorantystów
+
+# Muzyka o Cechach Lokalnych 
+## Kompozytorzy Teoretyczni
+W I połowie XVI pojawił się materiał sygnowany kapelą rorantystów, były to **kompozycje teoretyczne**.
+### Jerzy Liban z Legnicy
+Zyjący w latach 1464-1546, filolog Uniwersytety Jagiellońskiego. Twórca licznych traktatów łacińskich w których opracowywał na różne sposoby Magnificat. 
+Skomponował czterogłosową antyfone *Ortus de Polonia*, w której występuje równo-nutowy cantus firmus w tenorze. Fakturalnie kompozycja uboga (nota contra notam). 
+Dominował styl konserwatywny, niemiecki z brakiem wpływów niderlandzkich.
+### Sebastian z Felsztyna 
+Żyjący w latach 1480-1536 kompozytor. Zachowały się trzy czterogłosowe maryjne propia mszalne. W przeciwięstwie do Libana z Legnicy pojawiają się sporadyczne imitacje dwugłosow.
+## Kapela Rorantystów
+Sfundowana przez Zygmunta Starego (1506-1548) **w 1540**, powołana dla kultywowania muzyki religijnej w Kaplicy Zygmuntowskiej. Kapela działała od 1543 r.
+Była to druga po kapeli nadwornej najważniejsz kapela. Kapela wykonywała obszerny repertuar, który nie był reprezentatywny dla Polski.
+Kapela składała się wyłącznie z mężczyzn z **polskiego duchowieństwa**, zobowiązanych do wykonywania obowązków muzycznych. 
+W skład zespołu wchodziło 9 muzyków właściwych oraz kleryka, kierowanego przez prepozyta.
+Pierwszym przełożonym kapeli był **Mikołaj z Poznania** (zm. 1555 r.), a następnymi kolejno: **Krzysztof Borek** (1558-1570), **Stanisław Zając z Pabianic** (1574-1602).
+Przez kapele przewineło się okołu 50 śpiewaków. Zamieszkiwali w Domu Katedralnym, a dochody na ich utrzymywanie płynełu z żup wielickich i bocheńskich, cła krakowskiego i dzieśięcin z podkrakowskich wsi.
