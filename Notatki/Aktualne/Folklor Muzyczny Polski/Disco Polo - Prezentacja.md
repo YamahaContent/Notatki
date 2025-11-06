@@ -27,9 +27,6 @@ Janusz Laskowski urodzony w 1947 r. na Wileńszczyźnie, Debiutował w latach 60
 
 
 Laskowski wystąpił na festiwalu piosenki w Opolu w 1977 r. z utworem *Kolorowe Jarmarki*, który nie zdobył wysokich nut wśród jurorów ale został wyróżnony Nagrodą Dziennikarzy i Publiczności. W tym samym roku *Kolorowe Jarmarki* zostały wykonane przez Maryle Rodowicz na Międzynarodowym Konkursie Interwizji w Sopocie. Piosenkarka zdobyła nagrode publiczności, a utwór stał się hitem w całym bloku wschodnim. Laskowski został zapomniany, lecz jego utwory odniosły sukces w okresie świetności discopolo, były bowiem często coverowane przez wykonawców discopolowych lat 90.
-
-
-
 ### Wpływy Polonii
 Innym ważnym elementem genealogi disco polo, wymienionym przez Anne Kowalczyk są utwory polonii. Po 2 wojnie swiatowej, piosenki ludowe i popularne niedocenione w ojczyźnie, nadal rezonowały z polakami za granicą. Funkcjonowały one podobnie jak na Polskiej wsi, jednak twórcy emigracyjnej muzyki biesiadnej często mieli dostęp do lepszego sprzętu oraz studiów nagraniowych.
 Wartym wspomnienia jest Mały Władziu, znany także jako Li'l Wally, Władysław Jagiełło. Działający w latach 60 i 70 XX w. w Chicago tworzył Polonijną wersje muzyki biesiadnej. 
@@ -49,8 +46,8 @@ Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dzi
 
 
 ### Romowie, Więźniowie i Białorusini
->[!important]
-Dokończyć
+Na disco polo wpływ wywarły takżę zapożyczenia z muzyki romskiej, białoruskiej i piosenki więźiennej.
+Twórcy z podlasia często "przerabiali" piosenki za wschodniej granicy, tłumacząc lub pisząc nowy tekst. Przykładem mogą być zespoły Mirage i Mirage-2 powstałe w Bielsku Podlaskim oraz Moskiewski Мираж. Pierwszy z tej trójki był Мираж założony w 86 roku, w 89 wydał utwóe Снова вместе (znowu razem)
 
 ---
 
