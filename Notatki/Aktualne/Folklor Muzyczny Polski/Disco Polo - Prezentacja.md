@@ -16,7 +16,7 @@ Piosenki Brukowe poruszały temat życia miejskiego lub podmiejskiego. Opowiada�
 Melodyka utworów przeważnie była prosta, wpadająca w ucho. Komponowała była przez ulicznych grajków lub zapożyczano ją z kabaretów lub operetek. 
 Przykład:
 https://staremelodie.pl/piosenka/2692/Daj%20mi%20s%C5%82owo
-Innym kamieniem węgielnym disco polo są pieśni weselne 
+Innym kamieniem węgielnym disco polo są pieśni tradycyje o tematyce miłosnej, które często towarzyszyły chłopskim weselom. Traktowały one o miłości 
 ### Muzyka Biesiadna PRLu
 PRL zmonopolizowała sprzęt nagraniowy, co za tym idzie możliwość chałupniczego wydawania muzyki. Regulacje te nie objeły jednak pocztówek, od lat 60 do lat 80 XX wydawano na nich od zdecentralizowanych przyśpiewek ludowych do muzyki zagranicznej. 
 Okres PRL to także promowanie reprezentacyjnych zespołów folklorystycznych takich jak Mazowsze czy Śląsk. Na wsi królowały nadal rubaszne i wulgarne piosenki często z tradycją przedwojenną. Wiejscy muzycy adaptowali utwory tradycyjne na ówczesną modłe. Powstawały aranżacje na instrumenty nie tradycyjne takie jak akordeon, gitara czy w co bogatszych gminach syntezator. Muzyke ta pełniła funkcje użytkową, amatorskie kapele przygrywały często na weselach, dożynkach czy innych zabawach. 
@@ -44,10 +44,13 @@ Oprócz niemców swoją cegiełke inspiracji dołożyli włosi. Italo Disco bo o
 Inną falą inspiracji z zachodu jest New Romantic i Synth Pop. Duran Duran czy Midge Ure świetnie łączyli brzmienie syntezatorów z schematem piosenki popowej oraz tematyką miłosną.
 Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dziennikarz muzyczny, prowadzący audycje *Słuchajmy Razem* na antenie programu II  polskiego radia, który w drugiej połowie lat 80 puszczał słuchaczom nowowydane zachodnie utwory.
 
-
-### Romowie, Więźniowie i Białorusini
-Na disco polo wpływ wywarły takżę zapożyczenia z muzyki romskiej, białoruskiej i piosenki więźiennej.
-Twórcy z podlasia często "przerabiali" piosenki za wschodniej granicy, tłumacząc lub pisząc nowy tekst. Przykładem mogą być zespoły Mirage i Mirage-2 powstałe w Bielsku Podlaskim oraz Moskiewski Мираж. Pierwszy z tej trójki był Мираж założony w 86 roku, w 89 wydał utwóe Снова вместе (znowu razem)
+## Inne Wpływy
+### ZSRR i podlaska szkoła coveru
+Twórcy z podlasia często "przerabiali" piosenki za wschodniej granicy, tłumacząc lub pisząc nowy tekst. Przykładem mogą być zespoły Mirage i Mirage-2 powstałe w Bielsku Podlaskim oraz Moskiewski Мираж. Pierwszy z tej trójki był Мираж założony w 86 roku, w 89 wydał utwór Снова вместе (znowu razem), utrzymany w stylistyce rosyjskiego pop rocka z czasów piesretrojki. Polską przeróbke w stylu biesiadnym i z nowym tekstem w 92 wydał założony przez Janusza Konoplę zespół Mirage, a kolejnej reinterpretacji w stylu zblizonym do późniejszego discopolo utwór doczekał się za sprawą zespołu Mirage 2. Mirage 2 założony przez Tomasza Sidoruka przerobił cała kasete zespołu Mirage nadając jej nowego bardziej elektronicznego brzmienia. Przypadek Trzech Miraży nie jest odosobniony. 
+>[!important]
+>Wstawić fragmen wywiadu z Skrętą - Film "Bara, Bara" 23 minuta.
+### Romowie
+Muzyka romska funkcjonowała w disco polo dwojako. Muzyka Romska wykonywana w bardziej nowoczesny sposób zaliczna 
 
 ---
 
