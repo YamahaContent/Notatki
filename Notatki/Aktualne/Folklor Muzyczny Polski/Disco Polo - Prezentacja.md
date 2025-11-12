@@ -8,6 +8,9 @@ tags:
 Typ: Notatka
 ---
 ---
+# Czym właściwie jest Disco Polo.
+## Definicje
+## Gatunek muzyczny czy Zjawisko Kultularne
 # Historia Disco Polo
 ## Geneza
 ### Piosenki Brukowe i Tradycyjne
@@ -89,8 +92,35 @@ Powrotem disco polo do dawnej popularności jest utwór "Ona Tańczy dla mnie" z
 Od 2012 disco polo funkcjonuje w swoistej bańce słuchaczy stworzonej za pośrednictwem mediów społecznościowych. Niektóre utwory przebijają się jednak do szerszego grona słuczaczy. Warto tutaj wspomnieć o "Miłość w Zakopanem", czy ostatnim numerze Zenka Martyniuka "Mandacik" oraz karierze Skolima.
 
 # Disco Polo, a folklor?
+## Ludowe Disco
+Disco polo często było (i jest) wyśmiewane za monotematyczność i prymitywizm. Utwory często traktowały o miłości, a ich bohaterami byli kochankowie oraz ich antagoniści (w postaci innego zalotnika, losu czy nawet męża). Postacie te często były jednowymiarowe, płytkie, często reprezentujące jedną emocje. Czas i miejsce akcji podobnie jak w muzyce tradycyjnej często jest niedookreślone, co nadaję utworą znamiona uniwersalności. W tekstach odnajdziemy również proste analogie, sen albo bajka odnosi sie do marzeń, taniec do radości, a noc do zabawy ale także do współżycia kochanków. Wykorzystywany w większości utworów tryb pierwszej osoby liczby pojedyńczej (Ja jestem) przez podmiot liryczny wzbogaca tylko uniwersalność utworów.
+Ten obraz disco polo odpowada niemal idealnie opisowi Piosenki Ludowej Jana Stanisława Bystronia. 
 
+## Tematyka utworów
+Według Olig Wachcińskiej disco polo można podzielić na cztery główne kategorie.
+### Miłość 
+Najliczniejsz grupa utworów odnosi się do problematyki miłosnej. Kategorię tą można podzielić na mniejsze subkategorie traktujące o:
+- Miłości szczęśliwej, spełnionej
+- Wyznanie uczuć, poświęcenie dla szczęśliwej miłości
+- Miłość budząca tęsknote
+- Miłość niemożliwa do spełnienia, przez przeciwności losu
+- Rozstanie, w którego nasępstwie podmiot liryczny pozostaje w smutku i żałobie oraz takie w którym podmiot liryczny nie smuci się zbyt długo
+- Zdrada
+Często motywy te zazębiają się ze sobą i przenikają, np. jedna zwrotka może opowiadać o zdradzie, kolejna o żałobie, a ostatnia o pogodzeniu się ze stratą.
+### Erotyki
+Następną liczną grupą są teksty o zabarwieniu erotycznym, mniej lub bardziej rubaszne. Teksty często balansują pomiędzy oczysistymi aluzjami i dwuznacznościami, a dosłowną wręcz niekiedy wulgarną deskrypcją czynu. Co prawda w muzyce ludowej motywy erotyczne nie są aż tak popularne, nadal występują. Inną teoria o braku erotyzmu w piosence tradycyjnej jest "ocenzurowanie" niektórych tekstów przez wczesnych etnologów i muzykologów m.in. Kolberga.  
+>[!important]
+>Zweryfikować informacje o Kolbergu z Polskiego Bajeru
 
+Według Dobrosławy Wężowicz-Ziókowskiej, która skupiła się na erotycznym repertuarze piosenki wiejskiej, stosunki intywne porównywane były do różnego rodzaju prac rolnych, np. koszenia, grabienia, mółcenia.
+### Gloryfikacja Zabawy.
+Trzecia grupa tekstów skupia się na zabawie. Podmiot liryczny opisuje taniec, libacje alkocholowe, wieczorne spotkania ze zanjomymi, rodziną lub partnerem.
+### Pieśni Patriotyczne
+Ostatnią kategorią Zaproponowaną przez Wachcińską są utwory o tematyce Patriotycznej, narodowej lub regionalnej. Teksty najdzęściej pochodzą z repertuaru pieśni polonijnej, harcerskiej lub religijnej (aranżacje kolęd)
+
+## Różnice w Tematyce 
+Między discopolo, a muzyką tradycyjną istnieje wiele paralel, natomiast występują także pewne subtelne różnice. 
+Motywem odróżniającym twórczość tradycyjna, a muzyke chodnikową jest rola przyrody i wiejskiego mistycyzmu. Przyroda w muzyle ludowej związana jest z tradycyjnym światopoglądem , w świetlę którego świat to spójny oranizm, a harmonia koegzystencji składowych tego świata zapewnia spokój i ład. Motywu tego w utworach discopolowych doszukać można się tylo w repertuarze zespołów świadomie sięgających po muzyke ludową.
 # Literatura
 Bagińska-Oleniacz M., *Dyskoteka jako nowa wersja "pastwiska"? Rzecz o niektórych zachowaniach wspólnotowych młodzierzy*, Rocznik Pedagogiczny 1999, t. 22 s. 143-157 - brak
 
