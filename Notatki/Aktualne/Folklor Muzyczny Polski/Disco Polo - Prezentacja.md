@@ -134,7 +134,7 @@ Z początku discopolo wykonywana była w tradycyjnych okolicznościach, weselach
 
 
 # Podsumowanie
-
+Disco polo nie można traktować jako kontynuacji tradycji ludowej. Muzyka chodnikowa narodziała się już po śmierci kultury tradycyjnej, nie jest więc jej następstwem.
 # Literatura
 Bagińska-Oleniacz M., *Dyskoteka jako nowa wersja "pastwiska"? Rzecz o niektórych zachowaniach wspólnotowych młodzierzy*, Rocznik Pedagogiczny 1999, t. 22 s. 143-157 - brak
 

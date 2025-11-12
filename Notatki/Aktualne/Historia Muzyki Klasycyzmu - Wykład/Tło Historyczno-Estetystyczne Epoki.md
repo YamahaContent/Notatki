@@ -49,3 +49,7 @@ Główni kompozytorzy
 1815 - klęska Napolona pod Waterloo
 # Encyklopedyści Francuscy
 Grunt pod rewolucje francuską
+# Sturm Und Drang
+# Mundus Melancholicus
+Teatr na Wodzie, Łazienki Królewskie
+# Teatr XVIII Wieku 
