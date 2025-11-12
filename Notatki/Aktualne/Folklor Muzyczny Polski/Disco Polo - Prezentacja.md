@@ -24,7 +24,7 @@ Innym kamieniem węgielnym disco polo są pieśni tradycyje o tematyce miłosnej
 PRL zmonopolizowała sprzęt nagraniowy, co za tym idzie możliwość chałupniczego wydawania muzyki. Regulacje te nie objeły jednak pocztówek, od lat 60 do lat 80 XX wydawano na nich od zdecentralizowanych przyśpiewek ludowych do muzyki zagranicznej. 
 Okres PRL to także promowanie reprezentacyjnych zespołów folklorystycznych takich jak Mazowsze czy Śląsk. Na wsi królowały nadal rubaszne i wulgarne piosenki często z tradycją przedwojenną. Wiejscy muzycy adaptowali utwory tradycyjne na ówczesną modłe. Powstawały aranżacje na instrumenty nie tradycyjne takie jak akordeon, gitara czy w co bogatszych gminach syntezator. Muzyke ta pełniła funkcje użytkową, amatorskie kapele przygrywały często na weselach, dożynkach czy innych zabawach. 
 
-Janusz Laskowski urodzony w 1947 r. na Wileńszczyźnie, Debiutował w latach 60 w zespole Ananasy działającym przy Związkach Zawodowych Kolejarzy w Białymstoku. Jego utwory odniosły wielki sukces i często sprzedawane były na bazarach w formie singli wydawanych półlegalnie na pocztówkach. Według Grzegorza Nawrockiego, dziennikarza i dramaturga 
+Janusz Laskowski urodzony w 1947 r. na Wileńszczyźnie, Debiutował w latach 60 w zespole Ananasy działającym przy Związkach Zawodowych Kolejarzy w Białymstoku. Jego utwory odniosły wielki sukces i często sprzedawane były na bazarach w formie singli wydawanych półlegalnie na pocztówkach. Według Grzegorza Nawrockiego, dziennikarza i dramaturga:
 >[!quote]
 >Tu wstawić cytat Nawrockiego  z Polski Bajer str. 26
 
@@ -120,7 +120,21 @@ Ostatnią kategorią Zaproponowaną przez Wachcińską są utwory o tematyce Pat
 
 ## Różnice w Tematyce 
 Między discopolo, a muzyką tradycyjną istnieje wiele paralel, natomiast występują także pewne subtelne różnice. 
-Motywem odróżniającym twórczość tradycyjna, a muzyke chodnikową jest rola przyrody i wiejskiego mistycyzmu. Przyroda w muzyle ludowej związana jest z tradycyjnym światopoglądem , w świetlę którego świat to spójny oranizm, a harmonia koegzystencji składowych tego świata zapewnia spokój i ład. Motywu tego w utworach discopolowych doszukać można się tylo w repertuarze zespołów świadomie sięgających po muzyke ludową.
+Motywem odróżniającym twórczość tradycyjna, a muzyke chodnikową jest rola przyrody i wiejskiego mistycyzmu. Przyroda w muzyle ludowej związana jest z tradycyjnym światopoglądem , w świetlę którego świat to spójny oranizm, a harmonia koegzystencji składowych tego świata zapewnia spokój i ład. Motywu tego w utworach discopolowych doszukać można się tylo w repertuarze zespołów świadomie sięgających po muzyke ludową. Orginalna twórczość discopolowa nie pojmuje przyrody w takiej formie, świat natury pełnią przedewszytkim role ozdobnika.
+Muzyka chodnikowa operuje innymi symbolami - uwspółczeniomy, niesskomplikowanymi. 
+## Charakterystyka Muzyczna
+W muzyce discopolo dominuje metrum parzyste, rytm jest jednak synkopowany co charakterystyczne jest dla krakowaka. 
+Melodyka discopolowa ma charakter kantylenowy, a harmonia utrzymana jest na syntezatorze czesto charakteryzowana przez brzmienie piły (rodzaju fali dźwięku), przypominające akordeon. W wielu utworach występuje również zauważalna relacja między linią melodyczną śpiewana przez wokaliste, a krótkimi, kilkudźwiękowymi wstawkami instrumentalnymi, powstaje pytanie - odpowiedź. 
+Kolejną charakterystyczną cechą discopolo jest linia basowa oparta na prymie akordu, poruszająca się naprzemiennie w oktawach. Jest to zapożyczenie z muzyki italo disco.
+Pod względem harmonicznym w utworach dominują trójdzwięki, zarówno triada harmoniczna jak i akordy poboczne, rzadko kiedy twórcy wychodzą poza tą regułę. 
+## Kontekst Wykonywania Utworów Disco Polo
+Scenicznie wykonania disco polo zawieszone są w dziwnej przestrzeni, z jednej strony discopolo wykonywane jest kameralnie, a z drugiej na Festiwalach i Wydarzeniach Rangi Krajowej (Sylwester z Dwójką).
+Z początku discopolo wykonywana była w tradycyjnych okolicznościach, weselach, dożynkach, zabawach. Tworzy to kolejną paralele z muzyką tradycyjną równierz towarzyszącą tego typu okazją.
+
+
+
+# Podsumowanie
+
 # Literatura
 Bagińska-Oleniacz M., *Dyskoteka jako nowa wersja "pastwiska"? Rzecz o niektórych zachowaniach wspólnotowych młodzierzy*, Rocznik Pedagogiczny 1999, t. 22 s. 143-157 - brak
 
