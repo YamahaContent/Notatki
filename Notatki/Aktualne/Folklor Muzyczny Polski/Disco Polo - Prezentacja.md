@@ -8,9 +8,8 @@ tags:
 Typ: Notatka
 ---
 ---
-# Czym właściwie jest Disco Polo.
-## Definicje
-## Gatunek muzyczny czy Zjawisko Kultularne
+# Wstęp 
+
 # Historia Disco Polo
 ## Geneza
 ### Piosenki Brukowe i Tradycyjne
@@ -134,37 +133,25 @@ Z początku discopolo wykonywana była w tradycyjnych okolicznościach, weselach
 
 
 # Podsumowanie
-Disco polo nie można traktować jako kontynuacji tradycji ludowej. Muzyka chodnikowa narodziała się już po śmierci kultury tradycyjnej, nie jest więc jej następstwem.
-# Literatura
-Bagińska-Oleniacz M., *Dyskoteka jako nowa wersja "pastwiska"? Rzecz o niektórych zachowaniach wspólnotowych młodzierzy*, Rocznik Pedagogiczny 1999, t. 22 s. 143-157 - brak
+Disco polo nie można traktować jako kontynuacji tradycji ludowej. Muzyka chodnikowa narodziała się już po śmierci kultury tradycyjnej, nie jest więc jej następstwem. Dzisiejsze dziscopolo lub neodiscopolo przypomina o wiele bardziej muzykę klubową niż swojego dziada z początku lat 90. 
+Wciąż Aktualną zostaje jednak kwestia występowania, gatunek od początku towarzyszył wiejskim zabawą z okazji wesel, dożynek, dnia gminy, czy święta polskiego ogórka. 
+Disco polo niejako funkcjonuje jako spodkobierca muzyki tradycyjnej ale nie jest jej kontunacją. 
+# Bibliografia
 
----
-
-Bieńkowski A., *Ostatni wiejscy muzykańci, Muzyka Odnaleziona*, Mazowieckie Centrum Kultury i Sztuki, Narodowe Centrum Kultury, Warszawa 2012 - Biblioteka Collegium Historicum
-
-Dabert K., *Krótka Historia disco polo*, "Zeszyt Etnologii Wrocławskiej", 2002, nr 1 (4), s. 57-70 - Biblioteka Collegium Historicum
-
-Donnerstag B., *Na romską nutę. Disco-polo i powrót do tradycji*, Dialog-Pheniben 1999, nr. 2, s. 9-11 - Biblioteka Collegium Historicum
-
-Wężowicz-Ziółkowska D., *Miłość ludowa. Wzory miłości wieśniaczej w polskiej pieśni ludowej XVIII-XX wieku*, Polskie Towarzystwo Ludoznawcze, Wrocław 1991. - Biblioteka Collegium Historicum
-
-Woźniak Z. *Fenomen disco polo i jego miejsce w polskiej kulturze lat dziewięćdziesiątych*, "Etnografia Polska" 1998, nr 1-2, s. 187-203. - Biblioteka Collegium Historicum
-
----
-
-Kołodziejek E. *Repertuar polonijnego zespołu folklorystycznego (na podstawie nagrań płytowych Małego Władzia z Chicago)*, "Przegląd Zachodniopomorski" 1977, z 1-2, s. 97-111 - Biblioteka UAM Ratajczaka
-
-Piotrowska A. G., *Od Carmen po cygańskie disco polo. Mit cygański w kulturze muzycznej Europy nowożytnej*, "Przegląd Narodowościowy - Review of Nationalities", 2014, nr. 3, s. 105-114. - Biblioteka UAM Ratajczaka
-
-Koczanowski L., *Postkomunizm i muzyka pop. Zniszczenie czy odbudowa pamięci w Disco polo*, w: *idem, Polityka czasu. Dynamika tożsamościowa w postkomunistycznej Polsce*, DSW, Wrocław 2009. - biblioteka Ratajczaka
-
-Waliński M., *Mały Władzio i inni. Czy istnieje folklor polonijny? Przegląd Prasy (1 VII - 31 VIII)*, "Literatura Ludowa. Miesięcznik naukowo-literacki", 1977, nr 6, s. 62-76 - Biblioteka UAM Ratajczaka
-
----
-
-Wachcińska O., *Disco polo kontynuacją folkloru? Rozwój muzyki chodnikowej i jej charakterystyka w kontekście rodzimej twórczości ludowej*, "Warmińsko-Mazurski Kwartalnik Naukowy. Nauki Społeczne" 2013, nr. 3m s 87-102. - Online
+Borys M., *Polski Bajer*
 
 
+Wachcińska O., *Disco polo kontynuacją folkloru? Rozwój muzyki chodnikowej i jej charakterystyka w kontekście rodzimej twórczości ludowej*, "Warmińsko-Mazurski Kwartalnik Naukowy. Nauki Społeczne" 2013, nr. 3, s 87-102.
 
+Perka D., *Muzyka Disco Polo - Hołd Tradycji czy Parodia*, Praca licencjacka napisana podk kierunkiem Prof. dr hab. Bożeny Muszkalskiej, Wrocław 2017
 
----
+Bieńkowski A., *Ostatni wiejscy muzykańci, Muzyka Odnaleziona*, Mazowieckie Centrum Kultury i Sztuki, Narodowe Centrum Kultury, Warszawa 2012 
+
+Dabert K., *Krótka Historia disco polo*, "Zeszyt Etnologii Wrocławskiej", 2002, nr 1 (4), s. 57-70 
+
+Wężowicz-Ziółkowska D., *Miłość ludowa. Wzory miłości wieśniaczej w polskiej pieśni ludowej XVIII-XX wieku*, Polskie Towarzystwo Ludoznawcze, Wrocław 1991. 
+
+Filar W. *Fenomen disco polo w kontekście kultury lat dziewięćdziesiątych*, "Kultura Popularna" 2014 nr 1, s. 102-119. 
+
+Kołodziejek E. *Repertuar polonijnego zespołu folklorystycznego (na podstawie nagrań płytowych Małego Władzia z Chicago)*, "Przegląd Zachodniopomorski" 1977, z 1-2, s. 97-111 - 
+
