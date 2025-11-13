@@ -8,7 +8,14 @@ tags:
 Typ: Notatka
 ---
 ---
-# Wstęp 
+# Czym jest właściwie disco polo
+## Nazwa 
+Discopolo początkowo funkcjonowało jako muzyka chodnikowa. Wyjaśnić.
+cytat "zycie to są chwile" - str. 66
+## Gatunek, czy zjawisko kulturowe
+Trudno zidentyfikować cechy gatunkowe specyficzne dla disco polo, poza falsetem ("Nikt nie słucha str. 39"). Kolejnym punktem spornym 
+Disco polo funkcjonuje tez jako miejsce sporu kulturowego, pomiedzy "inteligencją", a "ciemnotą".
+Muzyka chodnikowa interpretowana możę być też jako odbicie transformacyjnej polski, ukazyjący zachwyt zachodem w polskim "kiczowatym" stylu.
 
 # Historia Disco Polo
 ## Geneza
@@ -48,11 +55,17 @@ Do popularyzacji disco w polsce przyczynił się również Bogdan Fabiański dzi
 
 ## Inne Wpływy
 ### ZSRR i podlaska szkoła coveru
-Twórcy z podlasia często "przerabiali" piosenki za wschodniej granicy, tłumacząc lub pisząc nowy tekst. Przykładem mogą być zespoły Mirage i Mirage-2 powstałe w Bielsku Podlaskim oraz Moskiewski Мираж. Pierwszy z tej trójki był Мираж założony w 86 roku, w 89 wydał utwór Снова вместе (znowu razem), utrzymany w stylistyce rosyjskiego pop rocka z czasów piesretrojki. Polską przeróbke w stylu biesiadnym i z nowym tekstem w 92 wydał założony przez Janusza Konoplę zespół Mirage, a kolejnej reinterpretacji w stylu zblizonym do późniejszego discopolo utwór doczekał się za sprawą zespołu Mirage 2. Mirage 2 założony przez Tomasza Sidoruka przerobił cała kasete zespołu Mirage nadając jej nowego bardziej elektronicznego brzmienia. Przypadek Trzech Miraży nie jest odosobniony. 
+Twórcy z podlasia często "przerabiali" piosenki za wschodniej granicy, tłumacząc lub pisząc nowy tekst. Przykładem mogą być zespoły Mirage i Mirage-2 powstałe w Bielsku Podlaskim oraz Moskiewski Мираж. Pierwszy z tej trójki był Мираж założony w 86 roku, w 89 wydał utwór Снова вместе (znowu razem), utrzymany w stylistyce rosyjskiego pop rocka z czasów piesretrojki. Polską przeróbke w stylu biesiadnym i z nowym tekstem w 92 wydał założony przez Janusza Konoplę zespół Mirage, a kolejnej reinterpretacji w stylu zblizonym do późniejszego discopolo utwór doczekał się za sprawą zespołu Mirage 2. Mirage 2 założony przez Tomasza Sidoruka przerobił cała kasete zespołu Mirage nadając jej nowego bardziej elektronicznego brzmienia. Przypadek Trzech Miraży nie jest odosobniony, ukazuje on specyficczną role w jakiej funkcjonowała ówczesna muzyka.
 >[!important]
 >Wstawić fragmen wywiadu z Skrętą - Film "Bara, Bara" 23 minuta.
+>ewentualnie "zycie to sa chwile" str.50
 ### Romowie
-Muzyka romska funkcjonowała w disco polo dwojako. Muzyka Romska wykonywana w bardziej nowoczesny sposób zaliczna 
+Muzyka romska funkcjonowała w disco polo dwojako. Muzyka Romska wykonywana w bardziej nowoczesny sposób zaliczna jest często do disco polo, z drugiej strony wiele zespołów chodnikowych w sposób pośredni lub bezpośredni inspirowało się muzyką romską. 
+Przykładem może być Zenek Martyniuk, który sam podkreśla role muzyki Romskiej w jego działalności. 
+>[!importat]
+>Cytat z "Życie to są chwile" str. 60
+
+Motyw Cygana przejawia się także w wastwie muzycznej, przykładem może być utwór Duo Night - *Biały cygan* (tekst Polski Bajer str. 115)
 
 ---
 
@@ -109,7 +122,7 @@ Często motywy te zazębiają się ze sobą i przenikają, np. jedna zwrotka mo�
 ### Erotyki
 Następną liczną grupą są teksty o zabarwieniu erotycznym, mniej lub bardziej rubaszne. Teksty często balansują pomiędzy oczysistymi aluzjami i dwuznacznościami, a dosłowną wręcz niekiedy wulgarną deskrypcją czynu. Co prawda w muzyce ludowej motywy erotyczne nie są aż tak popularne, nadal występują. Inną teoria o braku erotyzmu w piosence tradycyjnej jest "ocenzurowanie" niektórych tekstów przez wczesnych etnologów i muzykologów m.in. Kolberga.  
 >[!important]
->Zweryfikować informacje o Kolbergu z Polskiego Bajeru
+>Zweryfikować informacje o Kolbergu z Polskiego Bajeru str. 188
 
 Według Dobrosławy Wężowicz-Ziókowskiej, która skupiła się na erotycznym repertuarze piosenki wiejskiej, stosunki intywne porównywane były do różnego rodzaju prac rolnych, np. koszenia, grabienia, mółcenia.
 ### Gloryfikacja Zabawy.
@@ -123,7 +136,11 @@ Motywem odróżniającym twórczość tradycyjna, a muzyke chodnikową jest rola
 Muzyka chodnikowa operuje innymi symbolami - uwspółczeniomy, niesskomplikowanymi. 
 ## Charakterystyka Muzyczna
 W muzyce discopolo dominuje metrum parzyste, rytm jest jednak synkopowany co charakterystyczne jest dla krakowaka. 
-Melodyka discopolowa ma charakter kantylenowy, a harmonia utrzymana jest na syntezatorze czesto charakteryzowana przez brzmienie piły (rodzaju fali dźwięku), przypominające akordeon. W wielu utworach występuje również zauważalna relacja między linią melodyczną śpiewana przez wokaliste, a krótkimi, kilkudźwiękowymi wstawkami instrumentalnymi, powstaje pytanie - odpowiedź. 
+Melodyka discopolowa ma charakter kantylenowy, a harmonia utrzymana jest na syntezatorze czesto charakteryzowana przez brzmienie piły (rodzaju fali dźwięku), przypominające akordeon.
+>[!important]
+>Można przytoczyć Dr. Jasnowidza - "Tylko jeden nam pomaga" z "Polski Bajer" str. 86
+
+W wielu utworach występuje również zauważalna relacja między linią melodyczną śpiewana przez wokaliste, a krótkimi, kilkudźwiękowymi wstawkami instrumentalnymi, powstaje pytanie - odpowiedź. 
 Kolejną charakterystyczną cechą discopolo jest linia basowa oparta na prymie akordu, poruszająca się naprzemiennie w oktawach. Jest to zapożyczenie z muzyki italo disco.
 Pod względem harmonicznym w utworach dominują trójdzwięki, zarówno triada harmoniczna jak i akordy poboczne, rzadko kiedy twórcy wychodzą poza tą regułę. 
 ## Kontekst Wykonywania Utworów Disco Polo
@@ -137,6 +154,9 @@ Disco polo nie można traktować jako kontynuacji tradycji ludowej. Muzyka chodn
 Wciąż Aktualną zostaje jednak kwestia występowania, gatunek od początku towarzyszył wiejskim zabawą z okazji wesel, dożynek, dnia gminy, czy święta polskiego ogórka. 
 Disco polo niejako funkcjonuje jako spodkobierca muzyki tradycyjnej ale nie jest jej kontunacją. 
 # Bibliografia
+
+>[!important]
+>Dokończyć
 
 Borys M., *Polski Bajer*
 
