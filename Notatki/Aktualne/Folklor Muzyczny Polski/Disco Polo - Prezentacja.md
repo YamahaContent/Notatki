@@ -13,7 +13,7 @@ Typ: Notatka
 Discopolo początkowo funkcjonowało jako muzyka chodnikowa. Wyjaśnić.
 cytat "zycie to są chwile" - str. 66
 ## Gatunek, czy zjawisko kulturowe
-Trudno zidentyfikować cechy gatunkowe specyficzne dla disco polo, poza falsetem ("Nikt nie słucha str. 39"). Kolejnym punktem spornym 
+Trudno zidentyfikować cechy gatunkowe specyficzne dla disco polo, poza falsetem ("Nikt nie słucha str. 39"). Kolejnym punktem spornym jest na ile disco polo jest osobnym gatunkiem, a lokalną wariacja na temat italo disco. 
 Disco polo funkcjonuje tez jako miejsce sporu kulturowego, pomiedzy "inteligencją", a "ciemnotą".
 Muzyka chodnikowa interpretowana możę być też jako odbicie transformacyjnej polski, ukazyjący zachwyt zachodem w polskim "kiczowatym" stylu.
 
