@@ -88,13 +88,25 @@ Wacław z Szamotuł komponował także monodie takie jak *Dziękowanie po jedzen
 Zachowało się kilka poematów sygnowanych nazwiskiem kompozytora. Pierwszy datuje się na 1539 r., napisany był na okaze welsea Elżbiety Zapoliny. 
 W 1553 roku ukazał się poemat we wstępnie do Lamentacji dedykowany Zygmuntowi Augustowi.
 
+#### Pieśni Reformacyjne
+Wacław przeniósł się na dwór Mikołaja Krzysztofa Radziwiła zwanego Czarnym. Radziwił przesedł na Luterianizm, propagował później ten odłam religii.
+W tym okresie Wacław napisał 8 reformacyjnych pieśni czterogłosowych. Charakteryzowała je prosta akordowa faktura, związki słowno muzyczne.
 
 ---
 
-### Marcin Leopolita
+## Marcin Leopolita
+### Biografia
+Marcin ze Lwowa, Lwówczyk, łac. *Leopolis*. Żyjący około 1540 - 1589 r.. Diałał na dworze królewskim Zygmunta Augusta w latach 1560-61.
+### Twórczość
+Twórczość Leopolita jest szczątkowo zachowana, ostały się tylko MIssa Paschalis, pięć motetów.
 
-## Muzyka o cechach **Lokalnych**
-### Kapela Rorantystów
+*Missa Paschalis* to pięciogłosowa msza z głosem 6 w Agnus Dei. Brak orginału, zachowały się tylko dwie kopie z XVII wieku. Jest to **pierwszy zachowany polski cykl mszalny**.  Materiał dźwiękowy składa się z 4 pieśni wielkanocnych, z których *Chrystus Pan zmartwychstał* odgrywa rolę wyjątkową, staje się rodzajem "motywu czołowego", pojawia się takżę w wielu momentach w toku dzieła.
+
+Styl mszy reprezentuje styl polifonii lat 1560-1580. Charakteryzuje go:
+- Obsada pięciogłosowa z sześciogłosem w części Agnus Dei
+- Przeciwstawianie odcinków kontrastujących faktralnie 
+- Melodyka zwokalizowana
+
 
 # Muzyka o Cechach Lokalnych 
 ## Kompozytorzy Teoretyczni
