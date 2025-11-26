@@ -32,6 +32,8 @@ Już w renesansie posługiwano się muzyką w ramach przedstawień teatralnych (
 
 ## Postulaty _Cameraty_
 
+^96c82d
+
 Do postulatów Cameraty należały m.in.:
 
 - Powrót do muzyki starożytnej Grecji, która pełni rolę wychowawczą, etyczną
