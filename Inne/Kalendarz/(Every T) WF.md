@@ -1,5 +1,5 @@
 ---
-title: WF?
+title: WF
 allDay: false
 startTime: 08:00
 endTime: 09:30
