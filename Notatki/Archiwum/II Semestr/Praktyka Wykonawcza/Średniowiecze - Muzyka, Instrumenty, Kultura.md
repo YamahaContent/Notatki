@@ -53,6 +53,8 @@ Wagner transkrybował z minimą, ćwierćnutą i ósemką. Jeannin używał tylk
 
 ### Solesmes
 
+^d948cb
+
 Ożywczy ferment pojawia się pod koniec XIX wieku we Francji w klasztorze Solesmes. Benedyktyn Dom Prosper Gueranger wraz z zespołem mnichów muzykologów postanawiają odwołać się nie do edycji Medycejskiej, ale do źródeł średniowiecznych. Rozpoczyna się akcja kolekcjonowania, porównywania i wydawania oryginalnych melodii chorałowych.
 
 ### Postulaty Solesmes
