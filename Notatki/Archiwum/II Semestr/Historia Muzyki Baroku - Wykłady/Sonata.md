@@ -8,6 +8,7 @@ tags:
   - kompozytor/Arcangelo-Corelli
   - epoka/barok
   - lokalizacja/europa
+  - forma/sonatowa
 ---
 # Sonata triową
 
@@ -39,9 +40,7 @@ Uważana za sonatę właściwą
 
 ### _Da Camera_
 
-Składa się z preludium i 3-4 tańcó.
-
-S
+Składa się z preludium i 3-4 tańców.
 
 Posiadała **śpiewną melodykę**, cechowała się **mniejszą polifonią**, **większą symetrią** i **prostszą fakturą.**
 
