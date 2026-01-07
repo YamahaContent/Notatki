@@ -16,6 +16,7 @@ tags:
 ---
 Rodzaj koncertu w którym współzawodniczą dwie grupy instrumentalne: _**ripieno**_ (tutti, concerto grosso) i _**concertino**_ (solo). Przejęta z muzyki wokalnej canzona rozrosła się na nowym gruncie muzyki instrumentalnej do monumentalnych form: _concerto grosso_ i koncertu złożonego
 
+
 # Arcangelo Corelli (1653-1713)
 
 Twórcą tego gatunku był Arcangelo Corelli. Jego _12 Concerti Grossi_ op. 6 grano w Rzymie już **w 1682 roku**. Wydane w 1714 roku, stanowią najstarsze znane przykłady tego gatunku. Forma ta zyskała ogromne powodzenie i była naśladowana przez cały okres baroku.
