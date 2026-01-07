@@ -45,3 +45,6 @@ Ruch encyklopedyczny powstał we francji w połowie XVIII wieku.
 # Gatunki muzyki religijnej w twórczości Mozarta.
 
 # Archaizm muzyki religijnej na przykładzie Mszy c-moll Mozarta
+
+# Styl C-moll
+Zaanalizować można utwory (ostatnia sonata Bethovenna)
