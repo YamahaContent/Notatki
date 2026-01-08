@@ -70,48 +70,46 @@ Scott Burnham w _Beethoven Hero_ (1995) interpretuje **Symfonię nr 3 "Eroica" (
 # Muzyczna Charakterystyka postaci w Operach Mozarta na Przykładzie Hrabiny z *Wesela Figara*.
 
 ## Mozart jako dramaturg muzyczny
-
 Wolfgang Amadeus Mozart wypracował w swoich operach dojrzałych, szczególnie w trójcy arcydzieł stworzonych z librecistą Lorenzo Da Ponte (_Le nozze di Figaro_, _Don Giovanni_, _Così fan tutte_) niezwykle wyrafinowany system muzycznej charakterystyki postaci. Joseph Kerman w _Opera as Drama_ argumentuje, że Mozart przekroczył konwencje opery XVIII-wiecznej, tworząc postacie o psychologicznej głębi porównywalnej z dramatem szekspirowskim. Kompozytor **nie ograniczał się do przypisywania postaci określonych typów arii odpowiadających standaryzowanym afektom**, ale rozwijał ich charaktery muzycznie w czasie, pokazując wewnętrzne konflikty, rozwój emocjonalny i złożoność osobowości.
 Wye Jamison Allanbrook w przełomowej monografii _Rhythmic Gesture in Mozart: Le nozze di Figaro and Don Giovanni_ (1983) wykazała, że Mozart systematycznie używał konwencji rytmicznych i tanecznych jako swoistego "leksykonu" społecznych i psychologicznych znaczeń. Każdy typ tańca czy gestu muzycznego niósł specyficzne konotacje klasowe, społeczne i emocjonalne, które wykształcony słuchacz XVIII wieku natychmiast rozpoznawał. Mozart jednak nie stosował tych konwencji mechanicznie, ale grał nimi, mieszał je, subwertował - tworząc tym samym postaci wielowymiarowe i prawdziwe psychologicznie.
 
 ## _Le nozze di Figaro_ 
 _Le nozze di Figaro_ (KV. 492, **premiera** w Wiedniu **7 maja 1786**) to opera buffa oparta na komedii Pierre'a Beaumarchais'go _Le Mariage de Figaro_ (1778). Libretto Da Pontego, choć złagodziło najbardziej rewolucyjne aspekty oryginału, zachowało jego społeczną krytykę - pokazuje arystokrację w moralnym kryzysie i sługi moralnie i intelektualnie przewyższających swoich panów.
-## Hrabina Almaviva - portret psychologiczny
-
+## Hrabina Rosina Almaviva 
 ### Pozycja społeczna i dramatyczna
-Hrabina Rosina Almaviva (sopran) zajmuje wyjątkową pozycję w operze. Jest arystokratką z urodzenia, żoną Hrabiego - centralną postacią w hierarchii społecznej świata _Figara_. Jednocześnie jednak to ona jest ofiarą w dramacie - zdradzona przez męża, zaniedbana, poniżona. Edward Dent w klasycznej monografii _Mozart's Operas: A Critical Study_ (1913, wyd. rozszerzone 1947) zauważa paradoks: Hrabina jest postacią najwyżej usytuowaną społecznie, ale emocjonalnie najbardziej bezbronną.
+Hrabina Rosina Almaviva (sopran) zajmuje wyjątkową pozycję w operze. Jest arystokratką z urodzenia, żoną Hrabiego - centralną postacią w hierarchii społecznej świata _Figara_. Jednocześnie jednak to ona jest ofiarą w dramacie - zdradzona przez męża, zaniedbana, poniżona. Edward Dent w monografii _Mozart's Operas: A Critical Study_ zauważa paradoks: **Hrabina jest postacią najwyżej usytuowaną społecznie, ale emocjonalnie najbardziej bezbronną.**
 
-Daniel Heartz w _Mozart's Operas_ (1990) argumentuje, że Hrabina reprezentuje charakterystyczny dla Mozarta typ - szlachetna kobieta cierpiąca z powodu niewierności mężczyzny. Ten archetyp pojawi się później w Donnie Elviry (_Don Giovanni_) i Fiordiligi (_Così fan tutte_), ale Hrabina jest jego najbardziej subtelnym i poruszającym wcieleniem.
-
-### Muzyczna charakterystyka - środki wyrazu
-
+Daniel Heartz w _Mozart's Operas_ (1990) argumentuje, że Hrabina reprezentuje charakterystyczny dla Mozarta typ - szlachetna kobieta cierpiąca z powodu niewierności mężczyzny. Ten archetyp pojawi się później w Donnie Elviry (_Don Giovanni_) i Fiordiligi (_Così fan tutte_).
+### Muzyczna charakterystyka Hrabiny
 Mozart charakteryzuje Hrabinę przez:
+#### **Tonacje**
+Hrabina śpiewa głównie w tonacjach durowych z domieszką chromatyki:
+- Es-dur (aria "Porgi amor"), 
+- C-dur (tercet i sekstety finałowe). 
+Charles Rosen zwraca uwagę, że tonacje Hrabiny są "arystokratyczne" - jasne, przejrzyste, ale z cieniami melancholii.
+#### **Linia melodyczna** 
+Jej **partie wokalne** charakteryzują się **szerokim zakresem, długimi, przepływającymi frazami i ozdobnikami typowymi dla opery seria**. To muzyka *szlachetna* w sensie stylistycznym, odwołująca się do wyższego gatunku operowego niż buffa.
+#### **Orkiestracja** 
+Mozart otacza Hrabinę delikatną, przejrzystą fakturą orkiestrową. Szczególnie ważne są instrumenty dęte drewniane - oboje i klarnety, które Allanbrook interpretuje jako symbole wrażliwości i intymności emocjonalnej.
+#### **Rytm**
+W przeciwieństwie do innych postaci, Hrabina rzadko śpiewa w rytmach tanecznych. Jej muzyka jest bardziej "nielotna", refleksyjna, operująca wolniejszymi tempami i bardziej złożonymi wzorcami rytmicznymi.
 
-**Tonacje**: Hrabina śpiewa głównie w tonacjach durowych z domieszką chromatyki - E-dur (aria "Porgi amor"), C-dur (tercet i sekstety finałowe). Charles Rosen w _The Classical Style_ (1971) zwraca uwagę, że tonacje Hrabiny są "arystokratyczne" - jasne, przejrzyste, ale z cieniami melancholii.
-
-**Linia melodyczna**: Jej partie wokalne charakteryzują się szerokim zakresem, długimi, przepływającymi frazami i ozdobnikami typowymi dla opery seria. To muzyka "szlachetna" w sensie stylistycznym - odwołująca się do wyższego gatunku operowego niż buffa.
-
-**Orkiestracja**: Mozart otacza Hrabinę delikatną, przejrzystą fakturą orkiestrową. Szczególnie ważne są instrumenty dęte drewniane - oboje i klarnety, które Allanbrook interpretuje jako symbole wrażliwości i intymności emocjonalnej.
-
-**Rytm i gesture**: W przeciwieństwie do innych postaci, Hrabina rzadko śpiewa w rytmach tanecznych. Jej muzyka jest bardziej "nielotna", refleksyjna, operująca wolniejszymi tempami i bardziej złożonymi wzorcami rytmicznymi.
-
-## Aria "Porgi, amor, qualche ristoro" - analiza szczegółowa
-
+## Aria *Porgi, amor, qualche ristoro* - analiza 
 ### Kontekst dramatyczny
+Aria *Porgi, amor* otwiera akt drugi opery (nr 11 w numeracji). Jest to pierwsza aria Hrabiny - Mozart celowo opóźnia jej solowy występ, budując oczekiwanie. Zastajemy Hrabinę samą w swojej komnacie, pogrążoną w rozpaczy z powodu niewierności męża. Libretto Da Pontego jest niezwykle oszczędne zaledwie **czterech wersów**:
 
-Aria "Porgi, amor" otwiera akt drugi opery (nr 11 w numeracji). Jest to pierwsza aria Hrabiny - Mozart celowo opóźnia jej solowy występ, budując oczekiwanie. Zastajemy Hrabinę samą w swojej komnacie, pogrążoną w rozpaczy z powodu niewierności męża. Libretto Da Pontego jest niezwykle oszczędne - zaledwie osiem wersów:
-
+>[!quote]
 _Porgi, amor, qualche ristoro_ _al mio duolo, a' miei sospir!_ _O mi rendi il mio tesoro,_ _o mi lascia almen morir!_
 
 (Użycz, miłości, jakiejś pociechy / memu bólowi, mym westchnieniom! / Albo zwróć mi mój skarb, / albo pozwól mi przynajmniej umrzeć!)
 
 ### Forma i struktura
+Aria jest napisana w prostej **formie dwuczęściowej** (AB), utrzymane w metrum **2/4** oraz tonacji **Es-dur**.
+**Część A (takty 1-17)**: Wstęp instrumentalny
+**Część B (takty 18-51)**: Właśniwa Aria
 
-Aria jest napisana w prostej formie dwuczęściowej (AB), co Daniel Heartz interpretuje jako świadome nawiązanie do arioso z opery seria - gatunku reprezentującego wyższe sfery społeczne i emocjonalne. Czas trwania: około 3-4 minuty, tempo: Larghetto, metrum: 3/4, tonacja: E-dur.
-
-**Część A (takty 1-28)**: Prezentacja głównego materiału tematycznego i tekstu wersetów 1-2. **Część B (takty 29-56)**: Intensyfikacja ekspresji i tekstu wersetów 3-4, kulminacja emocjonalna, powrót do materiału z części A jako coda.
-
-### Wprowadzenie orkiestrowe (takty 1-12)
+Obsada obejmuje:
+### Wprowadzenie orkiestrowe (takty 1-17)
 
 Aria rozpoczyna się rozbudowanym wprowadzeniem orkiestrowym, które Julian Rushton w artykule "The Operatic Aria" (_The Mozart Compendium_, 1990) opisuje jako "emblematyczne" - streszcza charakter emocjonalny całej arii. Orkiestracja: smyczki con sordino (z tłumikami), instrumenty dęte drewniane (oboje, fagoty, rogi).
 
