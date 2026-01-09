@@ -77,7 +77,7 @@ Wye Jamison Allanbrook w przełomowej monografii _Rhythmic Gesture in Mozart: Le
 _Le nozze di Figaro_ (KV. 492, **premiera** w Wiedniu **7 maja 1786**) to opera buffa oparta na komedii Pierre'a Beaumarchais'go _Le Mariage de Figaro_ (1778). Libretto Da Pontego, choć złagodziło najbardziej rewolucyjne aspekty oryginału, zachowało jego społeczną krytykę - pokazuje arystokrację w moralnym kryzysie i sługi moralnie i intelektualnie przewyższających swoich panów.
 ## Hrabina Rosina Almaviva 
 ### Pozycja społeczna i dramatyczna
-Hrabina Rosina Almaviva (sopran) zajmuje wyjątkową pozycję w operze. Jest arystokratką z urodzenia, żoną Hrabiego - centralną postacią w hierarchii społecznej świata _Figara_. Jednocześnie jednak to ona jest ofiarą w dramacie - zdradzona przez męża, zaniedbana, poniżona. Edward Dent w monografii _Mozart's Operas: A Critical Study_ zauważa paradoks: **Hrabina jest postacią najwyżej usytuowaną społecznie, ale emocjonalnie najbardziej bezbronną.**
+Hrabina Rosina Almaviva (sopran) zajmuje wyjątkową pozycję w operze. Jest arystokratką z urodzenia, żoną Hrabiego, centralną postacią w hierarchii społecznej świata _Figara_. Jednocześnie jednak to ona jest ofiarą w dramacie, zdradzona przez męża, zaniedbana, poniżona. **Hrabina jest postacią najwyżej usytuowaną społecznie, ale emocjonalnie najbardziej bezbronną.**
 
 Daniel Heartz w _Mozart's Operas_ (1990) argumentuje, że Hrabina reprezentuje charakterystyczny dla Mozarta typ - szlachetna kobieta cierpiąca z powodu niewierności mężczyzny. Ten archetyp pojawi się później w Donnie Elviry (_Don Giovanni_) i Fiordiligi (_Così fan tutte_).
 ### Muzyczna charakterystyka Hrabiny
@@ -109,6 +109,13 @@ Aria jest napisana w prostej **formie dwuczęściowej** (AB), utrzymane w metrum
 **Część B (takty 18-51)**: Właśniwa Aria
 
 Obsada obejmuje:
+- Dwa klarnety w B
+- Dwa Fagoty
+- Dwie Trabki w Es
+- Skrzypce I i II
+- Viole I i II
+- Sopran
+- Grupe Wiolonczeli i Basu
 
 # Francuski Rodowód i Innowacyjność *Wesela Figara*na Poziomie Libretta i jego Opracowania Muzycznego.
 
