@@ -11,6 +11,7 @@ tags:
   - techniki/basso-continuo
   - gatunek/madrygał
   - kompozytor/Claudio-Monteverdi
+  - styl/concitato
 ---
 # Obszar przemian
 
