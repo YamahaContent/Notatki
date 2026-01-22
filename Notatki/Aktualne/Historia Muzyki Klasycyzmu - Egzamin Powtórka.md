@@ -411,34 +411,417 @@ Dzieło to, napisane do libretta **Emanuela Schikanedera**, jest przepełnione *
 
 Uwertura do „Czarodziejskiego fletu” rozpoczyna się trzema akordami, symbolizującymi pukanie adepta do drzwi loży, co odzwierciedla oświeceniowe dążenie do syntezy sztuki i ideologii.
 
+--- 
 # Katalogi kompozytorskie Haydna, Mozarta i Beethovena
+## Katalogowanie
+Systematyzacja twórczości muzycznej w formie katalogów stała się nieodzownym elementem nowoczesnej muzykologii, pozwalając na precyzyjną identyfikację i klasyfikację dzieł klasyków wiedeńskich. Choć obecnie posługujemy się precyzyjnymi numeracjami, należy pamiętać, że samo zjawisko katalogowania upowszechniło się dopiero w XIX wieku. Wcześniej kompozytorzy rzadko przykładali wagę do systematycznego numerowania swoich dzieł, a najpowszechniejszym sposobem oznaczania był łaciński termin **Opus** (dzieło), określający kolejność powstawania lub wydawania utworów. Przełomem w tym zakresie była postać Ludwiga van Beethovena, który jako pierwszy zaczął konsekwentnie stosować numerację opusową. Nazwy współczesnych katalogów zazwyczaj pochodzą od nazwisk badaczy, którzy podjęli się trudu ich sporządzenia.
 
-# Katalogi Kompozytorskie
+## Katalog Dzieł Wolfganga Amadeusa Mozarta (Köchel-Verzeichnis)
+Dzieła Mozarta identyfikowane są za pomocą skrótu **KV** (Köchel-Verzeichnis) lub w tradycji anglosaskiej literą **K.**. Twórcą tego monumentalnego spisu był **Ludwig Ritter von Köchel**, a jego pierwsze wydanie ukazało się w **1864 roku**. Köchel postawił sobie za cel uporządkowanie spuścizny kompozytora w sposób chronologiczny i tematyczny.
 
+Katalog ten jest niezwykle szczegółowy i zawiera nie tylko numerację, ale także:
+- **Incypit** (początkowe takty utworu).
+- **Obsadę**, ze szczególnym uwzględnieniem instrumentów _obbligato_.
+- **Datę powstania** oraz informacje o źródłach (np. lokalizację rękopisów czy autografów).
+- **Informacje o pochodzeniu tekstu** (w przypadku utworów wokalnych) oraz notatki wykonawcze i dedykacje.
+
+Ze względu na postęp badań muzykologicznych, katalog doczekał się wielu reedycji – do dnia dzisiejszego ukazało się ich dziewięć. Przykładem dzieła identyfikowanego tym systemem jest **Symfonia nr 38 D-dur „Praska”**, oznaczona jako **KV 504**.
+
+## Katalog Dzieł Josepha Haydna (Hoboken-Verzeichnis)
+W przypadku Josepha Haydna, ze względu na ogromną liczbę skomponowanych utworów (samej symfoniki pozostawił 104 numerowane dzieła), tradycyjny system opusowy był niewystarczający. Głównym systemem identyfikacji jest **Katalog Hobokena**, oznaczany skrótem **Hob.**. Został on wydany w **1978 roku** przez **Anthony’ego von Hobokena**.
+
+W przeciwieństwie do katalogu Mozarta, Hoboken przyjął podział tematyczny (według gatunków), dzieląc twórczość Haydna na tomy oznaczone liczbami rzymskimi:
+- **Hob. I** – obejmuje symfonie.
+- **Hob. III** – kwartety smyczkowe.
+- **Hob. IX** – tańce.
+- **Hob. XXII** – msze.
+
+Katalog Hobokena obejmuje zarówno dzieła z nadaną przez wydawców numeracją opusową, jak i utwory określane jako **WoO** (_Werke ohne Opuszahl_), czyli dzieła bez numeru opusowego. Przykładem jest **Symfonia Es-dur nr 103 „Z uderzeniem w kocioł”**, sklasyfikowana jako **Hob. I:103**.
+
+## Katalogowanie Twórczości Ludwiga van Beethovena
+Beethoven był pionierem w świadomym stosowaniu numeracji **Opus (op.)** do budowania swojego artystycznego wizerunku. Jednak ze względu na fakt, że wiele jego kompozycji (zwłaszcza wczesnych lub fragmentów) nie otrzymało numeru opusowego za życia kompozytora, muzykologia wypracowała katalogi uzupełniające:
+1. **Katalog Kinsky’ego-Halma** – obejmuje dzieła z numeracją opusową oraz utwory **WoO** (dzieła bez opusu).
+2. **Katalog Hessa** – skupia się na fragmentach i dziełach niedokończonych.
+3. **Katalog Biamontiego** – jest to próba ułożenia wszystkich 849 pozycji z dorobku kompozytora w porządku chronologicznym.
+4. 
+Numeracja opusowa Beethovena pozwala śledzić ewolucję jego stylu, od wczesnych dzieł nawiązujących do Haydna, po późne, eksperymentalne sonaty i kwartety. Przykładem klasycznego dzieła opatrzonego numerem opusowym jest **V Symfonia c-moll op. 67**.
+--- 
 # Allegro sonatowe i cykl sonatowy klasyków wiedeńskich na przykładzie twórczości na fortepian solo
+## Cykl Sonatowy
+Wykształcenie się klasycznej formy i cyklu sonatowego w twórczości na fortepian solo to jeden z najważniejszych procesów w historii muzyki XVIII i początku XIX wieku. Przemiana ta dokonała się na styku racjonalizmu oświeceniowego, dynamicznego rozwoju technologii budowy instrumentów klawiszowych oraz głębokiej zmiany w estetyce postrzegania emocji ludzkich.
 
+## Fundament estetyczny
+Przejście od baroku do klasycyzmu na płaszczyźnie formy sonatowej wiązało się z odrzuceniem barokowej teorii afektów opartej na pismach René Descartesa (Kartezjusza) z 1649 roku. W modelu barokowym afekt był statyczny i wrodzony; utwór lub jego część (np. aria _da capo_) reprezentowała jedno konkretne uczucie.
+
+W dojrzałym klasycyzmie (lata 70. i 80. XVIII wieku) zaczęła dominować myśl **Davida Hartleya** (asocjacjonizm), według której emocje są nabyte, płynne i zależą od bodźców zewnętrznych. Nowa estetyka dopuszczała **poliafektacyjność** – współwystępowanie wielu emocji jednocześnie. Forma sonatowa, oparta na dualizmie lub pluralizmie tematycznym, stała się idealnym muzycznym odzwierciedleniem tego dynamicznego „strumienia” uczuć.
+
+## Rozwój formy: Od Scarlattiego do teoretyków XIX wieku
+Za prototyp klasycznej sonaty uważa się utwory klawesynowe **Domenico Scarlattiego**. Choć były one zazwyczaj jednoczęściowe, wprowadzały już samodzielne, kontrastujące tematy, ruchliwość tonacyjną oraz wyodrębnioną partię przetworzeniową, co sprzyjało osiąganiu wyrazistych kulminacji.
+
+Właściwa definicja formy sonatowej (allegra sonatowego) pojawiła się dopiero po śmierci Beethovena, sformułowana przez **Carla Czernego** (1840) i **Hugona Riemanna** (1883). Riemannowski model zakładał ścisły schemat:
+1. **Ekspozycja:** Temat I (tonika), łącznik modulujący, Temat II (dominanta lub paralela), myśl końcowa i coda.
+2. **Przetworzenie:** Praca motywiczna nad tematami, ich fragmentacja i zmiany tonacyjne.
+3. **Repryza:** Powtórzenie tematów z ujednoliceniem tonalnym (oba w tonice).
+4. **Coda:** Zakończenie utworu.
+
+## Cykl sonatowy: Struktura i ewolucja
+Modelowy, klasyczny cykl sonatowy ustalił się jako struktura czteroczęściowa, choć w twórczości na fortepian solo często redukowano go do trzech ogniw:
+- **Część I:** Szybka (allegro sonatowe), często poprzedzona powolnym wstępem.
+- **Część II:** Wolna (forma pieśniowa, wariacje lub forma sonatowa bez przetworzenia).
+- **Część III:** Taneczna (menuet z triem, później u Beethovena scherzo).
+- **Część IV:** Finał (szybkie rondo, allegro sonatowe lub rondo sonatowe).
+## Twórczość fortepianowa klasyków wiedeńskich – analiza porównawcza
+
+### Joseph Haydn
+Haydn, nazywany „ojcem” wielu klasycznych form, tworzył sonaty (katalogowane przez **Anthony’ego von Hobokena – skrót Hob.**) przez niemal całe życie. Jego allegra sonatowe często różnią się od schematów Mozarta czy Beethovena, ponieważ kompozytor ten preferował **monotematyzm**. Napięcie budował nie tyle poprzez kontrast dwóch melodii, co poprzez grę planami tonalnymi i relacją toniczno-dominantową.
+
+**Przykład muzyczny:** _Sonata Es-dur Hob. XVI:52_. Jest to dzieło z okresu mistrzowskiego, wykazujące się bogatą harmoniką i monumentalnością, zapowiadającą styl Beethovena.
+
+### Wolfgang Amadeus Mozart
+Sonaty Mozarta (katalog **Ludwiga von Köchla – skrót KV**) cechują się dualizmem tematycznym, w którym kontrast jest silnie zarysowany w warstwie melodycznej. Mozart, będąc mistrzem opery, przeniósł do muzyki fortepianowej zdolność portretowania psychologicznego; jego tematy często przypominają postacie o różnych afektach, które wchodzą ze sobą w dialog.
+
+**Przykład muzyczny:** _Sonata c-moll KV 457_. To jedno z nielicznych dzieł Mozarta w tej tonacji, nacechowane niezwykłą powagą, tragizmem i ciężarem gatunkowym, co jest charakterystyczne dla tzw. „stylu c-moll”.
+
+### Ludwig van Beethoven
+Twórczość Beethovena stanowi pomost między klasycyzmem a romantyzmem. W swoich 32 sonatach kompozytor przesunął granice formy sonatowej do granic możliwości:
+- **Okres wczesny:** Sonaty (np. op. 2) są jeszcze „grzeczne”, cztero- lub trzyczęściowe, bliskie modelowi Haydna i Mozarta.
+- **Okres środkowy:** Eksperymenty z formą, rozbudowane przetworzenia i cody, zacieranie granic między sekcjami.
+- **Okres późny:** Rozkład faktury homofonicznej na rzecz polifonii (fugi), zmiana liczby części (od 2 do 6), wprowadzanie recytatywów i arioso do cyklu instrumentalnego.
+
+**Przykłady muzyczne:**  
+- _Sonata c-moll op. 13 „Patetyczna”_: Wykorzystuje rytmikę uwertury francuskiej w powolnym wstępie (Grave) i realizuje topos _per aspera ad astra_.
+- _Sonata f-moll op. 57 „Appassionata”_: Szczyt dramatyzmu okresu środkowego.
+- _Sonata B-dur op. 106 „Hammerklavier”_: Monumentalne dzieło z gigantyczną fugą w finale, przekraczające możliwości ówczesnych fortepianów.
+
+### Kontekst społeczno-historyczny
+Rozkwit sonaty fortepianowej był nierozerwalnie związany z **emancypacją mieszczaństwa** w XVIII wieku. Mieszczanie, bogacąc się na handlu, zaczęli kupować instrumenty i brać lekcje gry, co stworzyło rynek dla muzyki domowej i publicznych koncertów. Jednocześnie ewolucja fortepianu (zwiększenie skali, wprowadzenie mechaniki młoteczkowej pozwalającej na dynamikę cieniowaną) umożliwiła kompozytorom stosowanie precyzyjnych oznaczeń artykulacyjnych (legato, staccato), przejmując od wykonawców odpowiedzialność za ostateczny wyraz dzieła.
+
+---
 # Muzyka rozrywkowa II połowy XVIII wieku – tło społeczne, gatunki
+Muzyka rozrywkowa drugiej połowy XVIII wieku to fascynujący obszar, w którym estetyka „pięknej prostoty” spotkała się z dynamicznymi przemianami społecznymi epoki Oświecenia. W tym okresie muzyka przestała być wyłącznie domeną zamkniętych kręgów dworskich i arystokratycznych, stając się istotnym elementem życia codziennego rosnącego w siłę mieszczaństwa.
+
+## Kontekst społeczny i historyczny: Emancypacja i „Kultura Fasadowa”
+Druga połowa XVIII wieku to czas schyłku feudalizmu i gwałtownego wzrostu znaczenia warstwy mieszczańskiej. Mieszczanie, bogacąc się na handlu i rzemiośle, zaczęli aspirować do stylu życia dotychczas zarezerwowanego dla szlachty, co objawiało się m.in. w edukacji muzycznej i aktywnym uczestnictwie w życiu kulturalnym.
+
+- **Publiczne koncerty i muzykowanie domowe:** Powstawały publiczne teatry operowe i sale koncertowe, a w domach mieszczańskich fortepian stał się centralnym punktem życia towarzyskiego.
+- **Kultura fasadowa i turystyka:** Estetyka klasycyzmu wprowadziła pojęcie „kultury fasadowej” oraz narodziny turystyki, co wiązało się z zapotrzebowaniem na muzykę towarzyszącą podróżom i rozrywkom w przestrzeni miejskiej.
+- **Utylitaryzm:** Zgodnie z duchem epoki, sztuka miała być nie tylko piękna, ale i pożyteczna (utylitaryzm), co w muzyce rozrywkowej objawiało się jej ścisłym związkiem z konkretnymi okazjami społecznymi.
+
+## Estetyka: Styl Galant i Empfindsamkeit
+Pod względem estetycznym muzyka rozrywkowa tego okresu opierała się na **stylu galant** (muzycznym odpowiedniku rokoka), który charakteryzował się lekkością, finezją, elegancją oraz prostą, homofoniczną fakturą. Zarzucono skomplikowaną polifonię na rzecz przejrzystej melodii z akompaniamentem, co czyniło tę muzykę przystępną dla szerszego grona odbiorców.
+
+## Główne gatunki muzyki rozrywkowej
+### Harmoniemusik
+Termin ten oznaczał muzykę okazjonalną i użytkową, wykonywaną najczęściej przez zespoły instrumentów dętych.
+- **Funkcja:** Towarzyszyła rozrywkom dworskim i miejskim, takim jak obiady (muzyka stołowa), uroczystości na wodzie, parady wojskowe, a także wydarzenia rodzinne: śluby, chrzciny czy imieniny.
+- **Repertuar:** Często wykonywano w tym składzie transkrypcje arii z popularnych oper, co pełniło funkcję dzisiejszych „list przebojów”.
+- **Przykład:** **Wolfgang Amadeus Mozart – _Serenada B-dur „Gran Partita”_ (KV 361)**, napisana na 12 instrumentów dętych i kontrabas, będąca szczytowym osiągnięciem tego gatunku.
+
+### Serenada, Divertimento, Kasacja i Nokturn
+Były to formy cykliczne o swobodnej budowie, często przeznaczone do wykonywania na wolnym powietrzu.
+- **Serenada i Divertimento:** Składały się z wielu części (nawet do dziesięciu), łącząc elementy suity tanecznej z formą sonatową.
+- **Przykład:** **W.A. Mozart – _Symfonia Haffnerowska_ (KV 385)**. Choć dziś znamy ją jako symfonię, pierwotnie powstała jako wieloczęściowa serenada zamówiona przez bogatą salzburską rodzinę Haffnerów z okazji ślubu siostry.
+- **Przykład:** **W.A. Mozart – _Eine kleine Nachtmusik_ (KV 525)**, najsłynniejsza serenada epoki, będąca wzorcem klasycznej lekkości i proporcji.
+
+### Menuety i Tańce
+Menuet, jako taniec o arystokratycznym rodowodzie, w drugiej połowie XVIII wieku zdominował sale balowe Wiednia, a następnie przeniknął do muzyki instrumentalnej jako stała część cyklu sonatowego i symfonicznego. Obok niego zaczęły pojawiać się tańce o bardziej ludowym i mieszczańskim charakterze, jak walce czy tańce niemieckie.
+
+### Opera Komiczna (Singspiel i Opéra-comique)
+Dla mieszczaństwa najważniejszym gatunkiem rozrywkowym była opera komiczna, która w przeciwieństwie do poważnej _opery seria_, zawierała mówione dialogi i proste melodie.
+
+- **Niemiecki Singspiel:** Często operował tematyką baśniową i magiczną.
+- **Francuska Opéra-comique:** Skupiała się na wątkach pastoralnych i obyczajowych.
+- **Przykład:** **Jean-Jacques Rousseau – _Le devin du village_ (Wiejski wróżbita, 1752)**, manifest nowej opery francuskiej, oparty na prostych piosenkach zamiast wirtuozowskich arii.
+- **Przykład:** **W.A. Mozart – _Uprowadzenie z Seraju_ (KV 384)**, singspiel wykorzystujący modną wówczas „egzotykę turecką” (instrumenty perkusyjne: talerze, trójkąt, bęben).
+
+### Podsumowanie
+Muzyka rozrywkowa II połowy XVIII wieku była lustrem przemian Oświecenia. Demokratyzacja sztuki, odejście od skomplikowanych form barokowych na rzecz symetrii i czytelności (według postulatów m.in. J.G. Sulzera) stworzyły fundament pod nowoczesną kulturę muzyczną, w której rozrywka stała się prawem szerokich warstw społecznych, a nie tylko elit.
 
 # Styl w tonacji c-moll (R. Taruskin, Ch. Rosen)
+W tradycji klasyków wiedeńskich tonacja c-moll zajmuje miejsce szczególne, wykraczające poza czysto techniczny wybór zestawu dźwięków. Stała się ona fundamentem tzw. **„stylu c-moll”**, który w literaturze muzykologicznej (m.in. u Richarda Taruskina i Charlesa Rosena) definiowany jest jako idiom muzyki udramatyzowanej, o znacznie większym ciężarze gatunkowym niż inne tonacje molowe.
+## Kontekst estetyczny i historyczny
+Przełom barokowo-klasyczny (umownie od 1750 r.) przyniósł zmianę w postrzeganiu emocji. Podczas gdy w baroku afekt był statyczny (zgodnie z teorią Kartezjusza), w klasycyzmie, pod wpływem asocjacjonizmu Davida Hartleya, afekty zaczęto postrzegać jako nabyte, labilne i płynne. Tonacja c-moll stała się idealnym medium dla tego nowego, dynamicznego sposobu wyrażania uczuć, pozwalając na ukazywanie wewnętrznej walki i tragizmu.
 
+W estetyce epoki c-moll była postrzegana jako tonacja poważna, smutna, pełna intensywnej tęsknoty i powagi. Richard Taruskin zauważa, że dzieła w tej tonacji pisane przez klasyków wiedeńskich charakteryzują się specyficznymi cechami technicznymi:
+- **Rozpoczynanie od surowego unisono**, co nadaje kompozycji natychmiastową powagę i siłę.
+- **Gęsta chromatyka i gwałtowne zmiany dynamiki**, podkreślające niepokój.
+- **Topos „per aspera ad astra”** (przez ciernie do gwiazd), czyli narracyjny schemat przechodzenia od mroku tonacji c-moll do triumfalnej jasności C-dur.
+
+## Joseph Haydn
+Choć Haydn kojarzony jest z dowcipem muzycznym, w swoich dziełach w tonacji c-moll (często z okresu _Sturm und Drang_) budował napięcie poprzez grę planami tonalnymi.
+
+**Przykład dzieła:** Oratorium **„Stworzenie świata”** (1796–1798). Haydn wykorzystał tonację c-moll do zilustrowania początkowego **Chaosu**. Moment stworzenia światła jest tu ukazany poprzez nagłe, potężne uderzenie całego aparatu wykonawczego w tonacji C-dur, co stanowi klasyczną realizację opozycji mroku i jasności.
+
+## Wolfgang Amadeus Mozart: 
+Mozart rzadko sięgał po c-moll, ale gdy to robił, utwory te zyskiwały niezwykły ciężar emocjonalny.
+
+**Przykład dzieła:** **Wielka Msza c-moll (KV 427)**, pisana w latach 1782–1783 w Salzburgu. Jest to utwór o charakterze archaicznym, w którym Mozart, zafascynowany polifonią Bacha i Haendla, wprowadził rygorystyczny kontrapunkt oraz surową retorykę muzyczną. Wybór tonacji c-moll podkreśla tu sakralną powagę i tragizm, odróżniając to dzieło od lżejszych, dworskich kompozycji religijnych. Inne ważne przykłady to _Sonata fortepianowa c-moll KV 457_ oraz _Koncert fortepianowy nr 24 KV 491_.
+
+## Ludwig van Beethoven
+Dla Beethovena c-moll stała się tonacją burzliwą i heroiczną, stanowiącą archetyp jego stylu.
+
+**Przykład dzieła (sonata):** **Sonata „Patetyczna” op. 13** (1799). Napisana w 10. rocznicę Rewolucji Francuskiej, zawiera powolny wstęp (_Grave_) nawiązujący do rytmiki uwertury francuskiej oraz bas typu _murky_, imitujący wojskowe werble. Utwór ten jest manifestem emocjonalnym, w którym c-moll służy wyrażeniu cierpienia i buntu.
+
+**Przykład dzieła (symfonia):** **V Symfonia c-moll op. 67** (1808). Jest to koronne osiągnięcie stylu c-moll, oparte na tzw. „motywie losu”. Symfonia ma charakter teleologiczny – dąży do z góry ustalonego celu, którym jest ostateczne zwycięstwo nad przeznaczeniem, dokonujące się w finale poprzez przejście do C-dur. Ten proces transformacji z „cierni” (c-moll) w „gwiazdy” (C-dur) stał się wzorcem dla symfoniki całego XIX stulecia.
+
+
+---
 # Arie koncertowe i alteracje w operze XVIII wieku.
+W XVIII wieku, okresie zdominowanym przez estetykę Oświecenia i rozwój publicznych teatrów operowych, granica między autorską kompozycją a wykonawczą interpretacją była znacznie bardziej płynna niż współcześnie. Praktyka pisania arii koncertowych oraz dokonywania alteracji w istniejących dziełach operowych stanowi kluczowy element ówczesnej kultury muzycznej, odzwierciedlający dialektykę między indywidualną ekspresją śpiewaka a normatywnymi założeniami stylu epoki.
 
+## Kontekst społeczny i historyczny: Kult wirtuoza i "Rollenfach"
+W drugiej połowie XVIII wieku (klasycyzm datowany umownie od 1750 r.) muzyka operowa zaczęła ewoluować w stronę zaspokajania gustów rosnącego w siłę mieszczaństwa. Wiedeń i miasta włoskie były przesycone teatrami operowymi, co wymuszało na kompozytorach dużą elastyczność. Dominującą rolę w życiu muzycznym odgrywali śpiewacy – kastraci i primadonny – których wirtuozeria dyktowała kształt dzieła.
+
+Zjawisko to wiązało się z pojęciem **Rollenfach**, czyli pisaniem partii wokalnych „skrojonych na miarę” pod konkretne możliwości i styl danego wykonawcy. Kompozytorzy tacy jak Mozart często musieli dopisywać nowe numery (wstawki), gdy opera była wystawiana w innym mieście z nowym składem wykonawczym.
+
+## Arie koncertowe: Typologia i funkcje
+Arie koncertowe były produktem ubocznym twórczości operowej; wykonywano je osobno, poza kontekstem scenicznym. Mogły pochodzić z istniejących oper lub być autonomicznymi kompozycjami pisanymi dla konkretnych wykonawców. Badacze, tacy jak Jarosław Mianowski, wyróżniają szczegółową typologię tych utworów:
+- **Licenza:** Utwór panegiryczny (pochwalny), dołączany do przedstawień zazwyczaj na początku lub na końcu.
+- **Aria Alternatywna:** Aria zastępująca inny numer w operze, dostosowana do nowego śpiewaka.
+- **Insert:** Partia dołączona do istniejącej już arii.
+- **Pasticcio:** Aria lub całe dzieło składające się z fragmentów obcych kompozytorów (z wł. „pasztet”).
+- **Alteracja:** Wersja arii poddana zmianom strukturalnym lub melodycznym.
+- **Wstawki do cudzych oper:** Pojedyncze sceny lub arie pisane przez jednego twórcę do dzieł innych kompozytorów.
+
+## Estetyka alteracji: Swoboda wykonawcza
+Alteracje w XVIII wieku nie ograniczały się tylko do zmian wprowadzanych przez kompozytora. Wykonawcy posiadali ogromną swobodę w sekcjach **da capo (ABA')**. W repryzie (części A') śpiewacy dodawali bogatą ornamentację, improwizowali wirtuozowskie kadencje oraz wprowadzali zmiany rytmiczne, aby podkreślić swój kunszt.
+
+W miarę rozwoju klasycyzmu dążono jednak do większej precyzji zapisu. Podręczniki takie jak _Gruntowna szkoła skrzypcowa_ Leopolda Mozarta (1756) czy prace C.P.E. Bacha (1753) kładły nacisk na to, by technika i ozdobniki służyły treści emocjonalnej, a nie tylko pustemu popisowi. Kompozytorzy zaczęli przejmować odpowiedzialność za ostateczny wyraz dzieła, co ograniczało dotychczasową absolutną dominację śpiewaków.
+
+## Przykłady dzieł i ich analiza
+### Wolfgang Amadeus Mozart:
+#### _Non so d'onde viene_ (KV 294 i KV 512) 
+To doskonały przykład powracania do tego samego tekstu (libretta Pietro Metastasia) w różnych momentach życia.
+
+- **Wersja KV 294 (1778):** Napisana w Mannheimie dla **Aloysii Weber**, w której Mozart wyraził tzw. _tenero affetto_ (czuły afekt). Aria ma budowę trzyczęściową sonatową i cechuje się wirtuozerią sopranową.
+- **Wersja KV 512 (1787):** Napisana dziewięć lat później dla znakomitego basu, **K.L. Fischera**. Mozart zdecydował się na znacznie większą powagę, dostosowując muzykę do niskiego rejestru i dojrzałego stylu, co widać w gwałtownych pochodach i koloryturach.
+
+### _Non temer, amato bene_ (KV 490 i KV 505)
+Oba utwory to wokalne ronda koncertowe, będące „bliźniaczymi” kompozycjami z 1786 roku.
+
+- **KV 490:** Napisana jako numer alternatywny do wiedeńskiej premiery _Idomeneo_, z solową partią skrzypiec obligato.
+- **KV 505:** Wersja z solowym fortepianem, przeznaczona dla **Nancy Storace**. Fortepian wchodzi w dialog z głosem, co odzwierciedla symfonizację brzmienia instrumentu klawiszowego.
+
+### _Bella mia fiamma, addio_ (KV 528) 
+Słynna aria koncertowa napisana dla Josefy Dušek, stanowiąca popis techniczny i emocjonalny, często wskazywana jako przykład najwyższej próby psychologicznego portretowania w muzyce wokalnej.
+
+---
 # Dwie koncepcje symfonizmu w twórczości Beethovena (V a VI Symfonia)
+Piąta i Szósta Symfonia Ludwiga van Beethovena, choć skomponowane w tym samym czasie i prawykonane podczas tego samego, legendarnego koncertu w wiedeńskim Theater an der Wien 22 grudnia 1808 roku, stanowią dwa przeciwstawne bieguny myślenia o formie symfonicznej. Ich zestawienie pozwala zrozumieć ewolucję stylu Beethovena, który z jednej strony dążył do maksymalnej kondensacji dramatycznej, a z drugiej – do swobodnej, programowej narracji opartej na nastroju.
 
+## V Symfonia c-moll op. 67: Koncepcja teleologiczna
+V Symfonia jest sztandarowym przykładem symfonizmu **teleologicznego**, co oznacza, że cały cykl jest podporządkowany jednemu, z góry ustalonemu celowi. Realizuje ona topos **per aspera ad astra** (przez ciernie do gwiazd), obrazując drogę od mrocznego konfliktu w tonacji c-moll do triumfalnego zwycięstwa w C-dur.
+
+### Kontekst historyczny i estetyczny:
+Dzieło powstało w okresie, gdy Beethoven zmagał się z postępującą głuchotą (okres po Testamencie z Heiligenstadt z 1802 r.) oraz w atmosferze rewolucyjnych przemian w Europie. Estetyka ta kładzie nacisk na heroizm i walkę jednostki z losem.
+
+### Analiza formy i "motyw losu"
+Całość dzieła zdominowana jest przez słynny, czterodźwiękowy **motyw losu**, który pełni funkcję formotwórczą i pojawia się we wszystkich częściach symfonii.
+- **Część I (Allegro con brio):** Klasyczne allegro sonatowe całkowicie zdominowane przez pierwszy temat (motyw losu).
+- **Część II (Andante con moto):** Wariacje w tonacji As-dur (submedianta), gdzie motyw losu powraca okazjonalnie w basie jako _leitmotif_.
+- **Część III (Scherzo):** Powrót do mrocznego c-moll; temat scherza jest rytmicznie oparty na motywie losu. Kluczowym innowacyjnym zabiegiem jest połączenie scherza z finałem za pomocą techniki **attacca** (bez przerwy), co buduje niespotykane napięcie dramatyczne.
+- **Część IV (Allegro):** Triumfalne C-dur. Finał wykorzystuje ideę **tercji pikardyjskiej** (rozjaśnienie molowości) i kończy się wyjątkowo długą kadencją z powielanymi akordami C-dur, co ma utrwalać poczucie ostatecznego triumfu nad przeznaczeniem.
+
+**Innowacje instrumentacyjne:** Beethoven wprowadza tu instrumenty wcześniej rzadkie w symfonice: flet piccolo i kontrafagot.
+
+## VI Symfonia F-dur op. 68 „Pastoralna”: Koncepcja ateleologiczna
+VI Symfonia stanowi absolutną antytezę "Piątej". Jest to symfonia **ateleologiczna**, w której celowość jest świadomie rozmyta na rzecz budowania pejzażu dźwiękowego i nastroju.
+### Kontekst estetyczny
+Utwór nawiązuje do oświeceniowej idei "powrotu do natury" promowanej przez J.J. Rousseau i J.W. Goethego. Beethoven zaznaczył jednak, że muzyka ta jest „bardziej ekspresją uczuć niż malarstwem”.
+
+### Struktura i programowość
+Symfonia składa się z **pięciu części**, z których każda posiada autorski tytuł programowy:
+    1. _Obudzenie się pogodnych uczuć z chwilą przybycia na wieś_ – oparte na długich, repetytywnych tematach w tonacji F-dur.
+    2. _Scena nad strumykiem_ – zawiera onomatopeiczne naśladowanie głosów ptaków (słowik, przepiórka, kukułka).
+    3. _Zabawa wiejska_ – wykorzystuje rytmikę ludowych tańców i imituje brzmienie dud oraz wiejskich kapel.
+    4. _Burza_ – jedyna mroczna część (f-moll), w której Beethoven stosuje figurę _tirata_ do zilustrowania błyskawic i grzmotów. Przechodzi ona _attacca_ w finał.
+    5. _Pieśń pasterska_ – radosne uczucia po burzy, oparte na metrum 6/8 (rytmika sycyliany) i motywach "jodłujących".
+### Cechy stylu pastoralnego 
+Beethoven operuje tu prostymi tonacjami (F-dur, B-dur), długimi wartościami, tercjami równoległymi oraz **burdonami w basie**, które mają ilustrować statyczność i zatrzymanie czasu na wsi.
+## Podsumowanie porównawcze
+
+|Cecha|V Symfonia c-moll|VI Symfonia F-dur|
+|:--|:--|:--|
+|**Główny topos**|_Per aspera ad astra_ (walka i triumf)|Natura i sielskość (pastorałka)|
+|**Narracja**|Teleologiczna (celowa, dążąca do finału)|Ateleologiczna (statyczna, opisowa)|
+|**Praca tematyczna**|Intensywna fragmentacja krótkiego motywu|Powtarzanie długich, śpiewnych tematów|
+|**Struktura cyklu**|4 części (III i IV połączone _attacca_)|5 części (III, IV i V połączone _attacca_)|
+|**Charakter**|Heroiczny, dramatyczny, rewolucyjny|Nastrojowy, pejzażowy, duchowy|
+
+
+
+--- 
 # Gatunki muzyki religijnej w Twórczości Mozarta
+Twórczość religijna Wolfganga Amadeusa Mozarta stanowi fascynujący obszar jego spuścizny, będący miejscem spotkania surowej tradycji polifonicznej (_stile antico_) z nowoczesnym, operowym blaskiem klasycyzmu (_stile moderno_). Choć muzyka religijna w XVIII wieku stopniowo traciła na swoim dominującym znaczeniu na rzecz gatunków świeckich, Mozart pozostawił po sobie monumentalne dzieła, które do dziś stanowią kanon muzyki sakralnej.
 
+## Kontekst historyczny i estetyczny
+Większość dzieł religijnych Mozarta powstała w okresie jego służby na dworze arcybiskupa Salzburga, Hieronima von Colloredo. Specyfika tego miejsca, w tym architektura katedry salzburskiej z czterema emporami, wymuszała na kompozytorze stosowanie technik polichóralnych, co najwyraźniej widać w części _Sanctus_ z jego późniejszych mszy. Estetyka sakralna Mozarta ewoluowała od lekkich, rokokowych form narzuconych przez rygory dworskie (tzw. _missae brevis_), aż po osobiste, głęboko nasycone symboliką i archaizmami dzieła, takie jak Msza c-moll czy Requiem.
+
+## Główne gatunki muzyki religijnej
+
+### Msze 
+Msze w twórczości Mozarta dzielą się na dwa podstawowe typy, wynikające z potrzeb liturgicznych XVIII wieku:
+- **Missa brevis (msza krótka):** Obejmowała jedynie części stałe (_ordinarium missae_), była pisana z myślą o krótszych nabożeństwach.
+- **Missa solemnis (msza uroczysta):** Przeznaczona na wielkie święta, obejmowała zarówno części stałe, jak i zmienne (_proprium missae_). Charakteryzowała się rozbudowaną obsadą z instrumentami dętymi i kotłami oraz tzw. stylem arialnym – wirtuozowskimi partiami solowymi przypominającymi arie operowe.
+#### Wielka Msza c-moll (KV 427) 
+Pisana w latach 1782–1783. Jest to dzieło o wyjątkowym ładunku emocjonalnym, napisane przez Mozarta jako wotum z okazji wyzdrowienia żony Konstancji i jej przyjazdu do Salzburga. Utwór ten jest nasycony archaizmami, takimi jak:
+
+- użycie **Basso Continuo** (basu cyfrowanego), który w muzyce świeckiej tamtego czasu tracił już na znaczeniu;
+- rygorystyczny **kontrapunkt i polifonia**, będące efektem studiów Mozarta nad dziełami Bacha i Haendla;
+- wykorzystanie tonacji c-moll, która w estetyce epoki (według Richarda Taruskina i Charlesa Rosena) była zarezerwowana dla dzieł najpoważniejszych, udramatyzowanych i pełnych tragizmu.
+
+### Motety (Motetti)
+W okresie klasycyzmu motety religijne nie posiadały jednej, uporządkowanej budowy formalnej. Mozart wykorzystywał ten gatunek zarówno do popisów wirtuozowskich, jak i do stworzenia nastroju intymnej modlitwy.
+#### Exultate, jubilate (KV 165) 
+Napisany w 1773 roku w Mediolanie dla kastrata Venanzio Rauzziniego. Jest to motet o charakterze niemal operowym, z bogato zdobioną partią sopranu solo, zakończony słynnym „Alleluja”. 
+#### Ave verum corpus (KV 618)
+Krótki motet chóralny napisany pod koniec życia (1791) na orkiestrę i chór. W przeciwieństwie do wczesnej wirtuozerii, cechuje go klasyczna prostota i spokój.
+
+### Litanie i Nieszpory (Litaniae et Vesperae)
+Mozart komponował liczne litanie i nieszpory, które często zawierały opracowania psalmów oraz kantyku _Magnificat_.
+#### _Litaniae Lauretanae_ (KV 195) 
+Napisana na chór, sopran solo, organy i orkiestrę. Utwór ten pokazuje mistrzostwo Mozarta w łączeniu homofonii z fragmentami polifonicznymi.
+
+## Charakterystyczne cechy stylu sakralnego Mozarta
+
+- **Archaizmy:** Świadome stosowanie organowego _Basso Continuo_, barokowej retoryki muzycznej oraz gęstego kontrapunktu.
+- **Wirtuozeria wokalna:** Partie solowe (szczególnie sopranowe) są często traktowane w sposób koncertujący, co wywodzi się z tradycji szkoły neapolitańskiej.
+- **Poliafektacyjność:** Nawet w muzyce religijnej Mozart stosuje zdobycze asocjacjonizmu Davida Hartleya, pozwalając na płynne przechodzenie afektów (np. od lęku przed sądem do nadziei na zbawienie), co stało się fundamentem klasycznej psychologii muzycznej.
+
+---
 # Topos per aspera ad astra w symfonicznej twórczości Beethovena (V i IX Symfonia)
+## *Per Aspera ad Astra*
+Topos **per aspera ad astra** (z łac. „przez ciernie do gwiazd”) stanowi jeden z najważniejszych paradygmatów narracyjnych w twórczości Ludwiga van Beethovena, definiujący dojrzały styl symfoniczny tego kompozytora. Ideowo i estetycznie koncepcja ta wywodzi się z ducha oświeceniowego humanizmu oraz wydarzeń Rewolucji Francuskiej, gdzie światło, rozum i wolność triumfują nad tyranią i mrokiem. W ujęciu muzycznym topos ten realizuje się poprzez procesualny cykl sonatowy, który rozpoczyna się w tonacji molowej (symbolizującej konflikt, cierpienie lub fatum), a kończy w tonacji durowej (oznaczającej zwycięstwo, radość i apoteozę).
+
+## Kontekst społeczny i historyczny: Narodziny bohatera
+Wykształcenie się tego toposu przypada na przełom XVIII i XIX wieku, czas gwałtownych przemian społecznych zapoczątkowanych w 1789 roku. Beethoven, będąc dzieckiem swojej epoki, przesiąknięty był ideami wolności, równości i braterstwa.
+
+- **Symbolika solarna:** W okresie rewolucyjnym powstała idea „odwróconego Króla Słońce” – jasność i boski atrybut władzy przestały należeć do monarchy, a przeszły na lud.
+- 
+- **Estetyka walki:** Muzyka Beethovena przestała być dworską rozrywką, a stała się wyrazem subiektywnego dramatu jednostki zmagającej się z losem. Topos _per aspera ad astra_ stał się muzycznym scenariuszem tej walki.
+
+## V Symfonia c-moll op. 67: Teleologia losu
+Prawykonana w 1808 roku w Wiedniu, V Symfonia jest paradygmatycznym przykładem symfonii **teleologicznej** – czyli takiej, w której cały cykl jest podporządkowany ostatecznemu celowi zawartemu w finale.
+
+### Analiza 
+
+- **Część I (Allegro con brio):** Rozpoczyna się słynnym, czteronutowym „motywem losu” w surowej tonacji c-moll. W estetyce klasyków wiedeńskich tonacja ta była zarezerwowana dla dzieł najpoważniejszych i najbardziej tragicznych.
+- **Część III (Scherzo):** Mroczne scherzo powraca do motywu losu, budując napięcie, które nie zostaje rozwiązane, lecz przechodzi za pomocą techniki **attacca** (bez przerwy) bezpośrednio w finał. To przejście uważane jest za jedno z największych osiągnięć dramaturgicznych kompozytora.
+ - **Część IV (Allegro):** Triumfalne C-dur. Finał realizuje ideę **tercji pikardyjskiej**, czyli rozjaśnienia mroku poprzez zmianę trybu na durowy. Aby podkreślić potęgę tego zwycięstwa, Beethoven wprowadził do orkiestry instrumenty wcześniej rzadko spotykane w symfonii: flet piccolo i kontrafagot.
+Finał V Symfonii kończy się wyjątkowo długą kadencją, w której akord C-dur jest powtarzany przez ponad 20 taktów, co ma na celu absolutne utrwalenie triumfu nad losem.
+## IX Symfonia D-moll op. 125
+Skomponowana w latach 1822–1824, IX Symfonia przenosi topos _per aspera ad astra_ na poziom uniwersalny i wspólnotowy, kończąc się wprowadzeniem głosu ludzkiego do gatunku czysto instrumentalnego.
+
+### Analiza
+- **Część I:** Rozpoczyna się w d-moll, co niektórzy badacze interpretują jako ilustrację wyłaniania się harmonii z pierwotnego chaosu wszechświata.
+- **Część IV (Finał):** Finał jest dwufazowy. Rozpoczyna się od tzw. **Schreckensfanfare** (Fanfary Strachu), dysonansowego uderzenia orkiestry w d-moll, które neguje tematy z poprzednich części. Następnie, po instrumentalnym wprowadzeniu melodii „Ody do radości”, następuje faza wokalno-instrumentalna.
+
+**Kontekst estetyczny:** Beethoven wykorzystał tekst Friedricha Schillera, który pierwotnie powstał w 1785 roku jako wiersz przedrewolucyjny. Wybór tonacji D-dur dla finału oznacza ostateczne zwycięstwo idei braterstwa i radości nad cierpieniem (d-moll).
+
+**Przykład muzyczny:** Wejście barytonu solo w IV części z zawołaniem: „O przyjaciele, nie te tony! Lecz zaśpiewajmy przyjemniejsze i pełne radości!” stanowi bezpośrednie, werbalne ucieleśnienie toposu _per aspera ad astra_ – odrzucenie „tonów” cierpienia na rzecz „gwiazd” radości.
+    
+## Znaczenie i dziedzictwo
+Beethovenowski model symfonii „przez cierpienie do zwycięstwa” stał się fundamentem dla symfoniki XIX wieku.
+1. **Struktura cyklu:** Beethoven narzucił myślenie o symfonii jako o procesie, w którym finał jest najważniejszym punktem ciężkości (przeniesienie kulminacji z części pierwszej na koniec utworu).
+2. **Psychologia muzyki:** Wykorzystując asocjacjonizm Davida Hartleya, Beethoven pokazał, że afekty mogą płynnie przechodzić z jednego w drugi, co pozwoliło na budowanie tak rozległych narracji emocjonalnych.
+3. **Wpływ na następców:** Z tego modelu czerpali tacy kompozytorzy jak Hector Berlioz (motyw przewodni w _Symfonii Fantastycznej_) czy Jean Sibelius, którzy opierali swoje dzieła na pracy motywicznej wywiedzionej z jednego zarodka, mającego doprowadzić do końcowej jasności.
+Topos _per aspera ad astra_ u Beethovena to nie tylko zabieg techniczny polegający na zmianie trybu, ale przede wszystkim manifestacja wiary w siłę ludzkiego ducha, zdolnego do przezwyciężenia najcięższych przeciwności losu.
+
 
 # Twórczość operowa Mozarta w kontekście innych kompozytorów operowych XVIII-wieku
 
-# Arie Koncertowe i Alteracyjne w Operze XVII wieku.
-
+---
 # Symfonika J. Haydna i W.A. Mozarta
+Symfonika Josepha Haydna i Wolfganga Amadeusa Mozarta stanowi fundament dojrzałego klasycyzmu, wyznaczając drogę ewolucji od lżejszej, trójczęściowej simfonii włoskiej do monumentalnego, czteroczęściowego cyklu sonatowego. Proces ten dokonywał się w dynamicznym kontekście społecznym – od mecenatu dworskiego na zamku Esterházy, po narodziny publicznych koncertów w Londynie i Wiedniu, które zaspokajały gusta rosnącego w siłę mieszczaństwa.
+## Symfonika Josepha Haydna
+Haydn, nazywany „ojcem symfonii”, napisał 104 numerowane dzieła tego gatunku, a jego twórczość obejmuje niemal całą drugą połowę XVIII wieku.
+### Kontekst historyczno-społeczny 
+Przez dekady Haydn był nadwornym kompozytorem książąt Esterházy, co zapewniało mu stabilizację i dostęp do stałego, choć początkowo niewielkiego zespołu (ok. 30 osób). Dopiero okres londyński (lata 90. XVIII wieku) przyniósł mu status międzynarodowej gwiazdy i możliwość pisania dla wielkich orkiestr miejskich.
+### Aestetyka i styl 
+Wczesne symfonie Haydna (do ok. 1770 r.) cechują się **stylem galant**, lekkością i finezją. Przełom nastąpił w fazie **Sturm und Drang** (Burza i Napór, lata 1771–1780), kiedy kompozytor zaczął stosować tonacje molowe, gęstszą fakturę i silniejsze kontrasty emocjonalne, co korespondowało z ówczesną modą literacką (np. _Cierpienia młodego Wertera_ Goethego). Dojrzały idiom Haydna to przede wszystkim **monotematyzm** w allegru sonatowym – budowanie napięcia nie poprzez kontrast dwóch melodii, lecz poprzez grę planami tonalnymi jednego tematu.
 
+### Ewolucja orkiestry 
+Haydn ustalił klasyczny skład orkiestry (kwintet smyczkowy, podwójna obsada dętych drewnianych i blaszanych oraz kotły) i doprowadził do likwidacji _basso continuo_ na rzecz pełniejszego brzmienia instrumentalnego.
+
+### Przykład dzieła - **Symfonia fis-moll nr 45 „Pożegnalna” (1772)**.
+Napisana w okresie _Sturm und Drang_. Stanowi unikalny przykład muzycznej skargi i protestu społecznego. Muzycy, znużeni przedłużającym się pobytem w letniej rezydencji księcia, w finale utworu po kolei gasili świece i opuszczali estradę, co miało skłonić chlebodawcę do udzielenia im urlopu. Pod względem estetycznym utwór ten operuje rzadką tonacją fis-moll i dramatyczną, rwaną narracją.
+
+## Symfonika Wolfganga Amadeusa Mozarta 
+W dorobku Mozarta znajduje się 41 (według innych źródeł 49) symfonii, pisanych od ósmego roku życia aż do śmierci.
+### **Aestetyka i wpływy** 
+Wczesne dzieła Mozarta pozostawały pod wpływem Jana Christiana Bacha oraz szkoły mannheimskiej, od której przejął m.in. dynamikę cieniowaną i efektowne „tematy rakietowe”. W przeciwieństwie do Haydna, Mozart preferował **dualizm tematyczny** – wyraźny kontrast między śpiewnym pierwszym tematem a lirycznym drugim.
+### Innowacje formalne
+Mozart zrezygnował z klawesynu w orkiestrze znacznie wcześniej niż Haydn. Wprowadził klarnety do stałej obsady i usamodzielnił partię altówek. Jego późne symfonie cechują się niezwykłą **polifonią**, będącą efektem studiów nad muzyką J.S. Bacha (tzw. _anarchaizm_ muzyki dojrzałej).
+### Kontekst społeczny 
+Symfonie Mozarta często powstawały jako dzieła okazjonalne (np. _Haffnerowska_ na ślub przyjaciół, _Linzka_ napisana w kilka dni podczas podróży). Trzy ostatnie symfonie (nr 39, 40, 41) powstały latem 1788 roku bez wyraźnego zamówienia, stanowiąc osobiste i artystyczne credo kompozytora.
+
+### Przykład dzieła - **Symfonia C-dur nr 41 „Jowiszowa” (KV 551, 1788)**.
+Nazwa „Jowiszowa” nadana została post factum, by podkreślić jej majestatyczny, niemal boski charakter. Najważniejszym elementem utworu jest finał, będący kunsztowną, 5-tematową fugą. Jest to szczytowe osiągnięcie klasycznej symtezy stylu homofonicznego z polifonią, gdzie rygor kontrapunktu łączy się z blaskiem orkiestry (trąbki i kotły).
+
+## Porównanie i dziedzictwo
+Podczas gdy Haydn ustalił wzorcowy układ cyklu (szybka cz. I – wolna cz. II – menuet cz. III – rondo/finał cz. IV), Mozart wzbogacił go o psychologiczną głębię i operową melodykę. Obaj kompozytorzy wspólnie doprowadzili symfonię do poziomu autonomicznego dzieła sztuki o wysokim stopniu komplikacji intelektualnej, co stało się bezpośrednim punktem wyjścia dla rewolucji symfonicznej Ludwiga van Beethovena.
+
+---
 # Współpraca Galuppiego i Goldoniego a nowy model libretta opery komicznej
+## Galuppi i Goldoni
+Współpraca kompozytora Baldassare Galuppiego i dramaturga Carlo Goldoniego, trwająca intensywnie w latach 1749–1761, stanowiła przełomowy moment w historii teatru muzycznego XVIII wieku. Ich wspólne działania doprowadziły do wykształcenia się i usankcjonowania gatunku **dramma giocoso** (wł. „wesoły dramat”), który stał się nowatorską alternatywą dla sztywnego podziału na operę seria i operę buffa.
+## Kontekst historyczny i społeczny
+W połowie XVIII wieku, wraz z upadkiem feudalizmu i emancypacją mieszczaństwa, wzrosło zapotrzebowanie na utwory odzwierciedlające nowe realia społeczne. Carlo Goldoni, wenecki adwokat i komediopisarz, dążył do zreformowania opery komicznej poprzez wprowadzenie do niej elementów realizmu oraz psychologicznej głębi. Współpraca z Galuppim pozwoliła na przełożenie tych postulatów na język muzyczny, tworząc model libretta, który łączył w sobie sprzeczności: komizm z powagą, a satyrę z sentymentalizmem.
 
+## Nowy model libretta: Dramma giocoso
+Główną cechą modelu wypracowanego przez ten duet było współistnienie różnych planów emocjonalnych i społecznych w ramach jednego dzieła. Do najważniejszych innowacji należały:
 
+### Realizm i krytyka społeczna 
+Libretta Goldoniego zawierały pochwałę cnót mieszczańskich oraz krytykę arystokracji i małżeństwa traktowanego wyłącznie jako umowa społeczna.
+### Trójstopniowa hierarchia postaci
+Zamiast jednowymiarowych bohaterów wprowadzono trzy grupy postaci:
+    1. **Partie seria (poważne):** np. Hrabina (_Prima Seria_) czy postacie męskie śpiewane przez tenorów po zaniku kastracji (_Primo Serio_), wnoszące do utworu dostojność i patos.
+    2. **Partie buffa (komiczne):** postacie niskiego pochodzenia, często będące motorem intrygi, jak _Primma Buffa_ czy _Primo buffo_.
+    3. **Partie mezzo carattere (charaktery pośrednie):** postacie łączące cechy obu światów, pozwalające na płynne przechodzenie między powagą a żartem.
+### Finały łańcuchowe 
+Innowacja strukturalna, w której akcja dramatyczna w finale aktu ulega gwałtownemu przyspieszeniu, a kolejne postacie wchodzą na scenę, tworząc rozbudowane ansamble.
+
+## Estetyka i symbolika
+Z perspektywy estetycznej, model Galuppiego i Goldoniego wpisywał się w nurt **asocjacjonizmu Davida Hartleya**, zakładający poliafektacyjność – możliwość odczuwania i wyrażania wielu emocji jednocześnie. W przeciwieństwie do barokowej statyczności afektów kartezjańskich, _dramma giocoso_ oferowało dynamiczny „strumień” uczuć, co najlepiej widoczne było w ansamblach wprowadzających i finałowych.
+
+## Przykład dzieła i znaczenie historyczne
+Pierwszym dziełem określonym mianem _dramma giocoso_ była wystawiona w 1748 roku **„La scuola moderna”** Goldoniego z muzyką Gioacchina Cocchiego, jednak to współpraca z Galuppim przyniosła takie arcydzieła jak **„Il mondo della luna”** (1750, później zaadaptowana przez Haydna) czy **„Il filosofo di campagna”**. W tym ostatnim dziele widoczne są silne wpływy arkadyjskie i sentymentalne, gdzie bohaterowie-pasterze stają się nośnikami ideałów epoki.
+
+Wkład Galuppiego i Goldoniego był fundamentem, na którym Wolfgang Amadeus Mozart zbudował swoje największe opery, w tym **„Don Giovanniego”** (1787). Mozart przejął model mieszania wątków tragicznych (śmierć Komandora) z komicznymi (perypetie Leporella), czyniąc z _dramma giocoso_ gatunek o najwyższym stopniu psychologicznego skomplikowania. Dziedzictwo tej współpracy przetrwało aż do XIX wieku, ewoluując w stronę opery semiseria.
+
+---
 # Ewolucja kwartetu smyczkowego w twórczości klasyków wiedeńskich (z naciskiem na dzieła Haydna i Beethovena)
+## Klasyczny Kwartet Smyczkowy
+Ewolucja kwartetu smyczkowego w epoce klasycyzmu to proces przejścia od barokowej tradycji muzyki użytkowej ku absolutnemu mistrzostwu formy, którą klasycy wiedeńscy uczynili najbardziej intelektualnym i intymnym gatunkiem muzyki kameralnej. Gatunek ten wyłonił się bezpośrednio z barokowej **sonaty triowej**, jednak kluczową innowacją było zrezygnowanie z partii _basso continuo_ (basu cyfrowanego), którą zastąpiły usamodzielnione altówki i wiolonczele. W nowym systemie, ukształtowanym przez szkoły mannheimską i wiedeńską, zapis nutowy stał się niezwykle precyzyjny, obejmując szczegółowe oznaczenia artykulacyjne, takie jak _legato_ czy _staccato_, co odebrało wykonawcom dotychczasową swobodę interpretacyjną na rzecz wizji kompozytora.
+
+## Joseph Haydn 
+Joseph Haydn (1732–1809) uznawany jest za twórcę klasycznego modelu kwartetu, pozostawiając po sobie ponad 80 dzieł tego gatunku. W jego ujęciu kwartet stał się „rozmową czterech inteligentnych osób”, w której każdy instrument jest równorzędnym partnerem w dialogu.
+### Kwartety Słoneczne op. 20 (ok. 1772 r.)
+W tym zbiorze Haydn ustalił wzorcowy model czteroczęściowy: część szybka (allegro sonatowe), część wolna, menuet oraz finał. Było to bezpośrednie przełożenie cyklu sonatowego na fakturę smyczkową.
+
+_Kwartet op. 20 nr 2_. Finały w tym opisie niekiedy przybierały formę barokowej fugi, co świadczy o łączeniu nowej formy z dawnym kunsztem kontrapunktycznym.
+### Kwartety Rosyjskie op. 33 (1781 r.)
+Dzieło to uznaje się za podręcznikowy przykład wysokiego klasycyzmu (_Hochklassik_). Haydn wprowadził tu istotną zmianę – tradycyjnego menueta zastąpiło dynamiczne **scherzo**. Nastąpiła tu głęboka integracja homofonii z imitacją.
+### Kwartety op. 76 (ok. 1797 r.) 
+To okres mistrzowski, w którym Haydn operuje zaawansowaną pracą tematyczną i wirtuozerią.
+
+_Kwartet d-moll op. 76 nr 2 „Kwintowy” (Quinten)_. Utwór opiera się na temacie zbudowanym z interwałów kwinty, który jest przeprowadzany przez różne głosy na wzór fugi, a partie pierwszych skrzypiec zyskują niemal koncertujący charakter.
+
+## Wolfgang Amadeus Mozart 
+Mozart zaczął pisać kwartety już w wieku 14 lat podczas pobytu we Włoszech (1770 r.), początkowo wzorując się na tamtejszych modelach, by po osiedleniu się w Wiedniu ulec wpływowi dojrzałego stylu Haydna, któremu zresztą zadedykował jeden ze swoich najważniejszych zbiorów.
+
+**Innowacja harmoniczna:** Mozart wzbogacił kwartet o głębię psychologiczną i śmiałość harmoniczną, która niekiedy wykraczała poza ramy epoki. **Przykład _Kwartet C-dur KV 465 „Dissonanzen-Quartett”_. Dzieło to słynie z mrocznego, nasyconego dysonansami wstępu, który dopiero po pewnym czasie rozwiązuje się w klarowną tonację C-dur, co w owych czasach uznawano za niezwykle nowatorskie i trudne w odbiorze.
+
+### Ludwig van Beethoven – kwartet jako pole eksperymentu
+
+Dla Ludwiga van Beethovena kwartet smyczkowy stał się polem najbardziej śmiałych eksperymentów formalnych i emocjonalnych. Kompozytor ten ostatecznie zerwał z traktowaniem kwartetu jako muzyki salonowej, czyniąc z niego medium dla najbardziej subiektywnej i skomplikowanej ekspresji.
+
+- **Ewolucja stylu:** Beethoven systematycznie rozszerzał wolumen brzmienia i kolorystykę, dążąc do przekroczenia tradycyjnych konwencji. W jego ujęciu kwartet stał się formą autonomiczną, w której rygor klasyczny miesza się z zapowiedzią romantycznego subiektywizmu.
+- **Kontekst historyczny:** Twórczość ta powstawała w okresie upadku feudalizmu i wzrostu znaczenia mieszczaństwa, co sprzyjało egalitaryzmowi wykonawczemu (wszystkie cztery instrumenty są równie ważne).
+    - **Przykład:** Chociaż źródła nie wymieniają szczegółowych numerów opusowych Beethovena tak precyzyjnie jak u Haydna, wskazują one na ogólną tendencję do stosowania precyzyjnej artykulacji i budowania „dramatu” wewnątrz obsady kameralnej, co stało się wzorcem dla całego XIX stulecia.
+
+Podsumowując, ewolucja kwartetu smyczkowego u klasyków wiedeńskich prowadziła od przejrzystości i symetrii Haydna, przez psychologiczne i harmoniczne bogactwo Mozarta, aż po rewolucyjną dekonstrukcję formy u Beethovena, czyniąc ten gatunek szczytowym osiągnięciem myśli muzycznej Oświecenia.
+
 
 
 # Muzyka kameralna klasyków wiedeńskich (zasadniczo chodzi o kwartet smyczkowy)
