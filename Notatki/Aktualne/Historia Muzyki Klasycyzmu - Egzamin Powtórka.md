@@ -809,26 +809,130 @@ _Kwartet d-moll op. 76 nr 2 „Kwintowy” (Quinten)_. Utwór opiera się na tem
 
 ## Wolfgang Amadeus Mozart 
 Mozart zaczął pisać kwartety już w wieku 14 lat podczas pobytu we Włoszech (1770 r.), początkowo wzorując się na tamtejszych modelach, by po osiedleniu się w Wiedniu ulec wpływowi dojrzałego stylu Haydna, któremu zresztą zadedykował jeden ze swoich najważniejszych zbiorów.
+Mozart wzbogacił kwartet o głębię psychologiczną i śmiałość harmoniczną, która niekiedy wykraczała poza ramy epoki. 
+### _Kwartet C-dur KV 465 „Dissonanzen-Quartett”_. 
+Dzieło to słynie z mrocznego, nasyconego dysonansami wstępu, który dopiero po pewnym czasie rozwiązuje się w klarowną tonację C-dur, co w owych czasach uznawano za niezwykle nowatorskie i trudne w odbiorze.
 
-**Innowacja harmoniczna:** Mozart wzbogacił kwartet o głębię psychologiczną i śmiałość harmoniczną, która niekiedy wykraczała poza ramy epoki. **Przykład _Kwartet C-dur KV 465 „Dissonanzen-Quartett”_. Dzieło to słynie z mrocznego, nasyconego dysonansami wstępu, który dopiero po pewnym czasie rozwiązuje się w klarowną tonację C-dur, co w owych czasach uznawano za niezwykle nowatorskie i trudne w odbiorze.
-
-### Ludwig van Beethoven – kwartet jako pole eksperymentu
-
+### Ludwig van Beethoven 
 Dla Ludwiga van Beethovena kwartet smyczkowy stał się polem najbardziej śmiałych eksperymentów formalnych i emocjonalnych. Kompozytor ten ostatecznie zerwał z traktowaniem kwartetu jako muzyki salonowej, czyniąc z niego medium dla najbardziej subiektywnej i skomplikowanej ekspresji.
 
-- **Ewolucja stylu:** Beethoven systematycznie rozszerzał wolumen brzmienia i kolorystykę, dążąc do przekroczenia tradycyjnych konwencji. W jego ujęciu kwartet stał się formą autonomiczną, w której rygor klasyczny miesza się z zapowiedzią romantycznego subiektywizmu.
-- **Kontekst historyczny:** Twórczość ta powstawała w okresie upadku feudalizmu i wzrostu znaczenia mieszczaństwa, co sprzyjało egalitaryzmowi wykonawczemu (wszystkie cztery instrumenty są równie ważne).
-    - **Przykład:** Chociaż źródła nie wymieniają szczegółowych numerów opusowych Beethovena tak precyzyjnie jak u Haydna, wskazują one na ogólną tendencję do stosowania precyzyjnej artykulacji i budowania „dramatu” wewnątrz obsady kameralnej, co stało się wzorcem dla całego XIX stulecia.
+### Ewolucja stylu 
+Beethoven systematycznie rozszerzał wolumen brzmienia i kolorystykę, dążąc do przekroczenia tradycyjnych konwencji. W jego ujęciu kwartet stał się formą autonomiczną, w której rygor klasyczny miesza się z zapowiedzią romantycznego subiektywizmu.
 
-Podsumowując, ewolucja kwartetu smyczkowego u klasyków wiedeńskich prowadziła od przejrzystości i symetrii Haydna, przez psychologiczne i harmoniczne bogactwo Mozarta, aż po rewolucyjną dekonstrukcję formy u Beethovena, czyniąc ten gatunek szczytowym osiągnięciem myśli muzycznej Oświecenia.
+Twórczość ta powstawała w okresie upadku feudalizmu i wzrostu znaczenia mieszczaństwa, co sprzyjało egalitaryzmowi wykonawczemu (wszystkie cztery instrumenty są równie ważne).
 
+Kwartety Beethovena mają **ogólną tendencję** do stosowania **precyzyjnej artykulacji** i **budowania „dramatu”** wewnątrz obsady kameralnej, co stało się wzorcem dla całego XIX stulecia.
 
-
+---
 # Muzyka kameralna klasyków wiedeńskich (zasadniczo chodzi o kwartet smyczkowy)
+## Kwartet Smyczkowy
+Kwartet smyczkowy w epoce klasycyzmu (ok. 1750–1827) przeszedł ewolucję od formy rozrywkowej i towarzyskiej do najbardziej intelektualnego gatunku muzyki absolutnej, stając się fundamentem muzyki kameralnej klasyków wiedeńskich.
 
+## Korzenie i definicja gatunku
+Gatunek ten wywodzi się bezpośrednio z barokowej **sonaty triowej**. Kluczową zmianą fakturalną na przełomie epok było zrezygnowanie z partii **basso continuo** (basu cyfrowanego), którą zastąpiły usamodzielnione **wiolonczele** oraz **altówki**. Obsada kwartetu (dwoje skrzypiec, altówka i wiolonczela) stała się jednocześnie nazwą gatunku, który zyskał ogromną popularność ze względu na powszechność skrzypiec w ówczesnej Europie oraz wygodę wykonawczą.
 
+Estetycznie kwartet smyczkowy wpisuje się w oświeceniowy ideał przejrzystości i symetrii. Charles Rosen podkreśla, że styl klasyczny charakteryzuje się okresowością fraz (najczęściej czterotaktowych) oraz wszechogarniającą równowagą. Zmiana wrażliwości, opisywana przez Petera Kivy’ego, polegała na przejściu od statycznych afektów kartezjańskich (np. arie _da capo_ w baroku) do dynamicznego asocjacjonizmu **Davida Hartleya**. W kwartecie, podobnie jak w formie sonatowej, afekty stały się płynne i nabyte pod wpływem bodźców zewnętrznych, co pozwalało na dialogowanie instrumentów i szybkie zmiany nastroju.
+
+## Joseph Haydn
+Haydn napisał ponad 80 kwartetów, wypracowując wzorcową fakturę i formę tego gatunku. Jego podejście ewoluowało od prostych form do skomplikowanych struktur polifonicznych.
+
+Więcej w poprzednim temacie [[Historia Muzyki Klasycyzmu - Egzamin Powtórka#Ewolucja kwartetu smyczkowego w twórczości klasyków wiedeńskich (z naciskiem na dzieła Haydna i Beethovena)]]
+
+## Wolfgang Amadeus Mozart
+Mozart zaczął pisać kwartety w wieku 14 lat podczas pobytu we Włoszech (1770), wzorując się na tamtejszych modelach. Po osiedleniu się w Wiedniu uległ wpływowi Haydna, któremu zadedykował jeden ze swoich najważniejszych zbiorów kwartetowych.
+
+Więcej w poprzednim temacie [[Historia Muzyki Klasycyzmu - Egzamin Powtórka#Ewolucja kwartetu smyczkowego w twórczości klasyków wiedeńskich (z naciskiem na dzieła Haydna i Beethovena)]]
+## Ludwig van Beethoven
+Dla Beethovena kwartet smyczkowy był gatunkiem, w którym najdalej przesuwał granice formy. W jego twórczości kwartet przestał być muzyką salonową, stając się polem dla subiektywnej ekspresji i skomplikowanych struktur.
+
+Więcej w poprzednim temacie [[Historia Muzyki Klasycyzmu - Egzamin Powtórka#Ewolucja kwartetu smyczkowego w twórczości klasyków wiedeńskich (z naciskiem na dzieła Haydna i Beethovena)]]
+## Kontekst społeczny i dydaktyczny
+Rozkwit muzyki kameralnej był nierozerwalnie związany z **emancypacją mieszczaństwa**. Mieszczanie, bogacąc się, aspirowali do stylu życia arystokracji, co objawiało się w powszechnym muzykowaniu domowym. Fortepian i instrumenty smyczkowe stały się narzędziami edukacji i rozrywki.
+
+W tym okresie powstały fundamentalne podręczniki, takie jak _Gruntowna szkoła skrzypcowa_ (1756) Leopolda Mozarta, które systematyzowały technikę gry i estetykę wykonawczą, kładąc nacisk na dydaktyzm epoki. Kwartet smyczkowy, jako gatunek wymagający skupienia i współpracy, stał się muzycznym symbolem oświeceniowego racjonalizmu i humanizmu.
+
+___
 # Muzyka czasów Rewolucji Francuskiej
+Muzyka czasów rewolucji francuskiej to okres szczególnego splotu sztuki z radykalnymi przemianami społecznymi, politycznymi i estetycznymi, który trwał od wybuchu powstania 14 lipca 1789 roku (zajęcie Bastylii) do przejęcia pełni władzy przez Napoleona Bonaparte. Wydarzenia te doprowadziły do obalenia monarchii Burbonów, zniesienia feudalizmu we Francji oraz podkopania pozycji kleru, co znalazło bezpośrednie odbicie w twórczości muzycznej tamtego czasu.
+
+## Metafora światła
+W dobie rewolucji uformowała się nowa koncepcja ideowa, określana mianem „odwróconego Króla Słońce”. O ile w dobie absolutyzmu jasność i blask przypisane były osobie monarchy, o tyle rewolucja ogłosiła, że światło rozumu i wolności przechodzi z króla na lud. Estetyka ta opierała się na silnym kontraście jasności i mroku, co widoczne było zarówno w poezji, jak i malarstwie (np. u Jacques-Louis Davida czy Goi). Muzyka stała się narzędziem manifestacji haseł: Wolność, Równość i Braterstwo, a jej funkcja ewoluowała w stronę utylitaryzmu – miała służyć narodowi, podnosić na duchu obywateli i towarzyszyć uroczystościom państwowym.
+
+## Kluczowe gatunki muzyczne rewolucji
+### Marsze żałobne i muzyka militarna 
+Podczas rewolucji wykształciła się moda na marsze żałobne, które pełniły funkcję muzyki użytkowej pisanej dla armii i na publiczne uroczystości pogrzebowe bohaterów narodowych. Charakterystyczne dla tego nurtu było wykorzystanie potężnych orkiestr dętych oraz perkusji, które mogły być słyszalne w otwartej przestrzeni miejskiej.
+#### Francois-Joseph Gossec – _Marche Lugubere_ d-moll (1790).
+Utwór ten, napisany dla uczczenia ofiar rewolucji, jest przełomowy ze względu na pierwsze w historii użycie **tam-tamu** (chińskiego gongu) w orkiestrze. Instrument ten, o surowym i przerażającym brzmieniu, stał się symbolem nieszczęścia i wywoływał popłoch wśród słuchaczy. Gossec przywrócił także do łask puzony, nadając im charakter infernalny i zaświatowy.
+#### Inne przykłady
+Luigi Cherubini skomponował w 1797 roku _Marches pour le pompe funebere du General Hoche_. Po powrocie Burbonów na tron, kompozytor ten przerabiał swoje dawne marsze rewolucyjne na marsze koronacyjne (np. dla Karola X).
+
+### Hymny i pieśni patriotyczne
+Hymny miały charakter podniosły i radosny, budując topos jasności i jedności narodowej.
+#### Claude Joseph Rouget de Lisle – _La Marseillaise_ (25 marca 1792)
+Pierwotnie zatytułowana jako „Marsz wojenny armii Renu”, stała się hymnem narodowym Francji. Istnieją przypuszczenia, że jej melodia mogła być wzorowana na _Koncercie fortepianowym C-dur_ Mozarta. Innym przykładem jest podniosły _Hymn do Zwycięstwa_ Cherubiniego.
+
+### Opera cudownego ocalenia (Rettungsoper/Rescue Opera) 
+Był to specyficzny gatunek operowy, który funkcjonował intensywnie przez około 25 lat (1769–1815). Fabuła tych dzieł zazwyczaj opowiadała o szlachetnym bohaterze niesłusznie uwięzionym przez tyrana, który w ostatniej chwili – często przed samą egzekucją – zostaje ocalony przez oddanego przyjaciela lub małżonka. Gatunek ten wywodzi się z francuskiej _opera-comique_ i realizuje ideę zwycięstwa szczytnych wartości nad uciskiem.
+
+#### Luigi Cherubini – _Lodoiska_ (1791) 
+Akcja tej niezwykle popularnej opery rozgrywa się w Polsce, co dodawało jej egzotycznego kolorytu.
+#### Ludwig van Beethoven – _Fidelio_ (1805–1814) 
+To najsłynniejsza opera tego nurtu, w której Leonora, przebrawszy się za chłopca o imieniu Fidelio, ratuje swojego męża Florestana z hiszpańskiego więzienia. Utwór ten jest nasycony symboliką walki światłości z ciemnością.
+
+## Beethoven jako spadkobierca rewolucji
+Ludwig van Beethoven był kompozytorem, w którego twórczości idee rewolucyjne znalazły najpełniejszy wyraz artystyczny. Przeniósł on rewolucyjną dramaturgię na grunt muzyki instrumentalnej, stosując topos **per aspera ad astra** (przez ciernie do gwiazd).
+### Topos walki i jasności
+Wiele dzieł Beethovena rozpoczyna się w mrocznych, rewolucyjnych tonacjach molowych (często c-moll lub d-moll), by zakończyć się triumfalnym, „słonecznym” trybem durowym. Najlepszym przykładem jest **V Symfonia c-moll op. 67**, gdzie motyw losu zostaje ostatecznie pokonany w finale w tonacji C-dur, co realizuje ideę „tercji pikardyjskiej” (rozjaśnienia mroku).
+### Innowacje formalne 
+Beethoven w **Sonacie fortepianowej c-moll „Patetycznej” op. 13** (napisanej w 10. rocznicę rewolucji, 1799 r.) nawiązał do rytmiki uwertury francuskiej w powolnym wstępie oraz zastosował tzw. bas typu _murky_, imitujący rewolucyjne werble. W swojej **III Symfonii „Eroica”** początkowo zamieścił dedykację dla Napoleona, a jej druga część to monumentalny marsz żałobny.
+### Uniwersalne braterstwo 
+**IX Symfonia d-moll op. 125** z finałową _Odą do Radości_ Schillera (tekst przedrewolucyjny z 1785 r.) stanowi apoteozę wolności i braterstwa całego rodzaju ludzkiego, kończąc się w triumfalnym D-dur.
+___
 
 
 # Przełom klasyczno-romantyczny
+Przełom klasyczno-romantyczny w dziejach muzyki europejskiej to jeden z najbardziej fascynujących procesów ewolucji estetycznej, przypadający umownie na lata 1800–1827, choć jego korzenie sięgają głębiej w wiek XVIII. Jest to moment, w którym rygor formy klasycznej, opartej na symetrii i racjonalizmie, ustępuje miejsca subiektywnej emocji, a muzyka przestaje być jedynie dworskim rzemiosłem, stając się „mową wszystkich ludzi” i wyrazem ducha walki o wolność.
 
+## Kontekst społeczny i historyczny
+Przełom ten jest nierozerwalnie związany z wydarzeniami politycznymi, przede wszystkim z **Rewolucją Francuską (1789)** oraz okresem napoleońskim. Upadek feudalizmu i emancypacja mieszczaństwa zmieniły rolę kompozytora – z nadwornego sługi stał się on niezależnym artystą-prorokiem, przemawiającym do szerokich rzesz społeczeństwa.
+
+W tym czasie narodziła się idea „odwróconego Króla Słońce” – metaforycznego przejścia światła rozumu i wolności z monarchy na lud. W sztuce przejawiło się to fascynacją kontrastem jasności i ciemności, co w muzyce zaowocowało nową dramaturgią i potężnymi skokami dynamicznymi.
+
+## Kontekst estetyczny
+W estetyce nastąpiło przejście od hartleyowskiego asocjacjonizmu – gdzie afekty były nabyte przez bodźce zewnętrzne – ku romantycznemu subiektywizmowi. Muzyka Beethovena, będącego centralną postacią tego przełomu, przestała mieścić się w przyjętych konwencjach, stając się syntezą treści muzycznych i głęboko ludzkich.
+
+Kluczowe zmiany estetyczne obejmowały:
+- **Indywidualizm:** Kompozytor nie naśladuje natury w sposób pasywny, lecz wyraża własne cierpienie i triumf.
+- **Dramatyzację formy:** Klasyczna forma sonatowa stała się procesem pełnym niespodzianek, fragmentacji tematów i rozbudowanych przetworzeń.
+- **Programowość:** Muzyka zaczęła opowiadać historie lub oddawać nastroje sugerowane przez pozamuzyczne tytuły.
+
+## Kluczowe przejawy przełomu w twórczości Ludwiga van Beethovena
+
+### Topos *per aspera ad astra* i symfonika teleologiczna
+Beethoven wprowadził do muzyki instrumentalnej scenariusz „przez ciernie do gwiazd”, polegający na narracyjnym przejściu od mroku tonacji molowej do triumfalnej jasności durowej.
+#### V Symfonia c-moll op. 67 (1808)
+Jest to symfonia teleologiczna, dążąca do z góry ustalonego finału.
+Część I zdominowana jest przez surowy „motyw losu”, a ponura tonacja c-moll symbolizuje „ciernie”. Przejście od Scherza do Finału (wykonywane _attacca_) uznaje się za szczyt dramaturgii; finał w C-dur realizuje ideę tercji pikardyjskiej – ostatecznego zwycięstwa nad przeznaczeniem.
+
+### Ateleologizm i programowość
+Przeciwwagą dla dramatyzmu walki stała się sielska wizja natury, w której forma ulega rozluźnieniu na rzecz nastrojowości.
+#### VI Symfonia F-dur „Pastoralna” op. 68 (1808)
+Jest to symfonia ateleologiczna, której celem nie jest finał, lecz budowanie pejzażu dźwiękowego.
+Beethoven zastrzegł, że jest ona „bardziej ekspresją uczuć niż malarstwa”, choć zawiera elementy onomatopeiczne (śpiew ptaków: słowika, przepiórki i kukułki w II części).
+Dzieło składa się z pięciu części o programowych tytułach, co było śmiałym wyjściem poza klasyczny model cztero-częściowy.
+### Ewolucja cyklu sonatowego i wirtualizacja instrumentu
+Beethoven przekształcił sonatę fortepianową z utworu salonowego w monumentalne dzieło koncertowe o symfonicznym brzmieniu.
+#### Sonata fortepianowa c-moll op. 111 
+Dzieło późnego okresu, otwierające tzw. „styl c-moll” surowym unisono.
+Składa się tylko z dwóch części: burzliwego Allegra, które ulega polifonizacji, oraz Arietty z wariacjami, opisywanej jako „zamrażanie czasu”.
+Wykazuje odejście od schematów Riemannowskich na rzecz swobodnej, fantazyjnej formy.
+### Wprowadzenie elementu ludzkiego do symfonii
+Ostatecznym aktem przełamania granic klasycznego gatunku było wprowadzenie słowa i chóru do symfonii.
+#### IX Symfonia d-moll op. 125 (1824)
+W finale pojawia się chór śpiewający _Odę do Radości_ Friedricha Schillera (tekst przedrewolucyjny), co czyni z symfonii manifest braterstwa.
+Beethoven zastosował tu fanfarę strachu (_Schreckensfanfare_) oraz cytaty z poprzednich części, budując syntezę całego cyklu przed finałowym triumfem w D-dur.
+## Fundament romantyzmu
+Warsztat wypracowany przez Beethovena stał się bezpośrednim punktem wyjścia dla muzyki XIX wieku. Z jego innowacji czerpali:
+- **Hector Berlioz**, zapożyczając programowość i technikę motywu przewodniego (_idée fixe_) w _Symfonii Fantastycznej_.
+- **Ferenc Liszt**, rozwijając beethovenowskie idee programowe w gatunku poematu symfonicznego.
+Przełom klasyczno-romantyczny był zatem procesem, w którym muzyka zyskała nową, subiektywną siłę rażenia, zastępując „doskonale symetryczny ogród” klasycyzmu „dziką naturą” romantyzmu.
