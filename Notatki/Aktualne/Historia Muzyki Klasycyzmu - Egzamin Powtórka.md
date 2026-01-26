@@ -602,27 +602,26 @@ To doskonały przykład powracania do tego samego tekstu (libretta Pietro Metast
 
 - **Wersja KV 294 (1778):** Napisana w Mannheimie dla **Aloysii Weber**, w której Mozart wyraził tzw. _tenero affetto_ (czuły afekt). Aria ma budowę trzyczęściową sonatową i cechuje się wirtuozerią sopranową.
 - **Wersja KV 512 (1787):** Napisana dziewięć lat później dla znakomitego basu, **K.L. Fischera**. Mozart zdecydował się na znacznie większą powagę, dostosowując muzykę do niskiego rejestru i dojrzałego stylu, co widać w gwałtownych pochodach i koloryturach.
-
-### _Non temer, amato bene_ (KV 490 i KV 505)
+#### _Non temer, amato bene_ (KV 490 i KV 505)
 Oba utwory to wokalne ronda koncertowe, będące „bliźniaczymi” kompozycjami z 1786 roku.
 
 - **KV 490:** Napisana jako numer alternatywny do wiedeńskiej premiery _Idomeneo_, z solową partią skrzypiec obligato.
 - **KV 505:** Wersja z solowym fortepianem, przeznaczona dla **Nancy Storace**. Fortepian wchodzi w dialog z głosem, co odzwierciedla symfonizację brzmienia instrumentu klawiszowego.
 
-### _Bella mia fiamma, addio_ (KV 528) 
+#### _Bella mia fiamma, addio_ (KV 528) 
 Słynna aria koncertowa napisana dla Josefy Dušek, stanowiąca popis techniczny i emocjonalny, często wskazywana jako przykład najwyższej próby psychologicznego portretowania w muzyce wokalnej.
 
 ---
-# Dwie koncepcje symfonizmu w twórczości Beethovena (V a VI Symfonia)
+# 17. Dwie koncepcje symfonizmu w twórczości Beethovena (V a VI Symfonia)
 Piąta i Szósta Symfonia Ludwiga van Beethovena, choć skomponowane w tym samym czasie i prawykonane podczas tego samego, legendarnego koncertu w wiedeńskim Theater an der Wien 22 grudnia 1808 roku, stanowią dwa przeciwstawne bieguny myślenia o formie symfonicznej. Ich zestawienie pozwala zrozumieć ewolucję stylu Beethovena, który z jednej strony dążył do maksymalnej kondensacji dramatycznej, a z drugiej – do swobodnej, programowej narracji opartej na nastroju.
 
-## V Symfonia c-moll op. 67: Koncepcja teleologiczna
+## 17.1 V Symfonia c-moll op. 67: Koncepcja teleologiczna
 V Symfonia jest sztandarowym przykładem symfonizmu **teleologicznego**, co oznacza, że cały cykl jest podporządkowany jednemu, z góry ustalonemu celowi. Realizuje ona topos **per aspera ad astra** (przez ciernie do gwiazd), obrazując drogę od mrocznego konfliktu w tonacji c-moll do triumfalnego zwycięstwa w C-dur.
 
-### Kontekst historyczny i estetyczny:
+### 17.1.1 Kontekst historyczny i estetyczny:
 Dzieło powstało w okresie, gdy Beethoven zmagał się z postępującą głuchotą (okres po Testamencie z Heiligenstadt z 1802 r.) oraz w atmosferze rewolucyjnych przemian w Europie. Estetyka ta kładzie nacisk na heroizm i walkę jednostki z losem.
 
-### Analiza formy i "motyw losu"
+### 17.1.2 Analiza formy i "motyw losu"
 Całość dzieła zdominowana jest przez słynny, czterodźwiękowy **motyw losu**, który pełni funkcję formotwórczą i pojawia się we wszystkich częściach symfonii.
 - **Część I (Allegro con brio):** Klasyczne allegro sonatowe całkowicie zdominowane przez pierwszy temat (motyw losu).
 - **Część II (Andante con moto):** Wariacje w tonacji As-dur (submedianta), gdzie motyw losu powraca okazjonalnie w basie jako _leitmotif_.
@@ -631,7 +630,7 @@ Całość dzieła zdominowana jest przez słynny, czterodźwiękowy **motyw losu
 
 **Innowacje instrumentacyjne:** Beethoven wprowadza tu instrumenty wcześniej rzadkie w symfonice: flet piccolo i kontrafagot.
 
-## VI Symfonia F-dur op. 68 „Pastoralna”: Koncepcja ateleologiczna
+## 17.2 VI Symfonia F-dur op. 68 „Pastoralna”: Koncepcja ateleologiczna
 VI Symfonia stanowi absolutną antytezę "Piątej". Jest to symfonia **ateleologiczna**, w której celowość jest świadomie rozmyta na rzecz budowania pejzażu dźwiękowego i nastroju.
 ### Kontekst estetyczny
 Utwór nawiązuje do oświeceniowej idei "powrotu do natury" promowanej przez J.J. Rousseau i J.W. Goethego. Beethoven zaznaczył jednak, że muzyka ta jest „bardziej ekspresją uczuć niż malarstwem”.
@@ -645,7 +644,7 @@ Symfonia składa się z **pięciu części**, z których każda posiada autorski
     5. _Pieśń pasterska_ – radosne uczucia po burzy, oparte na metrum 6/8 (rytmika sycyliany) i motywach "jodłujących".
 ### Cechy stylu pastoralnego 
 Beethoven operuje tu prostymi tonacjami (F-dur, B-dur), długimi wartościami, tercjami równoległymi oraz **burdonami w basie**, które mają ilustrować statyczność i zatrzymanie czasu na wsi.
-## Podsumowanie porównawcze
+## 17.3 Podsumowanie porównawcze
 
 |Cecha|V Symfonia c-moll|VI Symfonia F-dur|
 |:--|:--|:--|
@@ -658,14 +657,14 @@ Beethoven operuje tu prostymi tonacjami (F-dur, B-dur), długimi wartościami, t
 
 
 --- 
-# Gatunki muzyki religijnej w Twórczości Mozarta
+# 18. Gatunki muzyki religijnej w Twórczości Mozarta
 [[7. Muzyka Religijna XVIII wieku]]
 Twórczość religijna Wolfganga Amadeusa Mozarta stanowi fascynujący obszar jego spuścizny, będący miejscem spotkania surowej tradycji polifonicznej (_stile antico_) z nowoczesnym, operowym blaskiem klasycyzmu (_stile moderno_). Choć muzyka religijna w XVIII wieku stopniowo traciła na swoim dominującym znaczeniu na rzecz gatunków świeckich, Mozart pozostawił po sobie monumentalne dzieła, które do dziś stanowią kanon muzyki sakralnej.
 
-## Kontekst historyczny i estetyczny
+## 18.1 Kontekst historyczny i estetyczny
 Większość dzieł religijnych Mozarta powstała w okresie jego służby na dworze arcybiskupa Salzburga, Hieronima von Colloredo. Specyfika tego miejsca, w tym architektura katedry salzburskiej z czterema emporami, wymuszała na kompozytorze stosowanie technik polichóralnych, co najwyraźniej widać w części _Sanctus_ z jego późniejszych mszy. Estetyka sakralna Mozarta ewoluowała od lekkich, rokokowych form narzuconych przez rygory dworskie (tzw. _missae brevis_), aż po osobiste, głęboko nasycone symboliką i archaizmami dzieła, takie jak Msza c-moll czy Requiem.
 
-## Główne gatunki muzyki religijnej
+## 18.2 Główne gatunki muzyki religijnej
 
 ### Msze 
 Msze w twórczości Mozarta dzielą się na dwa podstawowe typy, wynikające z potrzeb liturgicznych XVIII wieku:
