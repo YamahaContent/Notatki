@@ -30,12 +30,10 @@ Praktyki muzyki świeckiej spotykały się z **krytyką Kościoła**, o czym św
 ## 1.2 Polifonia 
 ### 1.2.1 Typologia Śpiewu
 W praktyce muzycznej średniowiecza wyróżniano fundamentalne kategorie śpiewu, określanego jako **Cantus**. Podstawowy podział opierał się na obecności lub braku zrytmizowania.
-
 - _**Cantus Planus**_ (śpiew równy): Chorał jednogłosowy o swobodnym rytmie.
 - _**Cantus Mensurabilis**_ (śpiew menzuralny): Śpiew o precyzyjnie określonym rytmie.
 
 Każdy z powyższych typów mógł występować w dwóch formach:
-
 - _**Simplex**_: Śpiew jednogłosowy.
 - _**Multiplex**_: Śpiew wielogłosowy.
 
@@ -67,7 +65,6 @@ Innym ważnym źródłem prozy polskiej, choć nie muzycznym, są **Kazania Świ
 
 #### Mikołaj z Radomia (aktywny ok. 1420-1430)
 Czołowy polski kompozytor I połowy XV wieku. Jego twórczość zachowała się w dwóch kluczowych rękopisach:
-
 - **Kodeks Krasińskich (PL-Wn 8054)**:
     - _Hystoriographi aciem_
     - _Magnificat_
@@ -81,7 +78,6 @@ Czołowy polski kompozytor I połowy XV wieku. Jego twórczość zachowała się
 #### Piotr z Grudziądza (Petrus Wilhelmi de Grudencz, ur. ok. 1392)
 
 Kompozytor, którego dzieła odnaleziono w licznych europejskich źródłach, co świadczy o jego międzynarodowej renomie.
-
 - _Pregrata erat_ (PL-Kj 2464)
 - _Presulis eminenciam_ (PL-Kj 2464)
 - _Predulcis eurus_ (PL-WRu 269)
