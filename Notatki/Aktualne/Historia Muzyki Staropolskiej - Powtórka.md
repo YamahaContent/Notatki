@@ -233,7 +233,30 @@ Od 1566 roku pisatuje funkcje ławnika w Sandomierskim sądzie. W **1580** wydaj
 ### 2.4.2 Kontekst kulturowy - Przekład Psalmów
 W XVI wieku przekład psalmów na język polski stał się jednym z najważniejszych postulatów reformacji, dążącej do uczynienia liturgii zrozumiałą dla wiernych poprzez wprowadzenie **języka narodowego**. W tym okresie powstały trzy kluczowe tłumaczenia Psałterza: **Jakuba Lubelczyka** (1558), **Jana Kochanowskiego** (1579) oraz **Macieja Rybińskiego** (1605/1606)
 
-### 2.4.3 ***Melodie na psałteż polski przez Mikołaja Gomółke uczynione***
+### 2.4.3 ***Melodie na psałteż polski przez M. G. uczynione***
+
+#### Ogólne Informacje
+Jedyne zachowane dzieło Gomółki. Wydane w **Krakowie w 1580** r. w oficynie **drukarskiej Jana Januszewskiego**, dedykowane **biskupowki Piotrowi Myszkowskiemu**. 
+Zachowało się **9 egzemplarzy pierwodruku**, poszczególne egzemplarze różnią się czciąką, co sugeruje dodruk.
+Ani Gomółka, ani Kochanowski **nie byli protestantami**. Przetłumaczenie psalmów na język ojczysty i ich umuzycznienie to idea zgodna z **duchem reformacyjnym**.
+
+Uchodzą za pomnik kultury staropolskiej. Jest to jedyne dzieło Gomółki, składa się z 150 utworów z prostą fakturą *nota contra notam*. 
+W przeciwięstwie do typowych psałterzy i kancjonałów reformacyjnych, **nie są oparte na *cantus firmus***. Materiał melodyczny nawiązuje do pieśni i zancjonałów Polskich i Europejskich.
+
+
+#### Analiza 
+Płaszczyzna semantyczna, opracowanie muzycze podporządkowane jest warstwie treściowej i wyrazowej tekstu - *imitatione della natura*.
+
+**Gomółka stosuje różne techniki malarstwa dźwiękowego** takie jak: 
+- Dobór Modusu do charakteru psalmu (psalmy radosne w modusie wielkotercjowym jońskim/miksolidyjski, a o charakterze smutym w doryckim lub frygijskim). 
+- Psalmy smutne odmalowanę są przez niski rejestr głów na początku utworu oraz wolne tempo oraz metrum dwudzielnym, natomiast psalmy radosne mają charakter taneczny (metrum trójdzielne). 
+- **Madrygalizmy**.
+
+**Gomółka stosuje trzy zasady deklamacyjne**:
+- **Deklamacja imitująca** - naśladująca prozodie języka, narzędziem odwzorowania akcentów jest rytm.
+- **Deklamacja zderformowana** - świadoma transakcentacja muzyczna jest środkiem zamierzonej stylizacji tanecznej. Język staje się środkiem wyrazu.
+- **Deklamacja inicjalna** -  Relikty dawnej tradycji właściwej dla Polski połódniowej (tzw. Czechizmy) z której Gomółka pochodził. 
+
 
 # 3. Barok
 
