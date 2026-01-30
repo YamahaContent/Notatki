@@ -736,6 +736,39 @@ Topos _per aspera ad astra_ u Beethovena to nie tylko zabieg techniczny polegaj�
 
 
 # 20. Twórczość operowa Mozarta w kontekście innych kompozytorów operowych XVIII-wieku
+Twórczość operowa Wolfganga Amadeusa Mozarta nie powstała w próżni artystycznej, lecz stanowiła genialną syntezę najważniejszych innowacji europejskiego teatru muzycznego XVIII wieku. Mozart, czerpiąc z tradycji włoskiej, niemieckiej i francuskiej, przekształcił istniejące gatunki, nadając im niespotykaną wcześniej głębię psychologiczną i dramaturgiczną.
+
+## 20.1 Dziedzictwo opery włoskiej: Neapol i szkoła wenecka
+Najsilniejszy fundament dla Mozarta stanowiła tradycja włoska, która w XVIII wieku wykształciła dwa główne nurty: _opera seria_ oraz _opera buffa_.
+
+- **Leonardo Vinci i Leonardo Leo:** Vinci odegrał kluczową rolę w rozwoju _opery buffa_, wprowadzając finały, które stały się jej nieodłącznym elementem strukturalnym. Leo natomiast kładł nacisk na kontrasty dynamiczne, co wpłynęło na wyrazowość opery w całym stuleciu.
+- **Giovanni Battista Pergolesi:** Jego intermezzo _**La serva padrona**_ (1733) zrewolucjonizowało sposób charakterystyki postaci komicznych, zwłaszcza poprzez mistrzowskie wykorzystanie głosu basowego. Sukces tego dzieła w Paryżu w 1752 roku wywołał słynny spór buffonistów.
+- **Współpraca Galuppiego i Goldoniego:** Wypracowali oni model _**dramma giocoso**_ (wesoły dramat), łączący elementy poważne i komiczne. Goldoni wprowadził do libretta realizm, krytykę arystokracji oraz tzw. finały łańcuchowe, w których akcja gwałtownie przyspiesza.
+    - **Przykład:** Model ten Mozart w pełni zaadoptował w _**Don Giovannim**_ (1787), gdzie postacie komiczne (Leporello, Zerlina) współistnieją z tragicznymi (Komandor, Donna Anna), a finał aktu cechuje się ogromną dynamiką.
+
+## 20.2 Reformatorski impuls Christopha Willibalda Glucka
+
+Gluck, wraz z librecistą Calzabigim, dokonał reformy mającej na celu przywrócenie operze „pięknej prostoty” i prawdy dramatycznej.
+
+- **Założenia reformy:** Gluck sprzeciwiał się dominacji wirtuozowskich popisów śpiewaków (arii da capo) na rzecz służebności muzyki wobec poezji i akcji. Wprowadził jednoczęściową uwerturę związaną z nastrojem dzieła oraz podniósł rolę chóru do rangi bohatera zbiorowego.
+- **Wpływ na Mozarta:** Mozart przejął od Glucka myślenie całościowe o dziele oraz ideę powiązania uwertury z akcją poprzez motywy muzyczne.
+    - **Przykład:** W operze _**Alceste**_ (1767) Gluck zrezygnował z koloratur na rzecz ekspresji, co Mozart rozwijał w swoich portretach psychologicznych, np. w ariach Hrabiny w _Weselu Figara_.
+
+## 20.3 Niemiecki Singspiel i poszukiwania narodowe
+W krajach niemieckojęzycznych opera ewoluowała w stronę gatunku _**singspiel**_, charakteryzującego się mówionymi dialogami zamiast recytatywów.
+
+- **Johann Adam Hiller i szkoła lipska:** Hiller stworzył pierwszy singspiel z krótkimi ariami i zespołowymi zakończeniami, co było odpowiedzią na brak w Niemczech kultury _bel canto_.
+- **Ignaz Holzbauer:** Jego opera _**Günther von Schwarzburg**_ (1777), którą Mozart podziwiał w Mannheimie, wywarła na niego ogromny wpływ swoim „ogniem” oraz konstrukcją. Holzbauer stosował w niej techniki _Empfindsamkeit_ (stylu czułego), co Mozart później wykorzystał w _Uprowadzeniu z Seraju_ i _Czarodziejskim flecie_.
+    - **Przykład:** _**Czarodziejski flet**_ (1791) to dojrzała postać singspielu, w której Mozart połączył baśniową tematykę z głęboką symboliką masońską i kunsztowną polifonią.
+
+## 20.4 Francuskie inspiracje: Naturalizm i "Opera Ocalenia"
+Kultura francuska dostarczyła Mozartowi wzorców literackich oraz nowych rozwiązań dramaturgicznych.
+
+- **Jean-Jacques Rousseau:** Jego opera _**Le devin du village**_ (1752) stała się manifestem naturalizmu – opierała się na prostych piosenkach i odrzucała zawiłość barokowego kontrapunktu.
+- **Opera Cudownego Ocalenia (Rettungsoper):** Gatunek ten, reprezentowany przez dzieła Luigiego Cherubiniego (np. _**Lodoïska**_, 1791), skupiał się na motywie wybawienia niewinnego bohatera z rąk tyrana.
+    - **Przykład:** Choć najwybitniejszym przykładem tego nurtu jest _Fidelio_ Beethovena, Mozart czerpał z francuskiej odwagi w krytyce społecznej. _**Wesele Figara**_ (1786) bazuje na zakazanej sztuce Beaumarchais’go, w której służący Figaro okazuje się mądrzejszy od swojego pana, co zapowiadało nastroje rewolucyjne.
+
+Podsumowując, Mozart nie tylko przyswoił zdobycze swoich poprzedników i współczesnych, ale przekroczył ich ograniczenia, łącząc komizm z tragedią oraz rzemiosło z głęboką analizą duszy ludzkiej.
 
 ---
 # 21. Symfonika J. Haydna i W.A. Mozarta
@@ -835,6 +868,30 @@ Kwartety Beethovena mają **ogólną tendencję** do stosowania **precyzyjnej ar
 ---
 
 # 24. Dialektyka fortepianu i orkiestry w koncertach fortepianowych Mozarta
+Dialektyka fortepianu i orkiestry w koncertach fortepianowych Wolfganga Amadeusa Mozarta to jeden z najbardziej fascynujących procesów ewolucji formy w muzyce XVIII wieku. Proces ten obrazuje przejście od barokowej rywalizacji (_concertare_) ku klasycznemu dialogowi i symfonizacji brzmienia, co dokonało się na tle dynamicznych przemian technologicznych, społecznych i estetycznych.
+
+## 24.1 Kontekst technologiczny i społeczny: Narodziny fortepianu
+W XVIII wieku, za życia Mozarta, instrumenty klawiszowe przechodziły radykalną ewolucję. Pierwsze fortepiany, wyłaniające się z konstrukcji klawesynu i klawikordu, oferowały zupełnie nowe możliwości dynamiczne. W przeciwieństwie do klawesynu, fortepian pozwalał na płynne zmiany głośności (dynamikę cieniowaną), co stało się kluczowym narzędziem dla kompozytorów realizujących oświeceniowe ideały ekspresji.
+
+Mozart, jako wybitny wirtuoz, traktował fortepian jako swój ulubiony instrument, często pisząc partie solowe dla samego siebie, co pozwalało mu na bezpośrednie eksperymentowanie z relacją między solistą a aparatem orkiestrowym.
+
+## 24.2 Ewolucja relacji: Od "niedojrzałości" do symfonizacji
+Wczesne koncerty Mozarta (np. KV 37, 45) określa się często jako dzieła niedojrzałe, ponieważ ich struktura opierała się w dużej mierze na transkrypcjach sonat innych kompozytorów. Prawdziwy przełom nastąpił jednak w roku **1777** wraz z powstaniem **Koncertu fortepianowego Es-dur „Jeunehomme” (KV 271)**.
+- **Innowacja w KV 271:** Według Charlesa Rosena jest to jeden z pierwszych przykładów utworu w pełni oczyszczonego z barokowych manieryzmów. Mozart wprowadził tu nowatorski model, w którym fortepian jest głęboko osadzony w orkiestrze. Zrezygnowano z tradycyjnego _basso continuo_, a partie solisty i orkiestry przestały ze sobą jedynie kontrastować – zaczęły się płynnie przenikać i dialogować.
+- **Symbolika tonalna:** Wybór tonacji Es-dur w KV 271 (i późniejszym KV 482) nie był przypadkowy – trzy bemole niosły ze sobą bogatą symbolikę, często kojarzoną z wolnomularstwem (liczba 3). W tych dziełach Mozart chętnie wykorzystywał klarnety, co dodatkowo wzbogacało paletę barwną i "symfonizowało" brzmienie koncertu.
+
+## 24.3 Dojrzała dialektyka wiedeńska
+Po przeniesieniu się do Wiednia (utwory powyżej numeru KV 400), Mozart wypracował model koncertu dojrzałego, charakteryzujący się większą przystępnością dla słuchacza przy jednoczesnym wzroście skomplikowania relacji wewnętrznych.
+1. **Koncert d-moll KV 466:** To dzieło nasycone dramatyzmem i psychologiczną głębią, typową dla "stylu d-moll". Partia fortepianu jest tu niezwykle zróżnicowana melodycznie i dynamicznie, a orkiestra nie pełni już tylko roli tła, lecz aktywnie uczestniczy w budowaniu napięcia, co odzwierciedla wpływ estetyki _Sturm und Drang_ (Burza i Napór).
+2. **Koncerty "wojskowe":** Niektóre koncerty (np. KV 537 czy fragmenty KV 453) wykorzystują idiom militarny – rytmy marszowe oraz obsadę wzbogaconą o instrumenty dęte blaszane i bębny. Tutaj dialektyka polega na zderzeniu perkusyjności orkiestry z kantylenowością fortepianu.
+
+## 24.4 Estetyczny fundament: Asocjacjonizm Hartleya
+Zmiana relacji fortepian-orkiestra wpisuje się w szerszy kontekst estetyczny epoki. Odejście od statycznych afektów kartezjańskich na rzecz asocjacjonizmu **Davida Hartleya** pozwoliło Mozartowi na kreowanie "dynamicznych strumieni" emocji. W koncercie fortepianowym solista może reprezentować inny stan emocjonalny niż orkiestra, a ich wzajemne oddziaływanie (np. w przetworzeniu formy sonatowej) imituje ludzką poliafektacyjność – zdolność do odczuwania wielu emocji jednocześnie.
+
+## 24.5 Synteza gatunków: Aria koncertowa z fortepianem
+Ciekawym przykładem dialektyki Mozarta jest aria koncertowa **"Non temer, amato bene" (KV 505)**, napisana dla Nancy Storace. Mozart wprowadził tu fortepian jako instrument _obligato_, który wchodzi w bezpośredni dialog z głosem ludzkim. Ta "symfonizacja" brzmienia instrumentu klawiszowego w kontekście wokalnym jest bezpośrednim przeniesieniem doświadczeń z koncertów fortepianowych na grunt operowy i koncertowy, gdzie instrument staje się równorzędnym partnerem w wyrażaniu najbardziej intymnych uczuć.
+
+Podsumowując, dialektyka fortepianu i orkiestry u Mozarta polega na zastąpieniu mechanicznego podziału na "solistę i tło" organiczną jednością. Dzięki innowacjom w instrumentacji, odejściu od _continuo_ i pogłębieniu charakterystyki psychologicznej, Mozart uczynił z koncertu fortepianowego pole najbardziej zaawansowanej myśli muzycznej Oświecenia, torując drogę symfonicznym rozwiązaniom Beethovena.
 # 25. Muzyka kameralna klasyków wiedeńskich (zasadniczo chodzi o kwartet smyczkowy)
 [[10. Muzyka Kameralna - Kwartet Smyczkowy]]
 ## 25.1 Kwartet Smyczkowy
@@ -865,6 +922,26 @@ W tym okresie powstały fundamentalne podręczniki, takie jak _Gruntowna szkoła
 
 ___
 # 26. Chronologia i typologia koncertów fortepianowych Mozarta
+Twórczość Wolfganga Amadeusa Mozarta w dziedzinie koncertu fortepianowego stanowi jeden z najważniejszych filarów muzyki instrumentalnej XVIII wieku, odzwierciedlający ewolucję od barokowego modelu rywalizacji do klasycznej symfonizacji i psychologizacji formy. Rozwój tego gatunku był nierozerwalnie związany z postępem technologicznym w budowie instrumentów klawiszowych – pierwsze fortepiany, które wyewoluowały z klawesynu i klawikordu za życia Mozarta, oferowały niespotykane wcześniej możliwości dynamiczne (tzw. dynamikę cieniowaną), co pozwoliło kompozytorowi na realizację nowych idei wyrazowych. Mozart, będąc wybitnym wirtuozem, traktował fortepian jako swój ulubiony instrument i często pisał partie solowe dla samego siebie, co nadawało tym dziełom osobisty charakter.
+
+## 26.1 Chronologia i ewolucja stylu
+Chronologiczny rozwój koncertów Mozarta można podzielić na trzy główne etapy, odzwierciedlające dojrzewanie jego idiomu kompozytorskiego:
+1. **Koncerty wczesne („niedojrzałe”):** Pierwsze próby Mozarta w tym gatunku, takie jak **KV 37 i KV 45**, nie są dziełami w pełni autonomicznymi. Opierają się one w dużej mierze na sonatach innych kompozytorów, które Mozart aranżował na skład koncertujący. W tym okresie silne były jeszcze wpływy Jana Christiana Bacha oraz szkoły mannheimskiej.
+2. **Przełom salzburski (1777):** Momentem zwrotnym był rok 1777, w którym powstał **Koncert fortepianowy Es-dur „Jeunehomme” KV 271**. Według Charlesa Rosena jest to pierwszy utwór w stylu klasycznym całkowicie oczyszczony z barokowych manieryzmów. Fortepian zostaje tu głęboko osadzony w tkance orkiestrowej, rezygnuje się z tradycyjnego _basso continuo_, a partie solisty i orkiestry przestały ze sobą jedynie kontrastować – zaczęły się płynnie przenikać i dialogować.
+3. **Okres wiedeński (po 1781):** Po osiedleniu się w Wiedniu Mozart tworzył dzieła określane jako „dojrzałe” (zazwyczaj powyżej numeru **KV 400**). Charakteryzują się one większą przystępnością dla słuchacza, przy jednoczesnym wzroście skomplikowania partii fortepianu pod względem dynamicznym i melodycznym.
+    
+
+## 26.2 Typologia koncertów fortepianowych
+W dorobku Mozarta można wyróżnić kilka specyficznych typów koncertów, różniących się obsadą, nastrojem oraz symboliką:
+
+- **Koncerty dramatyczne (Styl C-moll i D-moll):** Wykorzystują one tonacje molowe do wyrażenia silnego niepokoju i tragizmu. Przykładem jest **Koncert d-moll KV 466**, cechujący się dużą różnorodnością dynamiczną i melodyczną. W estetyce epoki tonacje te (szczególnie c-moll) były zarezerwowane dla dzieł najpoważniejszych, udramatyzowanych i o większym ciężarze gatunkowym.
+- **Koncerty „wojskowe”:** Charakteryzują się one rytmami marszowymi oraz rozbudowaną obsadą, obejmującą instrumenty dęte blaszane oraz bębny. Do tego nurtu zalicza się m.in. **KV 453, KV 537** czy fragmenty **KV 517**.
+- **Koncerty w tonacji Es-dur:** Tonacja ta, posiadająca trzy bemole, niosła ze sobą bogatą symbolikę masońską (nawiązanie do liczby 3, trzech kroków wtajemniczenia). Mozart często wprowadzał w nich do orkiestry klarnety, co nadawało im specyficzny, miękki koloryt (np. **KV 482, KV 271**).
+
+## 26.3 Kontekst estetyczny i społeczny
+Ewolucja koncertu fortepianowego Mozarta wpisuje się w szerszy nurt zmian estetycznych XVIII wieku. Pod wpływem asocjacjonizmu **Davida Hartleya**, Mozart odszedł od statycznej teorii afektów Kartezjusza na rzecz poliafektacyjności – przekonania, że emocje są nabyte, płynne i mogą współwystępować jednocześnie. W koncertach fortepianowych przejawiało się to w dynamicznym dialogu między solistą a orkiestrą, gdzie każda strona mogła reprezentować inny stan emocjonalny.
+
+Współpraca Mozarta z wybitnymi śpiewaczkami, takimi jak Nancy Storace, zaowocowała również powstaniem form hybrydowych, jak aria koncertowa z fortepianem _obligato_ **„Non temer, amato bene” KV 505**. Fortepian pełni tu rolę równorzędnego partnera dla głosu ludzkiego, co świadczy o postępującej symfonizacji i indywidualizacji partii tego instrumentu. Dzieła te dokumentują przejście od traktowania muzyki jako dworskiej rozrywki (styl _galant_) ku pogłębionej psychologii i dydaktyzmowi, właściwemu dla epoki oświecenia.
 # 27. Muzyka czasów Rewolucji Francuskiej
 [[5. Muzyka Okresu Rewolucji Francuskiej]]
 Muzyka czasów rewolucji francuskiej to okres szczególnego splotu sztuki z radykalnymi przemianami społecznymi, politycznymi i estetycznymi, który trwał od wybuchu powstania 14 lipca 1789 roku (zajęcie Bastylii) do przejęcia pełni władzy przez Napoleona Bonaparte. Wydarzenia te doprowadziły do obalenia monarchii Burbonów, zniesienia feudalizmu we Francji oraz podkopania pozycji kleru, co znalazło bezpośrednie odbicie w twórczości muzycznej tamtego czasu.
