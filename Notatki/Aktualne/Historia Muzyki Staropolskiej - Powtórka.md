@@ -166,7 +166,21 @@ Finck pisał motety z *cantus firmus*, o przeimitowanej fakturze; hymny; pieśni
 Pod względem rytmiki Finck jest najorginalniejszy z całej generacji.
 
 ## 2.3 Kapela Rorantystów
+Sfundowana przez **Zygmunta Starego** (1506-1548) **w 1540**, powołana dla kultywowania muzyki religijnej w Kaplicy Zygmuntowskiej. Kapela działała od **1543 r**.
+Była to druga po kapeli nadwornej najważniejsz kapela. Kapela wykonywała obszerny repertuar, który nie był reprezentatywny dla Polski.
+Kapela składała się wyłącznie z mężczyzn z **polskiego duchowieństwa**.
 
+Pierwszym przełożonym kapeli był **Mikołaj z Poznania** (zm. 1555 r.), a następnymi kolejno: **Krzysztof Borek** (1558-1570), **Stanisław Zając z Pabianic** (1574-1602).
+Przez kapele przewineło się okołu 50 śpiewaków. Zamieszkiwali w Domu Katedralnym, a dochody na ich utrzymywanie płynełu z żup wielickich i bocheńskich, cła krakowskiego i dzieśięcin z podkrakowskich wsi.
+
+## 2.4 Kompozytorzy Teoretyczni
+W I połowie XVI pojawił się materiał sygnowany kapelą rorantystów, były to **kompozycje teoretyczne**.
+### 2.4.1 Jerzy Liban z Legnicy
+Zyjący w latach 1464-1546, filolog Uniwersytety Jagiellońskiego. Twórca licznych traktatów łacińskich w których opracowywał na różne sposoby Magnificat. 
+Skomponował czterogłosową antyfone *Ortus de Polonia*, w której występuje równo-nutowy cantus firmus w tenorze. Fakturalnie kompozycja uboga (nota contra notam). 
+Dominował styl konserwatywny, niemiecki z brakiem wpływów niderlandzkich.
+### 2.4.2 Sebastian z Felsztyna 
+Żyjący w latach 1480-1536 kompozytor. Zachowały się trzy czterogłosowe maryjne propia mszalne. W przeciwięstwie do Libana z Legnicy pojawiają się sporadyczne imitacje dwugłosow.
 # 3. Barok
 
 # 4. Klasycyzm
