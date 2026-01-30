@@ -96,8 +96,64 @@ Innym ważnym źródłem prozy polskiej, choć nie muzycznym, są **Kazania Świ
 |**Kk 235 + Ka 1706**|b.d.|Organalne _Liber generationis_ (3- i 4-głosowe).|
 
 
-### Najważniejsi Twórcy
+
+### 1.2.3 Najważniejsi Kompozytorzy Polscy Okresu Średniowiecza
+#### Mikołaj z Radomia (aktywny ok. 1420-1430)
+W latach 1420-1426 studiowało kilku Mikołajów z Radomia w Akademii Krakowskiej. Możliwie że był członkiem watykańskiej kurii papieża Bonifacego IX (1390-1404), w tym czasie sekretarzem papieskim był **Antonio Zacara da Teramo**. Zachował się zapis *Nicolaus gravicembalista domine regina Poloniae*, - klawicymbalista królowej Zofii Holszanskiej, czwartej żony Władysława Jagiełły.
+
+Czołowy polski kompozytor I połowy XV wieku. Jego twórczość zachowała się w dwóch kluczowych rękopisach:
+- **Kodeks Krasińskich (PL-Wn 8054)**:
+    - _Hystoriographi aciem_
+    - _Magnificat_
+    - _Gloria_ (2 utwory)
+    - _Credo_ (2 utwory)
+    - Utwór bez tekstu ("ballada")
+- **Rękopis PL-Wn 378**:
+    - _Gloria_ (2 utwory)
+    - _Credo_ (1 utwór)
+##### Magnificat
+Trójgłosowy utwór składające się z 11 odcinków. Oparty jest na 1 tonie chorałowym, poddanym wariacji. Pierwsze w Polsce zastosowanie *fauxbourdon*. 
+Magnificat jest sformalizowany konstrukcyjnie, występuje oś symetri w odcinku 6. 
+##### Styl 
+Reprezentuje najwybitniejsze ówczesne osiągnięcia polifonii (włącznie z techniką fauxbourdon), co świadczy o dobrym przygotowaniu i wykształceniu kompozytora. Nawiązuje on w swojej twóczości do zdobyczy szkoły niderlandzkiej, włoskiej (J. Ciconia, A. Zachara da Teramo) czy burgundzkiej (G. Dufay). 
+
+#### Piotr z Grudziądza (Petrus Wilhelmi de Grudencz, ur. ok. 1392)
+Muzyk i poeta odkryty w Pradze w 1975 r. Najprawdopodobniej żył w latach 1392 - 1452. Wywodził się z pruskiego mieszczaństwa. W 1418 roku rozpoczął studia na Uniwersytecie Jagielońskim, gdzie zaczął komponować. W latach 1420/30 wyjechał do Wrocławia skąd udał się do Rzymu. W 1430 przebywał w Wiedniu, w latach 50 prawdopodobnie wyjechał do Czech. Pod koniec życia osiadła na Śląsku w Zaganiu, skomponował tam Śpiewnik Głogowski. 
+Kompozytor, którego dzieła odnaleziono w licznych europejskich źródłach, co świadczy o jego międzynarodowej renomie.
+
+Zachowalo się około 40 dzieł Piotra z Grudziądza głównie motetów.
+- _Pregrata erat_ (PL-Kj 2464)
+- _Presulis eminenciam_ (PL-Kj 2464)
+- _Predulcis eurus_ (PL-WRu 269)
+- _Promitat eterno_ (PL-WRu 269)
+- _Panis ewus typicatus_ (PL-Kj 8a)
+- _Probitate eminentem_ (PL-Pu 7022 oraz Glogauer Liederbuch)
+
+#### Dzieła Anonimowe
 # 2. Renesans
+## 2.1 Kontekst Historyczny
+Renesans w Polsce (zwanego „Złotym Wiekiem”) jest nierozerwalnie związany z potęgą dynastii **Jagiellonów** oraz wpływami europejskiego humanizmu i reformacji.
+### 2.1.1 Sytuacja polityczna i dynastyczna
+Fundamentem rozkwitu epoki była **unia personalna Korony z Wielkim Księstwem Litewskim**, skonsolidowana przez Kazimierza IV Jagiellończyka, który uczynił z państwa polsko-litewskiego jedną z największych potęg politycznych Europy.
+Kolejni władcy — **Zygmunt I Stary**, **Zygmunt II August** oraz elekcyjny król **Stefan Batory** — kontynuowali tę politykę, stając się wybitnymi mecenasami sztuki i nauki.
+### 2.1.2 Mecenat królewski i dworski
+**Zygmunt I Stary** odegrał kluczową rolę w sprowadzeniu wzorców renesansowych z Włoch, co przyspieszyło rozwój nowej estetyki na ziemiach polskich wcześniej niż w wielu innych krajach Europy.
+Symbolem tego mecenatu stała się przebudowa **Zamku Królewskiego na Wawelu**, gdzie powstał największy renesansowy dziedziniec w Europie, oraz ufundowanie **Kaplicy Zygmuntowskiej**, określanej mianem „perły toskańskiego renesansu na północ od Alp”.
+Za czasów **Zygmunta II Augusta** kapela królewska osiągnęła imponujące rozmiary, zrzeszając około **200 muzyków** różnych narodowości (Polaków, Niemców, Włochów), co sprzyjało wymianie kulturowej i asymilacji stylu międzynarodowego.
+### 2.1.3 Wpływ humanizmu i nauki
+Na dworze i uniwersytecie działali wybitni humaniści, tacy jak **Filip Kallimach** czy rzeźbiarz **Wit Stwosz**.
+Rozwijały się ośrodki akademickie, w tym **Akademia Jagiellońska** oraz **Kolegium Lubrańskiego** w Poznaniu, kształcące elity intelektualne (m.in. Wacława z Szamotuł czy Jerzego Libana).
+### 2.1.3 Reformacja i pluralizm religijny
+Polska w XVI wieku była krajem **swobód religijnych**, gdzie współistniały trzy główne nurty protestantyzmu: luteranizm (Wielkopolska, Śląsk, Prusy), kalwinizm (Małopolska, Litwa) oraz ruch Braci Czeskich.
+Kluczową postacią dla protestantyzmu na Litwie był **Mikołaj Krzysztof Radziwiłł zwany Czarnym**, który wspierał działaczy reformacyjnych i zakładał drukarnie (np. w Brześciu Litewskim).
+Reformacja postawiła postulat uczynienia liturgii zrozumiałą dla wiernych, co doprowadziło do rozkwitu **liryki religijnej w języku polskim** i powstania licznych **kancjonałów** (np. Seklucjana, Zaremby, Puławskiego).
+### 2.1.4 Przemiany społeczne i rola języka ojczystego
+Nastąpił wzrost znaczenia **twórców plebejskich** oraz dążenie do demokratyzacji kultury muzycznej.
+Pojawiła się idea muzyki przeznaczonej dla „prostych domaków” (zwykłych ludzi), czego najdoskonalszym przykładem są _**Melodie na Psałterz polski**_ Mikołaja Gomółki do tekstów Jana Kochanowskiego. Dzieło to stało się fundamentem polskiej deklamacji muzycznej i symbolem narodowej tożsamości kulturowej.
+Rozwój **oficyn drukarskich** (np. Łazarza Andrysowicza czy Jana Januszowskiego w Krakowie) umożliwił masowe upowszechnianie nowych dzieł literackich i muzycznych.
+
+
+## 2.2 Kapela Królewska
 # 3. Barok
 
 # 4. Klasycyzm
