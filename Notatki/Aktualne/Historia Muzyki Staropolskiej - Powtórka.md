@@ -153,8 +153,9 @@ Pojawiła się idea muzyki przeznaczonej dla „prostych domaków” (zwykłych 
 Rozwój **oficyn drukarskich** (np. Łazarza Andrysowicza czy Jana Januszowskiego w Krakowie) umożliwił masowe upowszechnianie nowych dzieł literackich i muzycznych.
 
 
-## 2.2 Kapela Królewska
-### 2.2.1 Hendrich Finck
+## 2.2 Kompozytorzy o Nacechowaniu Lokalnym
+### 2.2.1 Kapela Królewska
+#### 2.2.1.1 Hendrich Finck
 Działał w Polsce na przełomie wieków (1498–1505), kładąc fundamenty pod rozwój renesansowej polifonii na dworze Jagiellonów.
 
 116 dzieł pewnych i 10 wątpliwych. Kompozycje Fincka zachowały się w 69 źródłach. 
@@ -165,7 +166,7 @@ Działał w Polsce na przełomie wieków (1498–1505), kładąc fundamenty pod 
 Finck pisał motety z *cantus firmus*, o przeimitowanej fakturze; hymny; pieśni. 
 Pod względem rytmiki Finck jest najorginalniejszy z całej generacji.
 
-## 2.3 Kapela Rorantystów
+### 2.2.2 Kapela Rorantystów
 Sfundowana przez **Zygmunta Starego** (1506-1548) **w 1540**, powołana dla kultywowania muzyki religijnej w Kaplicy Zygmuntowskiej. Kapela działała od **1543 r**.
 Była to druga po kapeli nadwornej najważniejsz kapela. Kapela wykonywała obszerny repertuar, który nie był reprezentatywny dla Polski.
 Kapela składała się wyłącznie z mężczyzn z **polskiego duchowieństwa**.
@@ -173,14 +174,67 @@ Kapela składała się wyłącznie z mężczyzn z **polskiego duchowieństwa**.
 Pierwszym przełożonym kapeli był **Mikołaj z Poznania** (zm. 1555 r.), a następnymi kolejno: **Krzysztof Borek** (1558-1570), **Stanisław Zając z Pabianic** (1574-1602).
 Przez kapele przewineło się okołu 50 śpiewaków. Zamieszkiwali w Domu Katedralnym, a dochody na ich utrzymywanie płynełu z żup wielickich i bocheńskich, cła krakowskiego i dzieśięcin z podkrakowskich wsi.
 
-## 2.4 Kompozytorzy Teoretyczni
+### 2.2.3 Kompozytorzy Teoretyczni
 W I połowie XVI pojawił się materiał sygnowany kapelą rorantystów, były to **kompozycje teoretyczne**.
-### 2.4.1 Jerzy Liban z Legnicy
+#### 2.2.3.1 Jerzy Liban z Legnicy
 Zyjący w latach 1464-1546, filolog Uniwersytety Jagiellońskiego. Twórca licznych traktatów łacińskich w których opracowywał na różne sposoby Magnificat. 
 Skomponował czterogłosową antyfone *Ortus de Polonia*, w której występuje równo-nutowy cantus firmus w tenorze. Fakturalnie kompozycja uboga (nota contra notam). 
 Dominował styl konserwatywny, niemiecki z brakiem wpływów niderlandzkich.
-### 2.4.2 Sebastian z Felsztyna 
+#### 2.2.3.2 Sebastian z Felsztyna 
 Żyjący w latach 1480-1536 kompozytor. Zachowały się trzy czterogłosowe maryjne propia mszalne. W przeciwięstwie do Libana z Legnicy pojawiają się sporadyczne imitacje dwugłosow.
+## 2.3 Kompozytorzy o Nacechowaniu Europejskim
+### 2.3.1 Wacław z Szamotuł
+**Urodzony w Szamotułach** około **1520 roku**. Możliwe że pobirał nauke podstawową w Szamotulskiej szkole parafialnej, następnie uczeszczał do Kolegium Lubrańskiego w Poznaniu, Gimnazjum w Krakowie i Akademi Jagiellońskiej.
+Około 1545 roku obiął stanowisko sekretarza na dworze Gieronima Chodkiewicza, kasztelana trockiego, członka Litewskiej Rady Królewskiej.
+Od 1547 roku pełnił fukcje *componisty* na dworze Zygmuna Augusta. Dziesięć lat później w 1557 r. Wacławowi została wypłacona zaległa pensja, kompozytor nie jest już zaliczany do dworu.
+Po 1555 roku kompozytor wiąże się z **litewskim ośrodkiem protestanckim na dworze Radziwiła**. 
+Kompozytor umiera około 1560 w wieku 34 lat
+#### 2.3.1.1 Twórczość w Języku Łacinskim
+##### *In te domine, speravi*
+Utwór bardzo obszerny, przeimitowany, pełny brzmieniowo. Bogate środki kontrapunktyczne. Wzorzec post-Josquinowski (Adrian Willaer, Cipriano de Rore, Clemenst Nonpapa). 
+Zdradza zainteresowanie spekulacjami matematycznymi, proporcjami. *Prima Pars* i *Secunda Pars* trwają po 77 breves, mimo różnucy w długości tekstu (symbolika 7 jak przebaczenie grzechu).
+W zbiorach krakowskich zachowała się **Missa In te Domine speravi**, oparta na melodii *In te domine, speravi*. Msza datowana jest na około 1560 r., przypuszczalnie skomponował ją Wacław z Szamotuł ale nie mamy na to twardych dowodów.  
+##### *Ego Sum pastor bonus*
+Utwór wydany w Norymberdze w 1564 roku wraz z *Timor et tremor* Orlanda di Lassa. Motet przeimitowany, mniej bogadszy od *In te domine, speravi*.
+##### *Lamentationes Jeremiae*
+Wydane w Krakowie w 1553 roku. Wykonywane podczas wielkiego tygodnia (ciemna Jutrznia). Superios i Tenor zachowały sie w Monachium i Ratyzboni
+
+#### 2.3.1.2 Twórczość w Języku Polskim
+**Osiem czterogłosowych pieśni**, cztery z tekstem A. Trzeciskiego, trzy M. Reja i jedna Jakuba z Iłzy. 
+Zostały napisane podczas pobytu na **dworze Radziwiłów**, związane były z **protestantyzmem**.
+Muzycznie charakteryzowała je prosta akordowa faktura, związki słowno-muzyczne. Jedynym wyjątkiem od tej reguły jest ***Modlitwa gdy Dziadki idą spać - Już się zmierzcha***, w której kompozytor stosuje róźne techniki polifoniczne głównie imitacje.
+
+W *Kancjonale Puławskim* z 1567 r. zachował się Psalm CXVI Wacława z nowym i małymi zmianami muzycznymi. Podpisany jako **Diakon Grzegorz zakonnik**
+Wacław z Szamotuł komponował także monodie takie jak *Dziękowanie po jedzeniu* (Sygnowana V.S.). Jest to niemiecka pieśń świecka *Mein Frewd (Locheimer Liedernuch)* z 1450, poddana kontrafakturze z tekstem *Ave rubens rosa*, a później z tekstem *Herr Christ*, a w końcu z trzema różnymi tekstami polskimi.
+
+### 2.3.2 Marcin Leopolita
+Marcin ze Lwowa, Lwówczyk, łac. *Leopolis*. Żyjący około 1540 - 1589 r.. Diałał na dworze królewskim Zygmunta Augusta w latach 1560-61
+#### 2.3.2.1 Twórczość 
+Twórczość Leopolita jest szczątkowo zachowana, ostały się tylko *Missa Paschalis* oraz pięć motetów.
+##### **Missa Paschalis**
+*Missa Paschalis* to pięciogłosowa msza z głosem 6 w Agnus Dei. Brak orginału, zachowały się tylko dwie kopie z XVII wieku. Jest to **pierwszy zachowany polski cykl mszalny**.  Materiał dźwiękowy składa się z 4 pieśni wielkanocnych, z których *Chrystus Pan zmartwychstał* odgrywa rolę wyjątkową, staje się rodzajem "motywu czołowego", pojawia się takżę w wielu momentach w toku dzieła.
+
+Styl mszy reprezentuje **styl polifonii lat 1560-1580**. Charakteryzuje go:
+- **Obsada pięciogłosowa** z sześciogłosem w części Agnus Dei
+- Przeciwstawianie **odcinków kontrastujących fakturalnie** 
+- Melodyka zwokalizowana
+
+Można zauważyć **silny wpływ** polifonii **Niderlandczyków** i Francuzów, bez zetknięcia się z muzyką Palestriny. 
+##### **Motety**
+Pięcio głosowe motety znane tylko z opracowań na organy. Motety nie stanowią materiału jednolitego stylistycznie. Powstawały najprawdopodobniej w różnych okresach, wczesy *Spiritus domini*, a późny *Resurgente Christo Domino*. Ten drugi cechuje największa dojrzałość techniczna. 
+Dobre wyczucie formu, pełne przeimitowanie, zaawansowany kontrapunkt, biegłość techniczna. Wpływ polifonii post-Josquinowskiej, w Polskich **źródłach mylono Leopolite z Clemensem non Papa**.
+
+## 2.4 Mikołaj Gomółka
+### 2.4.1 Biografia
+Urodzony **około 1535 r.**, współczesny Orlandowi di Lasso (1532-1591).
+Od **1545** roku służy jako chłopiec-dyszkancista **na dworze Zygmunta Augusta**.
+Uczył się u Johannesa Klausa. Od **1558 roku** pełnoprawny instrumentalista, na dworze zetknął się z **Wacławem z Szamotuł**, **Marcinem Leopolitą**, **Bakwarkiem**.
+Od 1566 roku pisatuje funkcje ławnika w Sandomierskim sądzie. W **1580** wydaje ***Melodie na psałterz Polski*** w Krakowie, gdzie zatrudnia się u **biskupa Piotra Myszkowskiego** (dla którego dedykował psałterz). W 1587 r. porzuca służbe u biskupa i poszukuje szczęścia w branży górniczej. Rok przed smiercią w **1590 r.** działa na dworze **Jana Zamojskiego**.
+### 2.4.2 Kontekst kulturowy - Przekład Psalmów
+W XVI wieku przekład psalmów na język polski stał się jednym z najważniejszych postulatów reformacji, dążącej do uczynienia liturgii zrozumiałą dla wiernych poprzez wprowadzenie **języka narodowego**. W tym okresie powstały trzy kluczowe tłumaczenia Psałterza: **Jakuba Lubelczyka** (1558), **Jana Kochanowskiego** (1579) oraz **Macieja Rybińskiego** (1605/1606)
+
+### 2.4.3 ***Melodie na psałteż polski przez Mikołaja Gomółke uczynione***
+
 # 3. Barok
 
 # 4. Klasycyzm
