@@ -154,6 +154,19 @@ Rozwój **oficyn drukarskich** (np. Łazarza Andrysowicza czy Jana Januszowskieg
 
 
 ## 2.2 Kapela Królewska
+### 2.2.1 Hendrich Finck
+Działał w Polsce na przełomie wieków (1498–1505), kładąc fundamenty pod rozwój renesansowej polifonii na dworze Jagiellonów.
+
+116 dzieł pewnych i 10 wątpliwych. Kompozycje Fincka zachowały się w 69 źródłach. 
+**Źródła Polskie:**
+- **TBP** - tabulatura organowa z 1520 roku, zachowały się w niej fragmenty intawolacji pięcio głosowego motetu *Et valde mane*
+- **TJL; TKD** - 1540-1548
+
+Finck pisał motety z *cantus firmus*, o przeimitowanej fakturze; hymny; pieśni. 
+Pod względem rytmiki Finck jest najorginalniejszy z całej generacji.
+
+## 2.3 Kapela Rorantystów
+
 # 3. Barok
 
 # 4. Klasycyzm
