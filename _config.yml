@@ -1,0 +1,26 @@
+# GitHub Pages Configuration
+# This file is required for GitHub Pages to work properly
+
+# Theme (using default, since we have custom HTML/CSS)
+theme: null
+
+# Include files that start with underscore
+include:
+  - _*
+
+# Exclude files from the published site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .gitignore
+
+# Markdown settings
+markdown: kramdown
+
+# Site settings
+title: Notatki - Muzykologia UAM
+description: Baza wiedzy z muzykologii - Uniwersytet im. Adama Mickiewicza w Poznaniu
+lang: pl

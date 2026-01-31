@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notatki - Muzykologia UAM</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;600&family=EB+Garamond:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="main-nav">
+        <div class="nav-content">
+            <a href="index.html" class="logo">Notatki</a>
+            <div class="nav-links">
+                <a href="index.html">Strona główna</a>
+                <a href="notatki.html">Notatki</a>
+                <a href="kontakt.html">Kontakt</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="hero-section">
+        <div class="hero-content">
+            <h1 class="hero-title">
+                Baza Wiedzy<br>
+                <span class="highlight">Muzykologii</span>
+            </h1>
+            <p class="hero-subtitle">
+                Notatki z historii muzyki, analiz i wykładów.<br>
+                Uniwersytet im. Adama Mickiewicza w Poznaniu
+            </p>
+            <div class="hero-actions">
+                <a href="notatki.html" class="btn btn-primary">Przeglądaj notatki</a>
+                <a href="#przedmioty" class="btn btn-secondary">Przedmioty</a>
+            </div>
+        </div>
+        
+        <div class="decorative-element"></div>
+    </main>
+
+    <section id="przedmioty" class="subjects-section">
+        <div class="container">
+            <h2 class="section-title">Dostępne przedmioty</h2>
+            <div class="subjects-grid">
+                <div class="subject-card">
+                    <div class="subject-icon">🎼</div>
+                    <h3>Historia Muzyki Klasycyzmu</h3>
+                    <p>Kompletne notatki z wykładów oraz materiały do egzaminu</p>
+                    <a href="notatki.html?przedmiot=klasycyzm" class="card-link">Zobacz notatki →</a>
+                    <a href="https://open.spotify.com/playlist/5GQCMlFEPq4cahhiuNoWVU" target="_blank" class="spotify-link">
+                        <span class="spotify-icon">🎵</span> Playlist odsłuchowy
+                    </a>
+                </div>
+
+                <div class="subject-card">
+                    <div class="subject-icon">🎻</div>
+                    <h3>Historia Muzyki Staropolskiej</h3>
+                    <p>Materiały do powtórki i przygotowania do egzaminu</p>
+                    <a href="notatki.html?przedmiot=staropolska" class="card-link">Zobacz notatki →</a>
+                </div>
+
+                <div class="subject-card">
+                    <div class="subject-icon">🎹</div>
+                    <h3>Wszystkie notatki</h3>
+                    <p>Pełna baza wiedzy z wszystkich semestrów i przedmiotów</p>
+                    <a href="notatki.html" class="card-link">Przeglądaj wszystko →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Notatki UAM</h4>
+                <p>Muzykologia</p>
+            </div>
+            <div class="footer-section">
+                <h4>Linki</h4>
+                <a href="https://github.com/yamahacontent/Notatki" target="_blank">GitHub Repository</a>
+                <a href="kontakt.html">Kontakt</a>
+            </div>
+            <div class="footer-section">
+                <h4>Info</h4>
+                <p>Backup automatyczny via Obsidian Git</p>
+                <p>Ostatnia aktualizacja: <span id="last-update">ładowanie...</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

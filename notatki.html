@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notatki - Przeglądaj</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;600&family=EB+Garamond:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Marked.js for Markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <nav class="main-nav">
+        <div class="nav-content">
+            <a href="index.html" class="logo">Notatki</a>
+            <div class="nav-links">
+                <a href="index.html">Strona główna</a>
+                <a href="notatki.html" class="active">Notatki</a>
+                <a href="kontakt.html">Kontakt</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="notes-container">
+        <aside class="notes-sidebar">
+            <h3>📚 Struktura notatek</h3>
+            <ul class="folder-tree" id="folderTree">
+                <li class="loading">Ładowanie...</li>
+            </ul>
+        </aside>
+
+        <main class="notes-content">
+            <div id="noteContent">
+                <div class="note-header">
+                    <h1>Przeglądaj notatki</h1>
+                    <p class="note-meta">Wybierz notatkę z menu po lewej stronie</p>
+                </div>
+                <div class="markdown-content">
+                    <p>Witaj w przeglądarce notatek! Wszystkie pliki są automatycznie synchronizowane z Obsidian za pomocą wtyczki Git.</p>
+                    
+                    <h2>Dostępne przedmioty:</h2>
+                    <ul>
+                        <li><strong>Historia Muzyki Klasycyzmu</strong> - kompletne notatki i materiały egzaminacyjne</li>
+                        <li><strong>Historia Muzyki Staropolskiej</strong> - powtórka do egzaminu</li>
+                    </ul>
+
+                    <h2>Jak korzystać?</h2>
+                    <p>Wybierz plik z menu po lewej stronie, aby go wyświetlić. Wszystkie notatki są w formacie Markdown i są automatycznie konwertowane do HTML.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Notatki UAM</h4>
+                <p>Muzykologia</p>
+            </div>
+            <div class="footer-section">
+                <h4>Linki</h4>
+                <a href="https://github.com/yamahacontent/Notatki" target="_blank">GitHub Repository</a>
+                <a href="kontakt.html">Kontakt</a>
+            </div>
+            <div class="footer-section">
+                <h4>Info</h4>
+                <p>Backup automatyczny via Obsidian Git</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="notes.js"></script>
+</body>
+</html>

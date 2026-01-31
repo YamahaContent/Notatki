@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontakt - Notatki</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;600&family=EB+Garamond:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="main-nav">
+        <div class="nav-content">
+            <a href="index.html" class="logo">Notatki</a>
+            <div class="nav-links">
+                <a href="index.html">Strona główna</a>
+                <a href="notatki.html">Notatki</a>
+                <a href="kontakt.html" class="active">Kontakt</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="contact-section">
+        <div class="contact-container">
+            <h1>📧 Kontakt</h1>
+            
+            <div class="contact-info">
+                <p>Masz pytania? Znalazłeś błąd w notatkach? Chcesz się podzielić swoimi materiałami?</p>
+                <p>Skontaktuj się ze mną!</p>
+            </div>
+
+            <div class="contact-links">
+                <a href="https://github.com/yamahacontent/Notatki" target="_blank" class="contact-link">
+                    <span>📂</span>
+                    <span>GitHub</span>
+                </a>
+                <a href="https://github.com/yamahacontent/Notatki/issues" target="_blank" class="contact-link">
+                    <span>🐛</span>
+                    <span>Zgłoś problem</span>
+                </a>
+            </div>
+
+            <div style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
+                <h2 style="text-align: center; margin-bottom: 1.5rem;">O projekcie</h2>
+                <p style="text-align: center; color: var(--text-secondary); max-width: 600px; margin: 0 auto;">
+                    Ta strona to frontend do notatek z muzykologii przechowywanych w Obsidian. 
+                    Notatki są automatycznie synchronizowane z GitHub za pomocą wtyczki Obsidian Git.
+                </p>
+                <p style="text-align: center; color: var(--text-light); margin-top: 1rem; font-size: 0.95rem;">
+                    Zbudowane z ❤️ dla studentów UAM
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Notatki UAM</h4>
+                <p>Muzykologia</p>
+            </div>
+            <div class="footer-section">
+                <h4>Linki</h4>
+                <a href="https://github.com/yamahacontent/Notatki" target="_blank">GitHub Repository</a>
+                <a href="kontakt.html">Kontakt</a>
+            </div>
+            <div class="footer-section">
+                <h4>Info</h4>
+                <p>Backup automatyczny via Obsidian Git</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
