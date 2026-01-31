@@ -242,8 +242,6 @@ Ani Gomółka, ani Kochanowski **nie byli protestantami**. Przetłumaczenie psal
 
 Uchodzą za pomnik kultury staropolskiej. Jest to jedyne dzieło Gomółki, składa się z 150 utworów z prostą fakturą *nota contra notam*. 
 W przeciwięstwie do typowych psałterzy i kancjonałów reformacyjnych, **nie są oparte na *cantus firmus***. Materiał melodyczny nawiązuje do pieśni i zancjonałów Polskich i Europejskich.
-
-
 #### Analiza 
 Płaszczyzna semantyczna, opracowanie muzycze podporządkowane jest warstwie treściowej i wyrazowej tekstu - *imitatione della natura*.
 
