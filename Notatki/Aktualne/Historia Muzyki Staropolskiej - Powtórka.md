@@ -310,6 +310,25 @@ Autor 48 zachowanych kompozycji w tym 6 dialogów biblijnych. Większość z nic
 Jeden z dwóch największych dialogów Forstera. **Tekst łaciński**, pochodzący ze Starego Testamentu, parafraza Księgi Judyty (4, 7-13), zaopatrzony w **rymy**.
 Obsada składa się z czterech solistów (Canto, Alto, Tenore, Basso), pary skrzypiec, pary altówek *in ripieno* oraz grupy continuo (wykonywanej na organach). Osoby występujące w Dialogo to: narreator (alt), Judyta (sopran), Holofernes (bas), Ozajasz (tenor) oraz Izraelita (tenor). Wykonawcy postaci występują także w zespołach głosów i chórach dydaktycznych.
 ## 3.2 Koncert Kościelny
+**Koncert kościelny/religijny** - pierwotna forma koncertu, koncert kościelny rozwinął się przed koncertem instrumentalnym. Jeden z najpopularniejszych w XVII wieku gatunek muzki religijnej.
+Podstawą literacką są teksty liturgiczne lub paealiturgiczne (antyfonarz, graduał, parafrazy biblijne) oraz teksty poetyckie.
+
+### 3.2.1 Cechy
+Na początku XVII wieku dominują koncerty jednoczęściowe - później na wzór kantaty wykształcają się koncerty wieloczęściowe. Gatunek ten wyróżniają kontrasty w zakresie:
+- **Obsady** 
+- **Melodyki**
+- **Rytmiki i Metrum**
+- **Tempa**
+- **Faktury**
+Następuje odejście od polifonii w kierunku polaryzacji głosów melodycznych z akompaniamentem *basso continuo*, oraz polichoralnego współzawodnictwa
+### 3.2.2 Typy Koncertów 
+Koncerty kościelne można podzielić ze względu na liczbę głosów:
+- **Polichóralne** - obsada pojedyncza lub zwielokrotniona
+- **Jednchórowe** - obsada pojedyncza lub zwielokrotniona
+- **Solowe** i na kilka głosów
+W Polsce koncerty kościelne są dominującym gatunkiem muzyki religijnej w tym okresie. Nie zawsze da się je odróżnić od motetów.
+### 3.2.3 Bartłomiej Pękiel - *Dulcis amor Jesu*
+Koncert 
 ## 3.3 Franciszek Lilius
 Syn Vincenza (zmarłeo około 1639 r.). W latach 1620-1630 cłonek **Kapeli Królewskiej**, następnie kapelmistrz kapeli wawelskiej, gdzie kształcił chłopców - sopranistów. 
 Uprawiał prawie wszystkie gatunki muzyczne w *prima i seconda pratica*. Lilius **utrzymywał kontakty ze środowiskiem rzymskim**.
