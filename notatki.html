@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=UnifrakturMaguntia&display=swap" rel="stylesheet">
     <!-- Marked.js for Markdown parsing -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
@@ -23,29 +23,35 @@
         </div>
     </nav>
 
-   <div class="notes-container">
-    
-    <aside class="notes-sidebar">
-        <h3>📜 Zwoje</h3>
-        <ul class="folder-structure" id="folder-structure">
-            <li class="loading">Rozwijanie pergaminów...</li>
-        </ul>
-    </aside>
-
-    <main class="note-content-area" id="note-content">
-        <div class="markdown-content">
-            <h1>Wybierz księgę</h1>
-            <p>Kliknij na tytuł z lewej strony, aby rozpocząć lekturę...</p>
-        </div>
-    </main>
-
-    <aside class="toc-sidebar">
-        <h3>📑 Index Rerum</h3>
-        <ul class="toc-list" id="tocList">
+    <div class="notes-container">
+        <aside class="notes-sidebar">
+            <h3>📚 Struktura notatek</h3>
+            <ul class="folder-tree" id="folderTree">
+                <li class="loading">Ładowanie...</li>
             </ul>
-    </aside>
+        </aside>
 
-</div>
+        <main class="notes-content">
+            <div id="noteContent">
+                <div class="note-header">
+                    <h1>Przeglądaj notatki</h1>
+                    <p class="note-meta">Wybierz notatkę z menu po lewej stronie</p>
+                </div>
+                <div class="markdown-content">
+                    <p>Witaj w przeglądarce notatek! Wszystkie pliki są automatycznie synchronizowane z Obsidian za pomocą wtyczki Git.</p>
+                    
+                    <h2>Dostępne przedmioty:</h2>
+                    <ul>
+                        <li><strong>Historia Muzyki Klasycyzmu</strong> - kompletne notatki i materiały egzaminacyjne</li>
+                        <li><strong>Historia Muzyki Staropolskiej</strong> - powtórka do egzaminu</li>
+                    </ul>
+
+                    <h2>Jak korzystać?</h2>
+                    <p>Wybierz plik z menu po lewej stronie, aby go wyświetlić. Wszystkie notatki są w formacie Markdown i są automatycznie konwertowane do HTML.</p>
+                </div>
+            </div>
+        </main>
+    </div>
 
     <footer class="main-footer">
         <div class="footer-content">
