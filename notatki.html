@@ -23,42 +23,29 @@
         </div>
     </nav>
 
-    <div class="notes-container">
-        <aside class="notes-sidebar">
-            <h3>📚 Struktura notatek</h3>
-            <ul class="folder-tree" id="folderTree">
-                <li class="loading">Ładowanie...</li>
+   <div class="notes-container">
+    
+    <aside class="notes-sidebar">
+        <h3>📜 Zwoje</h3>
+        <ul class="folder-structure" id="folder-structure">
+            <li class="loading">Rozwijanie pergaminów...</li>
+        </ul>
+    </aside>
+
+    <main class="note-content-area" id="note-content">
+        <div class="markdown-content">
+            <h1>Wybierz księgę</h1>
+            <p>Kliknij na tytuł z lewej strony, aby rozpocząć lekturę...</p>
+        </div>
+    </main>
+
+    <aside class="toc-sidebar">
+        <h3>📑 Index Rerum</h3>
+        <ul class="toc-list" id="tocList">
             </ul>
-        </aside>
+    </aside>
 
-        <main class="notes-content">
-            <div id="noteContent">
-                <div class="note-header">
-                    <h1>Przeglądaj notatki</h1>
-                    <p class="note-meta">Wybierz notatkę z menu po lewej stronie</p>
-                </div>
-                <div class="markdown-content">
-                    <p>Witaj w przeglądarce notatek! Wszystkie pliki są automatycznie synchronizowane z Obsidian za pomocą wtyczki Git.</p>
-                    
-                    <h2>Dostępne przedmioty:</h2>
-                    <ul>
-                        <li><strong>Historia Muzyki Klasycyzmu</strong> - kompletne notatki i materiały egzaminacyjne</li>
-                        <li><strong>Historia Muzyki Staropolskiej</strong> - powtórka do egzaminu</li>
-                    </ul>
-
-                    <h2>Jak korzystać?</h2>
-                    <p>Wybierz plik z menu po lewej stronie, aby go wyświetlić. Wszystkie notatki są w formacie Markdown i są automatycznie konwertowane do HTML.</p>
-                </div>
-            </div>
-        </main>
-
-        <aside class="toc-sidebar">
-            <h3>📑 Spis treści</h3>
-            <ul class="toc-list" id="tocList">
-                <li style="color: var(--gray); font-style: italic;">Wybierz notatkę, aby wyświetlić spis treści</li>
-            </ul>
-        </aside>
-    </div>
+</div>
 
     <footer class="main-footer">
         <div class="footer-content">
