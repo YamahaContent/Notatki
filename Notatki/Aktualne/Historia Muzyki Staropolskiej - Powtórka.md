@@ -242,6 +242,7 @@ Ani Gomółka, ani Kochanowski **nie byli protestantami**. Przetłumaczenie psal
 
 Uchodzą za pomnik kultury staropolskiej. Jest to jedyne dzieło Gomółki, składa się z 150 utworów z prostą fakturą *nota contra notam*. 
 W przeciwięstwie do typowych psałterzy i kancjonałów reformacyjnych, **nie są oparte na *cantus firmus***. Materiał melodyczny nawiązuje do pieśni i zancjonałów Polskich i Europejskich.
+
 #### Analiza 
 Płaszczyzna semantyczna, opracowanie muzycze podporządkowane jest warstwie treściowej i wyrazowej tekstu - *imitatione della natura*.
 
@@ -254,9 +255,41 @@ Płaszczyzna semantyczna, opracowanie muzycze podporządkowane jest warstwie tre
 - **Deklamacja imitująca** - naśladująca prozodie języka, narzędziem odwzorowania akcentów jest rytm.
 - **Deklamacja zderformowana** - świadoma transakcentacja muzyczna jest środkiem zamierzonej stylizacji tanecznej. Język staje się środkiem wyrazu.
 - **Deklamacja inicjalna** -  Relikty dawnej tradycji właściwej dla Polski połódniowej (tzw. Czechizmy) z której Gomółka pochodził. 
+## 2.5 Muzyka Instrumentalna XVI wieku
+### 2.5.1 Źródła 
+#### 2.5.1.1 Tabulatury Organowe
+**I połowa XVI wieku** W tym okresie dominował ośrodek krakowski, a muzykę zapisywano **notacją niemiecką** (liniowo-literową).
+- **Tabulatura Jana z Lublina (1538–1548):** To absolutny unikat – największy instrumentalny zabytek muzyki dawnej na świecie, liczący ponad 520 stron i 230 dzieł. Zawiera nie tylko utwory (preambuła, tańce, intawolacje), ale też traktat teoretyczny o kontrapunkcie i instrukcję strojenia organów.
+- **Inne źródła:** Należą do nich **TBN** (zapis na desce pulpitowej sprzed 1528 r.), **TBP** (z fragmentami motetu Heinricha Fincka) oraz zaginiona w 1944 roku **Tabulatura z klasztoru św. Ducha** w Krakowie.
 
+**II połowa XVI wieku** Repertuar stał się bardziej zachowawczy, skupiony na potrzebach liturgicznych, głównie w północnej Polsce (Łowicz, Gdańsk, Toruń).
+- **Tabulatura Warszawskiego Towarzystwa Muzycznego (ok. 1580):** Znana jako „Łowicka”, zawierała 77 kompozycji liturgicznych, m.in. Marcina Leopolity i Jakuba Sowy.
+- **Inne źródła:** **Tabulatura Jana Fischera z Morąga** (1595) z ogromną liczbą 150 intawolacji motetów oraz **Tabulatura Gdańska**.
+#### 2.5.1.2 Tabulatury Lutniowe
+W tabulaturach lutniowych stosowano trzy typy notacji: włoską, francuską i niemiecką.
+**I połowa XVI wieku**
+- **Krakowska Tabulatura Lutniowa (1555):** Skopiowana przez Hansa Kernsthoka, zawiera 66 utworów, w tym fantazje, motety i polskie tańce (np. _Czarna krowa_).
 
+**II połowa XVI wieku** Okres ten cechuje wzrost wirtuozerii i międzynarodowa sława polskich lutnistów.
+- **Valentin Bakfark:** Jego tabulatury wydawane w Lyonie (1553) i Krakowie (1565) to szczytowe osiągnięcia epoki, niezwykle trudne technicznie, o gęstej polifonii do 6 głosów.
+- **Wojciech Długoraj i Jakub Reys (Polak):** Długoraj zasłynął jako improwizator (jego utwory przetrwały w zbiorach z 1619 r.), a Reys, działający w Paryżu, zapowiadał już nowsze style barokowe.
+- **Diomedes Cato:** Włoch z pochodzenia, który w Polsce tworzył m.in. ricercary i polskie tańce
+
+### 2.5.2 Najważniejsi kompozytory 
+#### 2.5.2.1 Muzyka organowa
+- **Jan z Lublina** – twórca (kopista) największej w Europie tabulatury organowej (1538–1548), która zawiera ponad 230 utworów oraz traktat o kontrapunkcie i instrukcję strojenia organów.
+- **Mikołaj z Krakowa (Nicolaus Cracoviensis)** – jeden z najważniejszych kompozytorów I połowy wieku; tworzył preambuła, opracowania pieśni oraz popularne tańce, takie jak _Hajducki_ czy _Szewczyk idzie po ulicy_.
+- **Mikołaj z Chrzanowa** – długoletni organista na Wawelu, znany z intawolacji motetu _Protexisti me Deus_.
+
+#### 2.5.2.1 Muzyka lutniowa
+- **Valentin Bakfark** – europejskiej sławy wirtuoz na dworze Zygmunta Augusta; jego twórczość cechuje szczytowy poziom techniczny i skomplikowana polifonia (do 6 głosów) w fantazjach i intawolacjach.
+- **Jakub Reys (Jakub Polak)** – lutnista królewski działający głównie we Francji; był cenionym improwizatorem, a jego styl zapowiadał barokową technikę _style brisé_.
+- **Wojciech Długoraj** – nadworny lutnista Stefana Batorego; tworzył fantazje i tańce o charakterze improwizacyjnym.
+- **Diomedes Cato** – Włoch osiadły w Polsce, służący Zygmuntowi III Wazie; łączył styl włoski z polską tradycją, komponując fantazje, ricercary i tańce na lutnię oraz organy.
+- **Benedykt z Drużna** – działający w Prusach (Elbląg, Gdańsk); opublikował we Frankfurcie tabulaturę z intawolacjami utworów m.in. gdańskich muzyków.
 # 3. Barok
+## 3.1 Dialogo
+
 
 # 4. Klasycyzm
 
