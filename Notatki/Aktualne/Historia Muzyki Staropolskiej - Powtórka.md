@@ -289,7 +289,133 @@ W tabulaturach lutniowych stosowano trzy typy notacji: włoską, francuską i ni
 - **Benedykt z Drużna** – działający w Prusach (Elbląg, Gdańsk); opublikował we Frankfurcie tabulaturę z intawolacjami utworów m.in. gdańskich muzyków.
 # 3. Barok
 ## 3.1 Dialogo
+**Dialogi Religijne** (wł. *Dialogo, Dialogi Sacri*, łac. *Dialogus*) to paradramatyczne i dramatyczne gatunki muzyki religijnej. Komponowane w *stile moderno*, w języku włoskim lub łacińskim, stanowią **nowy gatunek** powstały w **XVII wieku**.
+W pierwszej połowie stulecia *dialogo* rozpowszechnione we Włoszech, a potem także w Niemczech (dialogi Niemieckie). Wykonywano je w oratoriach i kościołach podczas nabożeństw (ale nie liturgii). Z dialogo rozwinie się **Oratorium**.
+W Polsce najprawdopodobniej oratorium rozpowszechnił **Giovanni Francesco Anerio**, który wydał w 1619 r. dialogi religijne, a w latach **1625-1630 działał w Warszawie**.
+**W Polsce bardzo nieliczne**, być może wykonywano dialogi Giovanniego Francesca Aneria (w latach 1624-1630). Najwcześniejsze są dialogi Philippa Friedricha Buchnera z 1644 pt. *In illo tempore, O quanta in coelis laetitae, Pastores*.
+### 3.1.1 Bartłomiej Pękiel
+Urodzony w 1601 roku, zmarły około 1670. Maestro di capella kapeli królewskiej w Warszawie (po wyjeździe Marca Scacchiego w 1649 roku). W końcu 1640 lub na początku 1650 tworzy swoje dialogo na okres Adwentu ***Audite mortales***..
+#### 3.1.1.1 *Audite Mortales*
+Utwór znany z dwóch źródeł:
+- Rękopis tabulaturowy ze zbioru Dubenów w Universitatbibliotek w Uppsali
+- Rękopis ze zbioru Staatbibliothek Preussischer Kulturbesitz w Berlinie
+Tematyka ta sama, co w *iudicium Extremum* Giacomo Carrissimiego ([[Powstanie Oratorium#Giacomo Carissimi]]) - przestroga przed sądem ostatecznym. 
 
+Śpiew realizowany jest w ***stille recitativo*** lub w zespołach, niemal zawsze z towarzyszeniem trzech viol i basso continuo. Recytatywy bez melodycznych i tekstowych powtórzeń. Melizmaty pojawiają się konwencjonalnie w roli podkreślenia wymowy emocjonalnej wybranych słów ([[Retoryka Muzyczna Baroku]]). Nie występują arie i odcinki aryjne. Kompozycja bliskim rzymskim dialogom łacińskiem z lat 30 i 40 XVII wieku.
 
+### 3.1.2 Kaspar Forster Młodszy
+dański Kompozytor żyjący w latach 1616 - 1673, śpiewak o rozległej skali głosu. Przez krótki okres kierował zespołem Gdańskiego kościoła Mariackiego. Studiował we Włoszech u Carissimiego ([[Tematy Egzaminacyjne Barok#Giacomo Carissimi (1605 - 1674)|Carissimi]]).
+Autor 48 zachowanych kompozycji w tym 6 dialogów biblijnych. Większość z nich powstała zapewne podczas pobytu kompozytora w Danii w latach 1652-1655 i 1661-1667. 
+#### 3.1.2.1 *Viri Israelite*
+Jeden z dwóch największych dialogów Forstera. **Tekst łaciński**, pochodzący ze Starego Testamentu, parafraza Księgi Judyty (4, 7-13), zaopatrzony w **rymy**.
+Obsada składa się z czterech solistów (Canto, Alto, Tenore, Basso), pary skrzypiec, pary altówek *in ripieno* oraz grupy continuo (wykonywanej na organach). Osoby występujące w Dialogo to: narreator (alt), Judyta (sopran), Holofernes (bas), Ozajasz (tenor) oraz Izraelita (tenor). Wykonawcy postaci występują także w zespołach głosów i chórach dydaktycznych.
+## 3.2 Koncert Kościelny
+## 3.3 Franciszek Lilius
+Syn Vincenza (zmarłeo około 1639 r.). W latach 1620-1630 cłonek **Kapeli Królewskiej**, następnie kapelmistrz kapeli wawelskiej, gdzie kształcił chłopców - sopranistów. 
+Uprawiał prawie wszystkie gatunki muzyczne w *prima i seconda pratica*. Lilius **utrzymywał kontakty ze środowiskiem rzymskim**.
+
+Znamy **tytuły 92** kompozycji dzieł Liliusa, z czego **zachowały się 25**, w tym **8 niekompletnych**. Popularne zwłaszcza małogłosowe koncerty (znamy tylko religijne), charakteryzujące się dwugłosem wokalnym i basso continuo. 
+#### 3.3.1 *Missa a quatro voci*
+**Msza czterogłosowa** (Alt, Dwa Tenory i Bas) przeznaczona na chór męski a capella (dokładniej **kapeli Rorantystów**). Złożona tradycyjnie z 6 części. Jedyna z zachowanych kompozycji Liliusa reprezentująca typ mszy przeimitowanej. Zbliżona pod tym względem do Pękiela (*Msza Roracka*).
+
+Tonalnie i materiałowo **jednolita kompozycja** w modusie doryckim (transponowanym do g). Integralna tematycznie, te same lub nieznacznie przekształcone motywy, ale także transmisje całych odcinków wielogłosowych: Kyrie w Benedictus, Gloria w Agnus Dei. Daje to w wyniki jedność całego cyklu.
+
+Silnie zaznaczona retoryka (np. w *crucifixus*), kumulacje opóźnień dysonansowych. Typowo barokowa polifonia *a capella*, dysonasne, alteracje, ukoścnie brzmienia półtonów i dysonansów, zaskakujące zwroty harmoniczne.
+#### 3.3.2 *Jubilate Deo*
+Muzyczne opracowanie Psalmu 100 (*Jubilate Deo omnis terra*) przeznaczone na 2 Canto, Alt, Tenor, Bas, 2 Skrzypce, Viole, 2 Tromboni, Fagot i Organy realizujące Basso Continuo. Koncert Kościelny. Rękopis przechowywany jest w Bibliotece Uniwersyteckiej w Królewcu. Jeden z najwspanialszych utworów w tym gatunku powstałych na terenie Polski.
+
+## 3.4 Marcin Mielczewski
+## 3.5 Kapelmistrzowie Włoscy w Polsce
+### 3.5.1 Annibale Stabile
+Uczeń Palestriny. Najprawdopodobniej zmarł w drodze do Krakowa w **1595** roku. 
+Zachowała się jedna kompozycja na 2 chóry w ***Melodiae Sacrae*** wydrukowanymw Krakowie w 1604 roku, być może był to repertuar kapeli królewskiej.
+
+### 3.5.2 Luca Marenzio
+Przebywał w Polsce w latach **1596-1597**. Był pierwszym włoskim kapelmistrzem w Polsce. **Duży dorobek religijny** - ok. **30 utworów polichóralnych** na 8-18 głosów. Reprezentował polichóralność wenecką.
+
+Luca Marenzio **wyjechł z Polski** w **1597 roku**. Po jego wyjeżdzie opublikowano w Krakowie **3 motety** Marezio w zbiorze *Melodiae Sacrae*.  
+Zachowała się jedna masza: ***Missa super Iniquos odio habui*** w postaci odpisu z 1602 roku proweniencji śląskiej (fragmenty także w Gdańsku i Pradze). Jest to msza-parodia opracowana na własnym ośmiogłosowym motecie *Iniquos*.
+Kapelmistrz kierował wykonanie tej mszy w Warszawie
+
+### 3.5.3 Guilio Cesare Gabussi
+Pochodził z Mediolanu, przebywał w polsce między 1601, a 1602 rokiem. Realizował wytyczne Soboru Trydenckiego. Znamy jeden motet sześciogłosowy zachowany w ***Melodiae Sacrae***.
+
+### 3.5.4 Asprilio Pacelli
+Pochodził z Rzymu w Polsce spędził 21 lat (1602-1632). Działał od 1595 roku w Cappella Giulia, **uczeń Palestriny**.
+Gdy przybył do Polski napisał już **20 utworów polichóralnych**. Dzieła te stanowiły bieżący repertuar kapeli królewskiej. Dwa utwory zachowały się w ***Melodiae Sacrae***, a dziewięć następnych w ***Tabulaturze Pelplińskiej***, świadczy to o cyrkulacji Muzyki Pacelliego.  
+Pacelli w **1608 roku** wydał w **Wenecji** zbiór ***Sacrae Cantiones***, dedykowany Zygmuntowi III. Zbiór zawierał 26 motetów polichóralnyc przeznaczone na 5-50 głosów. Sama publikacja zachowała się w jednym egzemplazu przechowywyanym w *Berlince*.
+Pacelli reprezentował styl polichóralności rzymskiej, tj. styl polichóralny Palestriny.
+### 3.5.5 Marco Scacchi
+Żył w latach 1602-1662, spedził 28 lat w Polsce (1621-1649). 
+**Kapelmistrz od 1632**, aranżuje na **pogrzeb Zygmunta III** (1632) muzykę "***na 4 rozstawione chóry***". W 1635 roku ożenił się w Warszawię z Niemką Reginą Kellerin.
+Wraz z Kapelą Królewską towarzyszył królowi w podróżach do Wilna, Krakowa, Częstochowy i do Gdańska. **Wyjechał z Polski** po **śmierci Władysława IV**, kapele przyjął po nim B. Pękiel. Uzyskał od króla Jana Kazimierza zgode na wyjazd do Itali w celu leczenia, z którego nie wrócił.
+
+## 3.6 Damian Stachowicz
+Ur. 1658 zm. 1699. Kształcił się w wielu miejscach. W swoim czasie bardzo zanany. Z 30 znanych utworów zachowało się ok. 13 kompozycji. Muyzka religijna w stylu koncertującym. Wprowadzi na obszar Polski **trąbki *Clarini***. Stałą obsadą jego utworów była CATB (2 CATB), 2 cln, 2 vln + b.c. Melodyka odcinków monodycznych w jego utworach jest bardzo rozwinięta - zbliża się do koloratury. Do najważniejszych utworów należą *Missa Requiem* i *Veni Consolator*
+### 3.6.1 *Requiem*
+Obsada: CCATB, 2 cln, 2 vln i grupa continuo. Rękopis znajduję się w Zbiorach Biblioteki Diecezjalnej w Sandomierzu. Być może wykonana była podczas uroczystości żałobnych po śmierci rektora kolegium pijarów w Łowiczu (w 1697 roku). 
+Uroczysta Forma - trąbki clarino w ritornellach instrumentalnych - typ mszy solemnis. *Requiem* wykonuję się wraz z odcinakmi śpiewanymi chorałowo (*intonatia*)
+### 3.6.2 *Veni Consolator*
+Obsada: Cantus solo, cln i basso continuo. Koncert solowy, w którym po raz pierwszy pojawia się symetryczna forma ABA - solowa *arię da capo*. Ciekawy przykład wpływu weneckiej arii operowej na koncert wieloodcinkowy: wzór arii z jedną lub dwoma trąbkami *clarino* w której dominują narzucane przez instrument figury melodyczne: fanfary, skoki, rozłożone akordy
+## 3.7 Jacek Różycki
+## 3.8 Grzegorz Gerwazy Gorzycki
+Urodzony około 1665 r. zmarły w 1734 roku. Studiował w Pradze i Wiedniu, w Krakowie wyświęcony na księdza. 
+**Od 1698 roku kapelmistrz Kapeli Wawelskiej** (podopnie jak [[11. Twórczość Franciszka Liliusa|Franciszek Lilius]]), którą kierował przez **36 lat**, ponadto pełnił wiele obowiązków związanych z urzędami kościelnymi. Był to niezywkle trudny okres, pełen wojen, okupacji i zarazy.
+### 3.8.1 *Missa Paschalis*
+Msza na chór czterogłosowy. Nurt dawnej muzyki *a capella*. W cyklu Gorczycki wykorzystuje melodie polskich pieśni wielkanocnych: *Pan Chrystós zmartwychstał*, *Wstał Pan Chrystus*, *Wesoły nam dzień nastał*. Występuje modalność (głownie modus miksolidyjski) respektująca wszelkie zasady, co świadczy o dużej wiedzy historycznej kompozytora. 
+Występują głównie dwie techniki kompozytorskie: imitacyjna (np. w ***Kyrie***) i *nota contra notam* (np. **Gloria**). Melodyka czerpana z chorału i pieśni, poddawana jest obróbce stylistycznej. 
+### 3.8.2 *Completorium*
+Kompozycja na Chór czterogłosowy, dwoje skrzypce, dwa clarino i *basso pro organo*. 
+**Ostatnia część *Officium***, na zakończenie dnia. Jako odrębna forma rzadko opracowywane muzycznie - głównie w ośrodkach zakonnych.
+Utwór **odkryty w 1961 roku w Rakowie Opatowskim**.
+Jest to **kompozycja cykliczna** obejmująca: cztery psalmy, hymny, responsorium *breve* i kantyk Zachariasza.
+### 3.8.3 *Litaniae de Providenta Divina*
+Litania na chór pięciogłosowy (zdwojone canto), dwa oboje, dwie clarino, dwoje skrzypiec oraz viola bassa i organy jako *basso continuo*. Powstał w 1726 roku. Rękopis znajduję się w **Miejskim Archiwum Svaty Jur na słowacji**.
+Kompozycja cykliczna składa się z **7 części** wyodrębnionych przez zmiany rytmiczne, metryczne i fakturalne. Górecki stworzył z litani cykl **koncertu wieloodcinkowego**. Każda **część** litanii **kończy się kadencją**.
+
+Kompozycja wykorzystuje klamre narreacyjną, cykl zaczyna i kończu od zwrotu ***Kyrie Eleison, Christe Eleison, Kyrie Eleison***. 
+### 3.8.4 *Illuxit Sol*
+Motet na chór pięciogłosoyw (zdwojony canto), dwoje skrzypiec, 3 violony i basso continuo. 
+Zachowany w rękopisach Biblioteki Jagielońskiej jako *Motteto de Martyribus* (kopia sporządzona przez Walentego Bukowskiego). Gorzecki był twórcą motetów *a capella*, które pisał na potrzeby kapeli rorantystów ([[4. Łacińska Polifonia XVI wieku#Kapela Rorantystów|Kapela Rorantystów]]).
+
+Na wzór motetu ukształtowany jest koncertujący *illuxit sol*, zaliczany do **małej kantaty wieloczęściowej** lub **kościelnego koncertu wersetowego**. Tekst jest swobodną parafrazą **fragmętu Listu św. Pawła do Rzymian** (8, 35-39).
+
+**Budowa czteroczęsciowa**, podzielone na **mniejsze ogniwa**. Materiał nie zabiera melodii chorałów, duże znaczenie czynnika instrumentalnego. Kompozytor eksponuje skrzypce i basso continuo, jako środek artystyczny typowy dla baroku. 
+
+## 3.9 Stanisław Sylwester Szarzyński
+**Stanisław Sylwester Szarzyński** (czynny w ostatniej ćwierci **XVII wieku**) najprawdopodobniej zakonnik cysterski związany z Łowiczem (liczne przekazy utwór pochodzą z Łowicza). Zachowało się tylko **11 kompozycji**. Twórczość prawie wyłącznie w nurcie *seconda pratica*, wokalno-instrumentalna, z przewagą kompozycji koncertujących: koncerty solowe oraz na 4, 5 głosów.
+### 3.9.1 *Jesu, spes mea*
+**Koncert solowy**, przeznaczony na sopran, dwoje skrzypiec i grupe continuo. Tekst poetycki, emocjonalny, intymny, oparty na kontrastach.
+Pod względem formanym koncer ten jest **zbliżony do kanaty solowej**, o czym świadczą:
+- Ograniczenie liczby odcinków (różne tempa i metra) do pięciu
+- Powiększenie rozmiarów odcinków
+- Podział na odcinki kantylenowe, aryjne i recytatywne
+- 
+Liryczny temat melodyczny to opracowanie pieśni Przez czyśćcowe upalenia, która jest eksponowana zarówno w postaci orginalnej, jak i przetworzonej wariacyjnie. Melodyka, wykazująca już slny związek z tonalnością dur-moll, stanowi nawiązanie do twórczości kompozytorów rzymskich ([[Powstanie Oratorium#Giacomo Carissimi|Carissimi]], Graziani) i wiedeńskich (Johan Kaspar Krell, Antonio Draghi). Nie odzwierciedla jesdnak jeszcze twórczości Neapolitańskiej.
+
+Kantata włoska ([[Tematy Egzaminacyjne Barok#Włoska Kantata. Geneza i Charakterystyka.|Włoska Kantata Świecka]]) ma charakter kameralny,
+Pierwsza część eksponuje melodie  pieśni *Przez Czyściowie Upalenia*, aktywny jest sporan i continuo, ma charakter recytatywny.
+Druga część oparta jest na motywie dynamicznych wznoszących się ósemkach.
+Następnie pojawia się część wolniejsza w 3/2 o charakterze recytatywnym. Melodyka oparta na opadającej kwarcie. Budowa oparta na polifonii.
+Ostatnia część oparta jest na powtarzanym w partii skrzypiec dzwięku a. 
+
+### 3.9.2 *Ad hymnos ad cantus*
+Koncert rondowy (forma koncertu, rolę refrenu pełnią odcinki tutti, traktowane homorytmicznu) przeznaczony na chór z podwojonym sopranem, dwoje skrzypiec, wiolonczele i organy jako *basso continuo*. 
+
+Tekst wybitnie radosny, pochwaly, nawołujący do oddawania Bogu chwały, poprzez Śpiew, klaskanie, okrzyki.
+
+Ważna rola harmoniki, rozwijanej według systemu dur-moll, pojawiają się w związku z tym regularne ukształtowania frazy, faktury, rozkładu kadencji.
+Symetryczność występuje w refrenie.
+### 3.9.3 *Completorium*
+Chór, dwoje skprzypiec, dwie trąbki clarino i basso contiuno na organy. 
+Cykl utworó przeznaczony do wykonania jako część oficjum: 4 psalmy, hymn, kantyk Zachariasza.
+
+Utwór tworzy muzyczną całość (ta sama obsada, tonacja D-dur, a także pokrewięństwa melodyczne). 
+
+Wstępne ogniow pierwszego psalmu eksponowane jest także w dalszej jego części oraz w pozostałych psalmach i kantyku (utrzymane w metrum 3/2 homorytmiczna partia *Cum invocarem*).
+
+Udane zespolenio formy cyklicznej z rondową. Starzyński w sposób mistrzowski operuje formą wersetową, opartą na zmianach temp, faktury i obsady. Odcinki zazębiają się na kadencjac - ostatni akord jednego odcinak współwystępuje z pierwszym akordem następnego. Utwór pozbawiony jest natomiast niemal zupełnie faktury polifonicznej.
+## 3.10 Marcin Józef Żebrowski
+## 3.11 Muzyka Instrumentalna XVII wieku
 # 4. Klasycyzm
 
