@@ -17,12 +17,82 @@ if (typeof marked !== 'undefined') {
     });
 }
 
+// Clean Obsidian-specific syntax from markdown
+function cleanObsidianMarkdown(markdown) {
+    // Remove Obsidian attributes like {.class} or {#id} or {key=value}
+    markdown = markdown.replace(/\{[.#]?[\w-]+(=[\w-]+)?\}/g, '');
+    
+    // Remove callouts/admonitions
+    markdown = markdown.replace(/>\s*\[![\w-]+\]/g, '>');
+    
+    // Convert wiki-links [[link]] to markdown links
+    markdown = markdown.replace(/\[\[([^\]|]+)(\|([^\]]+))?\]\]/g, (match, link, pipe, text) => {
+        return `[${text || link}](#)`;
+    });
+    
+    // Remove frontmatter (YAML between ---)
+    markdown = markdown.replace(/^---[\s\S]*?---\n/m, '');
+    
+    // Remove comments
+    markdown = markdown.replace(/%%.*?%%/g, '');
+    
+    // Remove highlight marks
+    markdown = markdown.replace(/==(.*?)==/g, '$1');
+    
+    return markdown;
+}
+
+// Generate Table of Contents from markdown headings
+function generateTableOfContents(markdown) {
+    const headings = [];
+    const lines = markdown.split('\n');
+    
+    lines.forEach(line => {
+        const h2Match = line.match(/^##\s+(.+)$/);
+        const h3Match = line.match(/^###\s+(.+)$/);
+        
+        if (h2Match) {
+            const text = h2Match[1].replace(/\{[^}]+\}/g, '').trim(); // Remove attributes
+            const id = text.toLowerCase().replace(/[^\w]+/g, '-');
+            headings.push({ level: 2, text, id });
+        } else if (h3Match) {
+            const text = h3Match[1].replace(/\{[^}]+\}/g, '').trim();
+            const id = text.toLowerCase().replace(/[^\w]+/g, '-');
+            headings.push({ level: 3, text, id });
+        }
+    });
+    
+    return headings;
+}
+
+// Render Table of Contents
+function renderTableOfContents(headings) {
+    if (headings.length === 0) return '';
+    
+    let html = `
+        <div class="table-of-contents">
+            <h3>📑 Spis treści</h3>
+            <ul class="toc-list">
+    `;
+    
+    headings.forEach(heading => {
+        const className = heading.level === 3 ? 'toc-h3' : '';
+        html += `<li class="${className}"><a href="#${heading.id}">${heading.text}</a></li>`;
+    });
+    
+    html += `
+            </ul>
+        </div>
+    `;
+    
+    return html;
+}
+
 // Load folder structure
 async function loadFolderStructure() {
     const folderTree = document.getElementById('folderTree');
     
     try {
-        // Fetch the contents of the Notatki folder
         const response = await fetch(`${API_BASE}/contents/${NOTES_FOLDER}`);
         
         if (!response.ok) {
@@ -31,10 +101,8 @@ async function loadFolderStructure() {
         
         const contents = await response.json();
         
-        // Clear loading message
         folderTree.innerHTML = '';
         
-        // Recursively build folder tree
         await buildFolderTree(contents, folderTree, '');
         
     } catch (error) {
@@ -45,15 +113,13 @@ async function loadFolderStructure() {
 
 // Recursively build folder tree
 async function buildFolderTree(items, parentElement, currentPath) {
-    // Sort: folders first, then files
     const folders = items.filter(item => item.type === 'dir').sort((a, b) => a.name.localeCompare(b.name));
     const files = items.filter(item => item.type === 'file' && item.name.endsWith('.md')).sort((a, b) => a.name.localeCompare(b.name));
     
-    // Add folders
     for (const folder of folders) {
         const li = document.createElement('li');
         const folderName = document.createElement('strong');
-        folderName.textContent = `📁 ${folder.name}`;
+        folderName.textContent = folder.name;
         folderName.style.cursor = 'pointer';
         folderName.style.display = 'block';
         folderName.style.marginBottom = '0.5rem';
@@ -64,7 +130,6 @@ async function buildFolderTree(items, parentElement, currentPath) {
         
         folderName.addEventListener('click', async () => {
             if (subList.children.length === 0) {
-                // Load subfolder contents
                 try {
                     const response = await fetch(folder.url);
                     const subContents = await response.json();
@@ -73,7 +138,6 @@ async function buildFolderTree(items, parentElement, currentPath) {
                     console.error('Error loading subfolder:', error);
                 }
             }
-            // Toggle visibility
             subList.style.display = subList.style.display === 'none' ? 'block' : 'none';
         });
         
@@ -82,19 +146,17 @@ async function buildFolderTree(items, parentElement, currentPath) {
         parentElement.appendChild(li);
     }
     
-    // Add files
     for (const file of files) {
         const li = document.createElement('li');
         const link = document.createElement('a');
         link.href = '#';
-        link.textContent = `📄 ${file.name.replace('.md', '')}`;
+        link.textContent = file.name.replace('.md', '');
         link.dataset.path = file.path;
         
         link.addEventListener('click', async (e) => {
             e.preventDefault();
             await loadNote(file.path, file.name);
             
-            // Update active state
             document.querySelectorAll('.folder-tree a').forEach(a => a.classList.remove('active'));
             link.classList.add('active');
         });
@@ -108,18 +170,23 @@ async function buildFolderTree(items, parentElement, currentPath) {
 async function loadNote(filePath, fileName) {
     const noteContent = document.getElementById('noteContent');
     
-    // Show loading state
     noteContent.innerHTML = '<div class="loading">Ładowanie notatki...</div>';
     
     try {
-        // Fetch the raw markdown file
         const response = await fetch(`${RAW_BASE}/${filePath}`);
         
         if (!response.ok) {
             throw new Error('Nie można załadować notatki');
         }
         
-        const markdown = await response.text();
+        let markdown = await response.text();
+        
+        // Clean Obsidian-specific syntax
+        markdown = cleanObsidianMarkdown(markdown);
+        
+        // Generate table of contents
+        const headings = generateTableOfContents(markdown);
+        const tocHtml = renderTableOfContents(headings);
         
         // Convert markdown to HTML
         const html = marked.parse(markdown);
@@ -140,8 +207,39 @@ async function loadNote(filePath, fileName) {
             </div>
         `;
         
-        // Process links in the content to handle internal wiki-links
-        processInternalLinks();
+        // Add ToC to the right sidebar
+        const container = document.querySelector('.notes-container');
+        
+        // Remove existing ToC if present
+        const existingToC = container.querySelector('.table-of-contents');
+        if (existingToC) {
+            existingToC.remove();
+        }
+        
+        // Add new ToC if there are headings
+        if (headings.length > 0 && window.innerWidth > 1200) {
+            container.insertAdjacentHTML('beforeend', tocHtml);
+            
+            // Add scroll spy for ToC
+            setupScrollSpy();
+        }
+        
+        // Smooth scroll for ToC links
+        document.querySelectorAll('.toc-list a').forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const targetId = link.getAttribute('href').substring(1);
+                const targetElement = document.getElementById(targetId);
+                
+                if (targetElement) {
+                    targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    
+                    // Update active state
+                    document.querySelectorAll('.toc-list a').forEach(a => a.classList.remove('active'));
+                    link.classList.add('active');
+                }
+            });
+        });
         
     } catch (error) {
         console.error('Error loading note:', error);
@@ -154,38 +252,45 @@ async function loadNote(filePath, fileName) {
     }
 }
 
-// Process internal wiki-links [[note]] style
-function processInternalLinks() {
-    const content = document.querySelector('.markdown-content');
-    if (!content) return;
+// Scroll spy for Table of Contents
+function setupScrollSpy() {
+    const headings = document.querySelectorAll('.markdown-content h2, .markdown-content h3');
+    const tocLinks = document.querySelectorAll('.toc-list a');
     
-    const wikiLinkRegex = /\[\[([^\]]+)\]\]/g;
+    if (headings.length === 0) return;
     
-    content.innerHTML = content.innerHTML.replace(wikiLinkRegex, (match, linkText) => {
-        // Try to find the corresponding note
-        return `<a href="#" class="wiki-link" data-note="${linkText}">${linkText}</a>`;
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const id = entry.target.id;
+                
+                tocLinks.forEach(link => {
+                    link.classList.remove('active');
+                    if (link.getAttribute('href') === `#${id}`) {
+                        link.classList.add('active');
+                    }
+                });
+            }
+        });
+    }, {
+        rootMargin: '-100px 0px -66%',
+        threshold: 0
     });
     
-    // Add click handlers to wiki-links
-    content.querySelectorAll('.wiki-link').forEach(link => {
-        link.addEventListener('click', async (e) => {
-            e.preventDefault();
-            const noteName = link.dataset.note;
-            // Try to find and load the note
-            // This is a simplified version - you might want to implement better search
-            const fullPath = `${NOTES_FOLDER}/${noteName}.md`;
-            await loadNote(fullPath, noteName);
-        });
+    headings.forEach(heading => {
+        if (!heading.id) {
+            heading.id = heading.textContent.toLowerCase().replace(/[^\w]+/g, '-');
+        }
+        observer.observe(heading);
     });
 }
 
-// Check for URL parameters (for deep linking)
+// Check for URL parameters
 function checkUrlParams() {
     const urlParams = new URLSearchParams(window.location.search);
     const note = urlParams.get('note');
     
     if (note) {
-        // Load the specified note
         loadNote(note, note.split('/').pop());
     }
 }
