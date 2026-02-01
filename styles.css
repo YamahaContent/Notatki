@@ -1,385 +1,234 @@
-/*
- * Material Design - Gruvbox Theme v2 (Fixed for your HTML structure)
+/* * 📜 Medieval Manuscript Theme
+ * Stylizowany na średniowieczne skryptorium
  */
 
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Cinzel+Decorative:wght@400;700&display=swap');
+
 :root {
-    /* --- Paleta GRUVBOX --- */
-    --gruvbox-bg-hard: #1d2021;
-    --gruvbox-bg: #282828;
-    --gruvbox-bg-soft: #32302f;
-    --gruvbox-fg: #ebdbb2;
-    --gruvbox-fg0: #fbf1c7;
-    --gruvbox-fg2: #d5c4a1;
-    --gruvbox-fg4: #a89984;
-    --gruvbox-red: #cc241d;
-    --gruvbox-green: #98971a;
-    --gruvbox-yellow: #d79921;
-    --gruvbox-blue: #458588;
-    --gruvbox-purple: #b16286;
-    --gruvbox-aqua: #689d6a;
-    --gruvbox-orange: #d65d0e;
-    --gruvbox-gray: #928374;
-
-    /* Material Shadows */
-    --shadow-s: 0 1px 3px rgba(0,0,0,0.24), 0 1px 2px rgba(0,0,0,0.36);
-    --shadow-m: 0 4px 6px rgba(0,0,0,0.3), 0 3px 6px rgba(0,0,0,0.4);
-
-    /* Fonts */
-    --font-sans: 'Roboto', 'Segoe UI', system-ui, sans-serif;
-    --font-serif: 'Crimson Text', serif; /* Dla czytania długich tekstów */
-
-    /* Radius */
-    --border-radius-m: 8px;
-    --border-radius-l: 12px;
-}
-
-/* Light Mode Overrides */
-[data-theme="light"] {
-    --gruvbox-bg-hard: #f9f5d7;
-    --gruvbox-bg: #fbf1c7;
-    --gruvbox-bg-soft: #f2e5bc;
-    --gruvbox-fg: #3c3836;
-    --gruvbox-fg0: #282828;
-    --gruvbox-fg2: #504945;
-    --gruvbox-fg4: #7c6f64;
+    /* --- Paleta Manuskryptu --- */
+    --parchment-bg: #fdf6e3;        /* Jasny pergamin */
+    --parchment-dark: #eee8d5;      /* Ciemniejszy pergamin (sidebar) */
+    --ink-black: #2b2b2b;           /* Główny tekst (lekko wyblakły czarny) */
+    --ink-red: #8b0000;             /* Rubrykowanie (nagłówki) */
+    --ink-blue: #003366;            /* Linki i akcenty */
+    --gold: #d4af37;                /* Złocenia i ramki */
+    --border-color: #8b7355;        /* Brązowe ramki */
     
-    --shadow-s: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-    --shadow-m: 0 4px 6px rgba(0,0,0,0.11), 0 3px 6px rgba(0,0,0,0.16);
+    /* Wymiary */
+    --sidebar-width: 280px;
+    --toc-width: 240px;
 }
 
-/* --- Reset & Base --- */
-* { box-sizing: border-box; margin: 0; padding: 0; }
-
+/* --- Podstawy i Tło --- */
 body {
-    font-family: var(--font-sans);
-    background-color: var(--gruvbox-bg-hard);
-    color: var(--gruvbox-fg);
+    background-color: var(--parchment-bg);
+    color: var(--ink-black);
+    font-family: 'Crimson Text', serif; /* Klasyczna, czytelna szeryfowa */
+    font-size: 18px; /* Nieco większa dla klimatu księgi */
     line-height: 1.6;
-    transition: background-color 0.3s, color 0.3s;
+    background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.6' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23noise)' opacity='0.05'/%3E%3C/svg%3E");
+    margin: 0;
 }
 
-a { text-decoration: none; color: inherit; }
+/* --- Typografia --- */
+h1, h2, h3, h4 {
+    font-family: 'UnifrakturMaguntia', cursive; /* Gotycka */
+    color: var(--ink-red);
+    font-weight: normal;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    letter-spacing: 1px;
+}
 
-/* --- Navigation --- */
-.main-nav {
-    background-color: var(--gruvbox-bg);
-    box-shadow: var(--shadow-s);
+h1 { 
+    font-size: 3rem; 
+    text-align: center;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 1rem;
+}
+
+h2 { font-size: 2.2rem; border-bottom: 1px solid var(--gold); }
+h3 { font-size: 1.6rem; color: var(--ink-blue); }
+
+a {
+    color: var(--ink-blue);
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 1px dotted var(--ink-blue);
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: var(--ink-red);
+    border-bottom: 1px solid var(--ink-red);
+}
+
+/* --- Iluminowane Inicjały (Drop Caps) --- */
+/* Pierwsza litera pierwszego akapitu w treści notatki */
+.markdown-content > p:first-of-type::first-letter {
+    float: left;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 4.5rem;
+    line-height: 0.8;
+    padding-right: 10px;
+    padding-left: 5px;
+    color: var(--ink-red);
+    text-shadow: 2px 2px 0px var(--gold);
+}
+
+/* --- Layout Notatki (Fix Spisu Treści) --- */
+.notes-container {
+    display: flex; /* Kluczowe dla układu 3 kolumn */
+    max-width: 1600px;
+    margin: 0 auto;
+    min-height: 100vh;
+    border-left: 1px solid var(--border-color);
+    border-right: 1px solid var(--border-color);
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+/* Lewy Panel (Lista Plików) */
+.notes-sidebar {
+    flex: 0 0 var(--sidebar-width);
+    background-color: var(--parchment-dark);
+    padding: 2rem 1.5rem;
+    border-right: 2px solid var(--border-color);
+    overflow-y: auto;
+    height: 100vh;
     position: sticky;
     top: 0;
-    z-index: 1000;
-    padding: 0.5rem 0;
+}
+
+/* Środek (Treść Notatki) */
+.note-content-area {
+    flex: 1; /* Zajmuje resztę miejsca */
+    padding: 3rem 4rem; /* Duże marginesy jak w księdze */
+    background-color: var(--parchment-bg);
+    max-width: 900px; /* Nie za szeroko, żeby się dobrze czytało */
+    margin: 0 auto;   /* Centrowanie jeśli brak ToC */
+}
+
+/* Prawy Panel (Spis Treści - NAPRAWA) */
+.toc-sidebar {
+    flex: 0 0 var(--toc-width);
+    padding: 2rem 1rem;
+    background-color: var(--parchment-bg);
+    border-left: 1px solid var(--border-color); /* Oddzielenie linią */
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    overflow-y: auto;
+    font-size: 0.9rem;
+}
+
+/* Ukrywanie paneli na mobilu */
+@media (max-width: 1100px) {
+    .toc-sidebar { display: none; } /* Ukryj ToC na tabletach */
+    .note-content-area { padding: 2rem; }
+}
+
+@media (max-width: 768px) {
+    .notes-container { flex-direction: column; }
+    .notes-sidebar { 
+        width: 100%; 
+        height: auto; 
+        position: relative;
+        border-right: none;
+        border-bottom: 2px solid var(--border-color);
+    }
+}
+
+/* --- Elementy Dekoracyjne --- */
+
+/* Nawigacja górna */
+.main-nav {
+    background-color: var(--ink-red);
+    padding: 1rem 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 .nav-content {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 60px;
+    padding: 0 20px;
 }
 
 .logo {
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: var(--gruvbox-fg0);
-    letter-spacing: 1px;
-}
-
-.nav-links {
-    display: flex;
-    gap: 15px;
-}
-
-/* Styl linków w menu */
-.nav-links a {
-    color: var(--gruvbox-fg2);
-    padding: 0.5rem 1rem;
-    border-radius: var(--border-radius-m);
-    transition: all 0.2s ease;
-    font-weight: 500;
-    text-transform: uppercase;
-    font-size: 0.9rem;
-}
-
-.nav-links a:hover,
-.nav-links a.active {
-    background-color: var(--gruvbox-bg-soft);
-    color: var(--gruvbox-blue);
-}
-
-/* --- Theme Toggle Button (Tworzony przez JS) --- */
-.theme-toggle {
-    background: var(--gruvbox-bg-soft);
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 2rem;
+    color: var(--gold);
+    text-decoration: none;
     border: none;
-    color: var(--gruvbox-yellow);
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    cursor: pointer;
-    font-size: 1.2rem;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    box-shadow: var(--shadow-m);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 2000;
-    transition: transform 0.2s;
 }
 
-.theme-toggle:hover {
-    transform: scale(1.1);
+.nav-links a {
+    color: #fff; /* Biały tekst na ciemnoczerwonym tle */
+    border: none;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 1rem;
+    margin-left: 20px;
 }
 
-.theme-toggle::after {
-    content: '🌓'; /* Ikona */
-}
-
-/* --- Hero Section (Strona Główna) --- */
-.hero-section {
-    padding: 4rem 20px;
-    text-align: center;
-    background: linear-gradient(to bottom, var(--gruvbox-bg-hard), var(--gruvbox-bg));
-}
-
-.hero-title {
-    font-size: 3rem;
-    color: var(--gruvbox-fg0);
-    margin-bottom: 1rem;
-}
-
-.highlight {
-    color: var(--gruvbox-orange);
-}
-
-.hero-subtitle {
-    color: var(--gruvbox-fg2);
-    font-size: 1.2rem;
-    max-width: 600px;
-    margin: 0 auto 3rem auto;
-}
-
-/* Karty przedmiotów (index.html) */
-.subjects-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
+/* Karty (Strona główna) */
 .subject-card {
-    background-color: var(--gruvbox-bg);
+    border: 2px solid var(--gold);
+    background: var(--parchment-dark);
     padding: 2rem;
-    border-radius: var(--border-radius-l);
-    box-shadow: var(--shadow-s);
-    transition: transform 0.2s, box-shadow 0.2s;
-    border: 1px solid transparent;
+    margin-bottom: 2rem;
+    box-shadow: 5px 5px 0px var(--ink-black); /* Retro cień */
+    transition: transform 0.2s;
 }
 
 .subject-card:hover {
     transform: translateY(-5px);
-    box-shadow: var(--shadow-m);
-    border-color: var(--gruvbox-bg-soft);
+    box-shadow: 8px 8px 0px var(--ink-red);
 }
 
-.subject-icon {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-}
-
-.subject-card h3 {
-    color: var(--gruvbox-yellow);
-    margin-bottom: 0.5rem;
-    font-size: 1.4rem;
-}
-
-.card-link {
-    display: inline-block;
-    margin-top: 1rem;
-    color: var(--gruvbox-blue);
-    font-weight: 600;
-}
-
-/* --- Layout Notatek (notatki.html) --- */
-.notes-container {
-    max-width: 1400px;
-    margin: 2rem auto;
-    display: flex;
-    gap: 2rem;
-    padding: 0 20px;
-    min-height: 80vh;
-}
-
-/* Sidebar (Lista plików) */
-.notes-sidebar {
-    flex: 0 0 280px;
-    background-color: var(--gruvbox-bg);
-    padding: 1.5rem;
-    border-radius: var(--border-radius-l);
-    height: calc(100vh - 100px);
-    position: sticky;
-    top: 80px;
-    overflow-y: auto;
-    box-shadow: var(--shadow-s);
-}
-
-.folder-structure ul {
-    list-style: none;
-    padding-left: 0.5rem;
-}
-
-.folder-structure li {
-    margin: 0.5rem 0;
-}
-
-.folder-name {
-    font-weight: bold;
-    color: var(--gruvbox-purple);
-    margin-top: 1rem;
-    display: block;
-}
-
-.file-link {
-    display: block;
-    padding: 8px 12px;
-    color: var(--gruvbox-fg2);
-    border-radius: 6px;
-    transition: background 0.2s;
-    font-size: 0.95rem;
-    cursor: pointer;
-}
-
-.file-link:hover {
-    background-color: var(--gruvbox-bg-soft);
-    color: var(--gruvbox-fg0);
-}
-
-.file-link.active {
-    background-color: var(--gruvbox-bg-soft);
-    color: var(--gruvbox-blue);
-    border-left: 3px solid var(--gruvbox-blue);
-}
-
-/* Główna treść notatki */
-.note-content-area {
-    flex: 1;
-    background-color: var(--gruvbox-bg);
-    padding: 3rem;
-    border-radius: var(--border-radius-l);
-    box-shadow: var(--shadow-s);
-    max-width: 800px; /* Czytelna szerokość tekstu */
-}
-
-/* Markdown Styles */
-.markdown-content {
-    font-family: var(--font-serif); /* Lepsza czytelność */
-    font-size: 1.1rem;
-}
-
-.markdown-content h1, 
-.markdown-content h2, 
-.markdown-content h3 {
-    font-family: var(--font-sans);
-    color: var(--gruvbox-orange);
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-}
-
-.markdown-content h1 { font-size: 2.2rem; border-bottom: 2px solid var(--gruvbox-bg-soft); padding-bottom: 0.5rem; }
-.markdown-content p { margin-bottom: 1.2rem; }
-.markdown-content ul { padding-left: 1.5rem; margin-bottom: 1.2rem; }
-.markdown-content code {
-    background: var(--gruvbox-bg-soft);
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-family: monospace;
-    font-size: 0.9em;
-}
-
-.markdown-content blockquote {
-    border-left: 4px solid var(--gruvbox-yellow);
-    padding-left: 1rem;
-    color: var(--gruvbox-fg2);
-    font-style: italic;
-    background: var(--gruvbox-bg-soft);
-    padding: 1rem;
-    border-radius: 0 8px 8px 0;
-}
-
-/* Spis treści (TOC) */
-.toc-sidebar {
-    flex: 0 0 200px;
-    position: sticky;
-    top: 80px;
-    height: fit-content;
-    display: none; /* Domyślnie ukryty na małych ekranach */
-}
-
-@media (min-width: 1200px) {
-    .toc-sidebar { display: block; }
-}
-
-.toc-list li {
-    list-style: none;
-    margin-bottom: 0.5rem;
-}
-
+/* Spis treści stylizacja */
+.toc-list { list-style: none; padding: 0; }
+.toc-list li { margin-bottom: 0.8em; line-height: 1.2; }
 .toc-list a {
-    font-size: 0.85rem;
-    color: var(--gruvbox-gray);
-    transition: color 0.2s;
+    color: var(--ink-black);
+    text-decoration: none;
+    border: none;
+    font-family: 'Crimson Text', serif;
+}
+.toc-list a:hover, .toc-list a.active {
+    color: var(--ink-red);
+    font-weight: bold;
+}
+.toc-list a.active::before {
+    content: "❧ "; /* Ozdobnik */
+    color: var(--gold);
 }
 
-.toc-list a:hover,
-.toc-list a.active {
-    color: var(--gruvbox-blue);
+/* Elementy Markdown */
+blockquote {
+    border-left: 4px solid var(--gold);
+    background: rgba(212, 175, 55, 0.1);
+    margin: 1.5em 0;
+    padding: 1em;
+    font-style: italic;
 }
 
-/* --- Footer --- */
-.main-footer {
-    background-color: var(--gruvbox-bg);
-    padding: 3rem 20px;
-    margin-top: 4rem;
-    border-top: 1px solid var(--gruvbox-bg-soft);
+code {
+    background: rgba(0,0,0,0.05);
+    font-family: 'Courier New', monospace;
+    padding: 2px 5px;
+    border-radius: 3px;
+    color: var(--ink-red);
 }
 
-.footer-content {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 2rem;
-    text-align: center;
-}
-
-.footer-section h4 {
-    color: var(--gruvbox-green);
-    margin-bottom: 1rem;
-}
-
-.footer-section p, 
-.footer-section a {
-    color: var(--gruvbox-fg4);
-    font-size: 0.9rem;
+img {
+    border: 5px solid var(--ink-black);
+    border-radius: 2px;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
     display: block;
-    margin-bottom: 0.5rem;
-}
-
-/* --- Responsywność --- */
-@media (max-width: 768px) {
-    .notes-container {
-        flex-direction: column;
-    }
-    .notes-sidebar {
-        height: auto;
-        max-height: 300px;
-        position: static;
-    }
-    .hero-title {
-        font-size: 2rem;
-    }
+    margin: 1rem auto;
 }
