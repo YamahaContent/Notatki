@@ -2,6 +2,32 @@
 const GITHUB_REPO = 'yamahacontent/Notatki';
 const GITHUB_API = `https://api.github.com/repos/${GITHUB_REPO}`;
 
+// Theme Toggle
+function initThemeToggle() {
+    // Create theme toggle button
+    const themeToggle = document.createElement('button');
+    themeToggle.className = 'theme-toggle';
+    themeToggle.setAttribute('aria-label', 'Toggle theme');
+    themeToggle.setAttribute('title', 'Przełącz motyw');
+    document.body.appendChild(themeToggle);
+    
+    // Load saved theme or default to dark
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    document.documentElement.setAttribute('data-theme', savedTheme);
+    
+    // Toggle theme on click
+    themeToggle.addEventListener('click', () => {
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        
+        document.documentElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme);
+        
+        // Add animation
+        document.body.style.transition = 'background 0.3s ease, color 0.3s ease';
+    });
+}
+
 // Update last commit date
 async function updateLastCommitDate() {
     const lastUpdateElement = document.getElementById('last-update');
@@ -66,9 +92,9 @@ window.addEventListener('scroll', () => {
     const currentScroll = window.pageYOffset;
     
     if (currentScroll > 100) {
-        nav.style.boxShadow = '0 2px 10px rgba(44, 24, 16, 0.1)';
+        nav.style.boxShadow = '0 2px 20px rgba(0, 0, 0, 0.3)';
     } else {
-        nav.style.boxShadow = 'none';
+        nav.style.boxShadow = 'var(--shadow)';
     }
     
     lastScroll = currentScroll;
@@ -99,33 +125,10 @@ document.querySelectorAll('.subject-card').forEach(card => {
 
 // Initialize when page loads
 document.addEventListener('DOMContentLoaded', () => {
+    initThemeToggle();
     updateLastCommitDate();
     updateActiveNav();
 });
-
-// Mobile menu toggle (for future responsive enhancement)
-function createMobileMenu() {
-    const nav = document.querySelector('.nav-links');
-    const menuButton = document.createElement('button');
-    menuButton.className = 'mobile-menu-toggle';
-    menuButton.innerHTML = '☰';
-    menuButton.style.display = 'none';
-    
-    // Add media query check
-    if (window.innerWidth <= 768) {
-        menuButton.style.display = 'block';
-        nav.style.display = 'none';
-    }
-    
-    menuButton.addEventListener('click', () => {
-        nav.style.display = nav.style.display === 'none' ? 'flex' : 'none';
-    });
-    
-    document.querySelector('.nav-content').insertBefore(
-        menuButton, 
-        document.querySelector('.nav-links')
-    );
-}
 
 // Handle window resize
 let resizeTimer;
