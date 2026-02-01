@@ -1,17 +1,16 @@
 /*
- * Material Design - Gruvbox Theme
+ * Material Design - Gruvbox Theme v2 (Fixed for your HTML structure)
  */
 
 :root {
-    /* --- Paleta GRUVBOX (Bez zmian) --- */
-    /* Dark Mode (Default) */
+    /* --- Paleta GRUVBOX --- */
     --gruvbox-bg-hard: #1d2021;
-    --gruvbox-bg: #282828;    /* Surface color */
-    --gruvbox-bg-soft: #32302f; /* Elevated surface */
-    --gruvbox-fg: #ebdbb2;      /* Primary text */
-    --gruvbox-fg0: #fbf1c7;     /* High emphasis text */
-    --gruvbox-fg2: #d5c4a1;     /* Medium emphasis text */
-    --gruvbox-fg4: #a89984;     /* Disabled/hint text */
+    --gruvbox-bg: #282828;
+    --gruvbox-bg-soft: #32302f;
+    --gruvbox-fg: #ebdbb2;
+    --gruvbox-fg0: #fbf1c7;
+    --gruvbox-fg2: #d5c4a1;
+    --gruvbox-fg4: #a89984;
     --gruvbox-red: #cc241d;
     --gruvbox-green: #98971a;
     --gruvbox-yellow: #d79921;
@@ -21,14 +20,15 @@
     --gruvbox-orange: #d65d0e;
     --gruvbox-gray: #928374;
 
-    /* Material Design Shadows (przyciemnione dla trybu ciemnego) */
+    /* Material Shadows */
     --shadow-s: 0 1px 3px rgba(0,0,0,0.24), 0 1px 2px rgba(0,0,0,0.36);
     --shadow-m: 0 4px 6px rgba(0,0,0,0.3), 0 3px 6px rgba(0,0,0,0.4);
 
-    /* Typography */
-    --font-sans: 'Roboto', 'Segoe UI', BlinkMacSystemFont, system-ui, -apple-system, sans-serif;
+    /* Fonts */
+    --font-sans: 'Roboto', 'Segoe UI', system-ui, sans-serif;
+    --font-serif: 'Crimson Text', serif; /* Dla czytania długich tekstów */
 
-    /* Borders & Radius */
+    /* Radius */
     --border-radius-m: 8px;
     --border-radius-l: 12px;
 }
@@ -42,303 +42,344 @@
     --gruvbox-fg0: #282828;
     --gruvbox-fg2: #504945;
     --gruvbox-fg4: #7c6f64;
-    --gruvbox-red: #9d0006;
-    --gruvbox-green: #79740e;
-    --gruvbox-yellow: #b57614;
-    --gruvbox-blue: #076678;
-    --gruvbox-purple: #8f3f71;
-    --gruvbox-aqua: #427b58;
-    --gruvbox-orange: #af3a03;
-    --gruvbox-gray: #928374;
-
-    /* Lżejsze cienie dla jasnego tła */
+    
     --shadow-s: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     --shadow-m: 0 4px 6px rgba(0,0,0,0.11), 0 3px 6px rgba(0,0,0,0.16);
 }
 
-/* --- Reset & Base Styles --- */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+/* --- Reset & Base --- */
+* { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
     font-family: var(--font-sans);
     background-color: var(--gruvbox-bg-hard);
     color: var(--gruvbox-fg);
     line-height: 1.6;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    transition: background-color 0.3s, color 0.3s;
 }
 
-/* --- Typography --- */
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-sans);
-    color: var(--gruvbox-fg0);
-    font-weight: 500;
-    margin-bottom: 1rem;
-}
+a { text-decoration: none; color: inherit; }
 
-h1 { font-size: 2.5rem; }
-h2 { font-size: 2rem; color: var(--gruvbox-yellow); }
-h3 { font-size: 1.5rem; color: var(--gruvbox-blue); }
-
-a {
-    color: var(--gruvbox-blue);
-    text-decoration: none;
-    font-weight: 500;
-    transition: color 0.2s;
-}
-
-a:hover {
-    color: var(--gruvbox-aqua);
-    text-decoration: underline;
-}
-
-/* --- Layout & Header --- */
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    min-height: calc(100vh - 160px); /* Footer push */
-}
-
-header {
+/* --- Navigation --- */
+.main-nav {
     background-color: var(--gruvbox-bg);
-    padding: 1rem 0;
+    box-shadow: var(--shadow-s);
     position: sticky;
     top: 0;
-    z-index: 100;
-    box-shadow: var(--shadow-s); /* Material elevation */
+    z-index: 1000;
+    padding: 0.5rem 0;
 }
 
-.header-content {
+.nav-content {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 60px;
 }
 
 .logo {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-weight: 700;
     color: var(--gruvbox-fg0);
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
 }
 
-/* --- Navigation (Material Tabs style) --- */
-nav ul {
-    list-style: none;
+.nav-links {
     display: flex;
-    gap: 10px;
+    gap: 15px;
 }
 
-.nav-link {
-    text-decoration: none;
+/* Styl linków w menu */
+.nav-links a {
     color: var(--gruvbox-fg2);
-    padding: 0.75rem 1.2rem;
+    padding: 0.5rem 1rem;
     border-radius: var(--border-radius-m);
     transition: all 0.2s ease;
     font-weight: 500;
-    font-size: 0.95rem;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    font-size: 0.9rem;
 }
 
-.nav-link:hover {
-    background-color: var(--gruvbox-bg-soft);
-    color: var(--gruvbox-fg0);
-    text-decoration: none;
-}
-
-.nav-link.active {
+.nav-links a:hover,
+.nav-links a.active {
     background-color: var(--gruvbox-bg-soft);
     color: var(--gruvbox-blue);
 }
 
-/* --- Theme Switcher --- */
-.theme-switch-wrapper {
+/* --- Theme Toggle Button (Tworzony przez JS) --- */
+.theme-toggle {
+    background: var(--gruvbox-bg-soft);
+    border: none;
+    color: var(--gruvbox-yellow);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    box-shadow: var(--shadow-m);
     display: flex;
     align-items: center;
+    justify-content: center;
+    z-index: 2000;
+    transition: transform 0.2s;
 }
 
-.theme-switch {
-    display: inline-block;
-    height: 24px;
-    position: relative;
-    width: 48px;
+.theme-toggle:hover {
+    transform: scale(1.1);
 }
 
-.theme-switch input {
-    display: none;
+.theme-toggle::after {
+    content: '🌓'; /* Ikona */
 }
 
-.slider {
-    background-color: var(--gruvbox-bg-soft);
-    bottom: 0;
-    cursor: pointer;
-    left: 0;
-    position: absolute;
-    right: 0;
-    top: 0;
-    transition: .4s;
-    border-radius: 34px;
-    border: 2px solid var(--gruvbox-fg4);
+/* --- Hero Section (Strona Główna) --- */
+.hero-section {
+    padding: 4rem 20px;
+    text-align: center;
+    background: linear-gradient(to bottom, var(--gruvbox-bg-hard), var(--gruvbox-bg));
 }
 
-.slider:before {
-    background-color: var(--gruvbox-yellow);
-    bottom: 3px;
-    content: "";
-    height: 14px;
-    left: 4px;
-    position: absolute;
-    transition: .4s;
-    width: 14px;
-    border-radius: 50%;
+.hero-title {
+    font-size: 3rem;
+    color: var(--gruvbox-fg0);
+    margin-bottom: 1rem;
 }
 
-input:checked + .slider {
-    background-color: var(--gruvbox-blue);
-    border-color: var(--gruvbox-blue);
+.highlight {
+    color: var(--gruvbox-orange);
 }
 
-input:checked + .slider:before {
-    background-color: var(--gruvbox-bg);
-    transform: translateX(24px);
+.hero-subtitle {
+    color: var(--gruvbox-fg2);
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto 3rem auto;
 }
 
-/* --- Cards & Content (Material Sheets) --- */
-/* Stosowane do .intro-card, .contact-card oraz głównego kontenera treści */
-.intro-card,
-.contact-card,
-#readme-content,
-#note-content {
+/* Karty przedmiotów (index.html) */
+.subjects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.subject-card {
     background-color: var(--gruvbox-bg);
     padding: 2rem;
     border-radius: var(--border-radius-l);
     box-shadow: var(--shadow-s);
-    margin-bottom: 2rem;
-    transition: box-shadow 0.3s ease;
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: 1px solid transparent;
 }
 
-/* Efekt uniesienia przy najechaniu na interaktywne karty */
-.intro-card:hover {
+.subject-card:hover {
+    transform: translateY(-5px);
     box-shadow: var(--shadow-m);
+    border-color: var(--gruvbox-bg-soft);
 }
 
+.subject-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
 
-/* Style specyficzne dla notatki.html */
-.notes-layout {
+.subject-card h3 {
+    color: var(--gruvbox-yellow);
+    margin-bottom: 0.5rem;
+    font-size: 1.4rem;
+}
+
+.card-link {
+    display: inline-block;
+    margin-top: 1rem;
+    color: var(--gruvbox-blue);
+    font-weight: 600;
+}
+
+/* --- Layout Notatek (notatki.html) --- */
+.notes-container {
+    max-width: 1400px;
+    margin: 2rem auto;
     display: flex;
     gap: 2rem;
-    margin-top: 2rem;
+    padding: 0 20px;
+    min-height: 80vh;
 }
 
-.sidebar {
+/* Sidebar (Lista plików) */
+.notes-sidebar {
     flex: 0 0 280px;
     background-color: var(--gruvbox-bg);
     padding: 1.5rem;
     border-radius: var(--border-radius-l);
-    box-shadow: var(--shadow-s);
-    height: fit-content;
-    max-height: 80vh;
+    height: calc(100vh - 100px);
+    position: sticky;
+    top: 80px;
     overflow-y: auto;
+    box-shadow: var(--shadow-s);
 }
 
-#notes-list {
+.folder-structure ul {
     list-style: none;
+    padding-left: 0.5rem;
 }
 
-#notes-list li {
-    margin-bottom: 0.5rem;
+.folder-structure li {
+    margin: 0.5rem 0;
 }
 
-/* Linki w sidebarze */
-.note-link {
+.folder-name {
+    font-weight: bold;
+    color: var(--gruvbox-purple);
+    margin-top: 1rem;
     display: block;
-    padding: 0.75rem 1rem;
-    color: var(--gruvbox-fg2);
-    text-decoration: none;
-    border-radius: var(--border-radius-m);
-    transition: background-color 0.2s, color 0.2s;
-    font-weight: 400;
 }
 
-.note-link:hover {
+.file-link {
+    display: block;
+    padding: 8px 12px;
+    color: var(--gruvbox-fg2);
+    border-radius: 6px;
+    transition: background 0.2s;
+    font-size: 0.95rem;
+    cursor: pointer;
+}
+
+.file-link:hover {
     background-color: var(--gruvbox-bg-soft);
     color: var(--gruvbox-fg0);
-    text-decoration: none;
 }
 
+.file-link.active {
+    background-color: var(--gruvbox-bg-soft);
+    color: var(--gruvbox-blue);
+    border-left: 3px solid var(--gruvbox-blue);
+}
+
+/* Główna treść notatki */
 .note-content-area {
     flex: 1;
+    background-color: var(--gruvbox-bg);
+    padding: 3rem;
+    border-radius: var(--border-radius-l);
+    box-shadow: var(--shadow-s);
+    max-width: 800px; /* Czytelna szerokość tekstu */
 }
 
-/* Markdown Content Styling */
-#readme-content img,
-#note-content img {
-    max-width: 100%;
-    height: auto;
-    border-radius: var(--border-radius-m);
-    margin: 1rem 0;
+/* Markdown Styles */
+.markdown-content {
+    font-family: var(--font-serif); /* Lepsza czytelność */
+    font-size: 1.1rem;
 }
 
-#readme-content p,
-#note-content p {
+.markdown-content h1, 
+.markdown-content h2, 
+.markdown-content h3 {
+    font-family: var(--font-sans);
+    color: var(--gruvbox-orange);
+    margin-top: 2rem;
     margin-bottom: 1rem;
 }
 
-#readme-content ul, #readme-content ol,
-#note-content ul, #note-content ol {
-    margin-bottom: 1rem;
-    padding-left: 2rem;
-}
-
-#readme-content li,
-#note-content li {
-    margin-bottom: 0.5rem;
-}
-
-blockquote {
-    border-left: 4px solid var(--gruvbox-gray);
-    padding-left: 1rem;
-    color: var(--gruvbox-fg2);
-    font-style: italic;
-    margin: 1.5rem 0;
-}
-
-code {
-    background-color: var(--gruvbox-bg-soft);
-    padding: 0.2rem 0.4rem;
+.markdown-content h1 { font-size: 2.2rem; border-bottom: 2px solid var(--gruvbox-bg-soft); padding-bottom: 0.5rem; }
+.markdown-content p { margin-bottom: 1.2rem; }
+.markdown-content ul { padding-left: 1.5rem; margin-bottom: 1.2rem; }
+.markdown-content code {
+    background: var(--gruvbox-bg-soft);
+    padding: 2px 6px;
     border-radius: 4px;
-    font-family: 'Fira Code', 'Roboto Mono', monospace;
+    font-family: monospace;
     font-size: 0.9em;
 }
 
-pre {
-    background-color: var(--gruvbox-bg-soft);
-    padding: 1.5rem;
-    border-radius: var(--border-radius-m);
-    overflow-x: auto;
-    margin: 1.5rem 0;
-    border: 1px solid var(--gruvbox-bg);
+.markdown-content blockquote {
+    border-left: 4px solid var(--gruvbox-yellow);
+    padding-left: 1rem;
+    color: var(--gruvbox-fg2);
+    font-style: italic;
+    background: var(--gruvbox-bg-soft);
+    padding: 1rem;
+    border-radius: 0 8px 8px 0;
+}
+
+/* Spis treści (TOC) */
+.toc-sidebar {
+    flex: 0 0 200px;
+    position: sticky;
+    top: 80px;
+    height: fit-content;
+    display: none; /* Domyślnie ukryty na małych ekranach */
+}
+
+@media (min-width: 1200px) {
+    .toc-sidebar { display: block; }
+}
+
+.toc-list li {
+    list-style: none;
+    margin-bottom: 0.5rem;
+}
+
+.toc-list a {
+    font-size: 0.85rem;
+    color: var(--gruvbox-gray);
+    transition: color 0.2s;
+}
+
+.toc-list a:hover,
+.toc-list a.active {
+    color: var(--gruvbox-blue);
 }
 
 /* --- Footer --- */
-footer {
-    text-align: center;
-    padding: 2rem;
-    margin-top: 2rem;
-    color: var(--gruvbox-fg4);
-    font-size: 0.9rem;
+.main-footer {
     background-color: var(--gruvbox-bg);
-    box-shadow: 0 -1px 5px rgba(0,0,0,0.1); /* Subtelny cień od góry */
+    padding: 3rem 20px;
+    margin-top: 4rem;
+    border-top: 1px solid var(--gruvbox-bg-soft);
 }
 
-.separator {
-    /* Klasa usunięta z HTML, ale dla pewności ukrywamy */
-    display: none;
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    text-align: center;
+}
+
+.footer-section h4 {
+    color: var(--gruvbox-green);
+    margin-bottom: 1rem;
+}
+
+.footer-section p, 
+.footer-section a {
+    color: var(--gruvbox-fg4);
+    font-size: 0.9rem;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+/* --- Responsywność --- */
+@media (max-width: 768px) {
+    .notes-container {
+        flex-direction: column;
+    }
+    .notes-sidebar {
+        height: auto;
+        max-height: 300px;
+        position: static;
+    }
+    .hero-title {
+        font-size: 2rem;
+    }
 }
