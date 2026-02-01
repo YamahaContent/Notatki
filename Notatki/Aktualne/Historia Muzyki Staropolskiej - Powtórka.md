@@ -417,5 +417,5 @@ Wstępne ogniow pierwszego psalmu eksponowane jest także w dalszej jego częśc
 Udane zespolenio formy cyklicznej z rondową. Starzyński w sposób mistrzowski operuje formą wersetową, opartą na zmianach temp, faktury i obsady. Odcinki zazębiają się na kadencjac - ostatni akord jednego odcinak współwystępuje z pierwszym akordem następnego. Utwór pozbawiony jest natomiast niemal zupełnie faktury polifonicznej.
 ## 3.10 Marcin Józef Żebrowski
 ## 3.11 Muzyka Instrumentalna XVII wieku
-# 4. Klasycyzm
+
 
