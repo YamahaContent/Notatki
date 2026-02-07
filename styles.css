@@ -44,6 +44,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.5rem;
@@ -358,6 +364,7 @@ h3 { font-size: 1.25rem; margin-top: 1.5rem; }
 
 /* === Notes Content === */
 .notes-content {
+    max-width: 1000px;
     background: var(--bg-alt);
     padding: 2rem;
     border: 1px solid var(--border);
@@ -464,6 +471,9 @@ h3 { font-size: 1.25rem; margin-top: 1.5rem; }
 
 .toc-list {
     list-style: none;
+    position: sticky;
+    top: 100px;
+    height: fit-content;
 }
 
 .toc-list li {
