@@ -4,8 +4,7 @@ data: 2026-01-22
 tags:
 Typ: Notatka
 ---
----
-
+ ---
 # 1. Średniowiecze
 ## 1.1 Monodia
 ### 1.1.1 Monodia Religijna w Jezyku Łacinskim
@@ -312,7 +311,6 @@ Obsada składa się z czterech solistów (Canto, Alto, Tenore, Basso), pary skrz
 ## 3.2 Koncert Kościelny
 **Koncert kościelny/religijny** - pierwotna forma koncertu, koncert kościelny rozwinął się przed koncertem instrumentalnym. Jeden z najpopularniejszych w XVII wieku gatunek muzki religijnej.
 Podstawą literacką są teksty liturgiczne lub paealiturgiczne (antyfonarz, graduał, parafrazy biblijne) oraz teksty poetyckie.
-
 ### 3.2.1 Cechy
 Na początku XVII wieku dominują koncerty jednoczęściowe - później na wzór kantaty wykształcają się koncerty wieloczęściowe. Gatunek ten wyróżniają kontrasty w zakresie:
 - **Obsady** 
@@ -351,7 +349,28 @@ Muzyczne opracowanie Psalmu 100 (*Jubilate Deo omnis terra*) przeznaczone na 2 C
 
 ## 3.4 Marcin Mielczewski
 Jeden z najbardziej uzdolnionych polskich twórców I połowy XVII wieku. Muzyk kapeli królewskiej we Warszawie. 
-W 1644 zostaje kapelmistrzem Karola Fryderyka Wazy, biskupa wrocławskiego i płockiego. Kompozycje (poza dwoma) przetrwały w rękopiśmiennych kopiach. Ze 129 utworów zachowanych około 70 pełnych. Reprezentują one zarówno **Prima*** jak i ***Seconda Pratica***.
+W 1644 zostaje kapelmistrzem Karola Fryderyka Wazy, biskupa wrocławskiego i płockiego. Kompozycje (poza dwoma) przetrwały w rękopiśmiennych kopiach. Ze 129 utworów zachowanych około 70 pełnych. Reprezentują one zarówno ***Prima*** jak i ***Seconda Pratica***.
+### 3.4.1 **Missa super O gloriosa Domina**
+Msza na Dwa soprany, alt, dwa tenory, bas i grupę continuo. **Oparta na pieśni** o tym samym tytule popularnej, w całej europie. 
+Msza **wskazuje elementy stylu koncertującego**, cały utwór łączy charakterystyczny motyw pieśni. 
+Msza **odchdzi od tonalności modalnej**, jest to przejscie od myślenia horyzontalnego ku myśleniu wertykalnemu.
+Msza charakteryzuje się **odejściem od stylistyki renesansowej na rzecz baroku**.
+### 3.4.2 *Deus in nomine tuo*
+Koncert solowy basu z dwoma skrzypcami, fagotem i grupą continuo. Koncert **zamiszczony w drukowanym zbiorze Havemanna z 1659** roku, w grupie najsławniejszych wloskich i innych autorów. 
+Tekst koncertu to opracowanie Psalmu 53 - *Boże, w Imię Twoje zbaw mnie, w mocy Twojej osądź mnie*, przez co utwór ma charakter błagalny.
+Utwór utrzymany w konwencji **barokowej obsady triowej**. Skrzypce w roli koncertującej. Instrumenty eksponowane są na przemian z głosami.
+### 3.4.3 *Jubilate Deo*
+Motet polichóralny na trzy czterogłosowe chóry i *basso pro organo* (tradycja rzymska). Opracowany tekst to 4 pierwsze wersety psalmu pochwalnego *Wychwalaj Boga, cała siemio*. Kompozycja jednoczęściowa, wieloodcinkowa. Wyraźny podział na wersy sygnowany zmianą metra:
+1. 3/1 - *Jubilate Deo*
+2. C - *Deo omnis terra*
+3. 3/1 - *Quam terribilia sunt opera tua*
+4. C - *In multitundine*
+Motet utrzymany w fakturze homorytmicznej, deklamacyjnej. Brak skomplikowanej narreacji polifonicznej w rodzaju palestrinowskiej. Operowanie chórami na zasadzie wymienności obsad. 
+Występują trzy rodzaje faktury:
+- Naprzeminne występowanie chórów
+- Kulminowanie brzmienia
+- Tutti całego zespołu
+
 ## 3.5 Kapelmistrzowie Włoscy w Polsce
 ### 3.5.1 Annibale Stabile
 Uczeń Palestriny. Najprawdopodobniej zmarł w drodze do Krakowa w **1595** roku. 
@@ -385,6 +404,11 @@ Uroczysta Forma - trąbki clarino w ritornellach instrumentalnych - typ mszy sol
 ### 3.6.2 *Veni Consolator*
 Obsada: Cantus solo, cln i basso continuo. Koncert solowy, w którym po raz pierwszy pojawia się symetryczna forma ABA - solowa *arię da capo*. Ciekawy przykład wpływu weneckiej arii operowej na koncert wieloodcinkowy: wzór arii z jedną lub dwoma trąbkami *clarino* w której dominują narzucane przez instrument figury melodyczne: fanfary, skoki, rozłożone akordy
 ## 3.7 Jacek Różycki
+Ok. 1637-1703, reprezentatywny twórca II połowy XVII wieku. Autor dzieł religijnych w tym:
+- Hymny czterogłosowe
+- Niezachowane dzieła polichóralne
+- Kompozycje koncertujące na chór i ins
+
 ## 3.8 Grzegorz Gerwazy Gorzycki
 Urodzony około 1665 r. zmarły w 1734 roku. Studiował w Pradze i Wiedniu, w Krakowie wyświęcony na księdza. 
 **Od 1698 roku kapelmistrz Kapeli Wawelskiej** (podopnie jak [[11. Twórczość Franciszka Liliusa|Franciszek Lilius]]), którą kierował przez **36 lat**, ponadto pełnił wiele obowiązków związanych z urzędami kościelnymi. Był to niezywkle trudny okres, pełen wojen, okupacji i zarazy.
