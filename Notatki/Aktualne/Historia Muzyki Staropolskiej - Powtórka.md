@@ -407,7 +407,21 @@ Obsada: Cantus solo, cln i basso continuo. Koncert solowy, w którym po raz pier
 Ok. 1637-1703, reprezentatywny twórca II połowy XVII wieku. Autor dzieł religijnych w tym:
 - Hymny czterogłosowe
 - Niezachowane dzieła polichóralne
-- Kompozycje koncertujące na chór i ins
+- Kompozycje koncertujące na chór i instrumenty
+- Koncerty Małogłosowe
+### 3.7.1 *Confitebor*
+Najprawdopodobniej część cyklu nieszpornego. przeznaczony na chór, dwoję skrzypiec i basso pro organo. Rękopis zniszczony podczas drugiej wojny śiwatowej, znany z kopii A. Chybińskiego. 
+Opracowany tekst ma charakter pochwalny. Głosy solowe i chór notaowane są na tych samych pięcioliniach.
+Utwór zbudowany jest poprzez **następstwo ogniw**:
+
+**Solo** (C, A, T + B.C.) → **Solo Basu** (+ skrzypce i b.c.) → ***Tutti*** (+ orkiestra)
+
+Powtarza się cztery razy i jest to zamierzone ukształtowanie formalne, przypominające rondo (quasi-rondo).
+Na uwagę zasługuję **Partia skrzypiec**, charakteryzująca się urozmaiconą fakturą. Zrytmizowanie na przemian w ruchu ósemkowym i ćwierćnutowym, figuracje na dźwiękach gamowłaściwych z wymianą motywiczną między I, a II skrzypcami.
+Retoryka pełni ważną rolę
+
+### 3.7.2 *Magnificat*
+Zakończenie tego samego cyklu nieszpornego. Ta sama obsada i rozwiązanie formalna (następstwa typów obsad).
 
 ## 3.8 Grzegorz Gerwazy Gorzycki
 Urodzony około 1665 r. zmarły w 1734 roku. Studiował w Pradze i Wiedniu, w Krakowie wyświęcony na księdza. 
@@ -467,6 +481,54 @@ Wstępne ogniow pierwszego psalmu eksponowane jest także w dalszej jego częśc
 
 Udane zespolenio formy cyklicznej z rondową. Starzyński w sposób mistrzowski operuje formą wersetową, opartą na zmianach temp, faktury i obsady. Odcinki zazębiają się na kadencjac - ostatni akord jednego odcinak współwystępuje z pierwszym akordem następnego. Utwór pozbawiony jest natomiast niemal zupełnie faktury polifonicznej.
 ## 3.10 Marcin Józef Żebrowski
+Zmarły około 1792 roku. Kompozytor, śpiewak. Nieliczne dane pochodzą z klasztoru paulinów na Jasnej Górze. W latach 1748-1765 zatrudniony był w kapeli jasnogórskiej jako świcki muzyk i edukator. Zachowało się 30 jego utworów. Zajmuje czołowe miejsce wśród kompozytorów polskich epoki przedklasycznej. 
+Wskazać można na trzy okresy twórczośći Żebrowskiego:
+1. Barokowy - *Magnificat*
+2. Neapolitański - *Missa Pastoritia*
+3. Wczesnoklasyczny - *Missa Pastoralis*
+NA uwage zasługuję także twórczość instrumentalna Żebrowskiego: Sonaty triowe, Sonaty pro processione, Concerto Grosso, a nawet symfonia.
+### 3.10.1 *Magnificat*
+C, A, T, B, 2 cor, 2vln, vla, org + bc. 
+Sklada sie z **13 czesci** (lacznie z ogniwami instrumentalnymi 15) zróznicowanych pod wzgledem tempa, obsady, tonacji. 
+**Odcinki homorytmiczne** - zwykle chóralne, ponadto kilka fragmentów imitacyjnych, z udzialem np. 2-gtosowego kontrapunktu. 
+Zgodnie z kompozycja tekstu Magnificat **posiada budowe wersetowa**, oparta na kontrastach: agogicznym, metrycznym i tonacyjnym.
+Pod wzgledem architektoniki mozna mówié o budowie ramowej: czesci poczatkowe powtórzone sa na koncu (ABA' + coda: dwuglosowy kanon na stowie „Amen"). Elementy repryzowosci wprowadzaja takze instrumentalne ritornele i postludia.
+### 3.10.2 *Missa Pastoralis*
+Msza zachowana w zbiorach jasnogórskich. Jest to drugie opracowanie tekstu mszy dokonane przez Zebrowskiego w nurcie pastoralnym: wezesniejsza Missa pastoritia jest napisana na pelny chór mieszany. Missa pastoralis to jedno z najbardziej znanych i najczesciej omawianych dziet Zebrowskiego, z uwagi na cytaty melodii ludowych.
+### 3.10.3 Nurt Pastoralny
+Idiom pastoralny w muzyce o tematyce bozonarodzeniowej reprezentuja cechy:
+- tonacje durowe: C, D, F, G, A, B;
+- metra trójdzielne o „kotysankowym" przebiegu: 6/8, 9/8, 12/8;
+- predylekcja do stosowania równolegtych tercji i sekst;
+- Wolne Tempa
+- Eksponowanie instrumentów ludowych
+- Uproszczona harmonika i melodyka
+- Nuta Pedałowa
 ## 3.11 Muzyka Instrumentalna XVII wieku
+Symfonia przynalezala do repertuaru muzyki swiecko-koscielnej. Symfonie (sinfonie) rozbrzmiewaly podczas nabozenstw (gradual, offertorium, communio), przed i po zakonezeniu mszy, w czasie procesji. Tak jak w calej muzyce curopejskiej, takze na terenie Rzeczypospolitej nomenklatura dotyczaca gatunku byla róznorodna: sinfonia, ouverture, Parthia.
+### 3.11.1 Ewolucja Symfonii
+Ewolucja symfonii przebiega wielotorowo:  
+– Obsada: wpierw instrumenty smyczkowe z klawesynem, kontrabasem i fagotem (b.c.), następnie poszerzone o altówkę. Około 1730 r. dochodzą flety, oboje, trąbki clarino lub rogi oraz kotły. Od 1750 pojawiają się klarnety.
+– Forma: początkowo trzyczęściowa, przejęta z barokowego koncertu (uwertury włoskiej): szybka – wolna – szybka. W 1740 w Mannheimie i Wiedniu tworzone są pierwsze symfonie 4-częściowe, niekiedy poprzedzone wolną introdukcją. Finały na ogół w rytmie tanecznym – po 1750 roku w formie ronda.
+#### Etap I
+– Jacek Szczurowski, Symfonia i Parthia ex E (nota w inwentarzu bursy jezuickiej w Krakowie: 1750)  
+– [Anonim], Symfonia z Obry (znana tylko z opisu): w Allegro rytmy mazurkowe obu tematów, przykład unaradawiania się stylu instrumentalnego.  
+– [Anonim], (Raków Opatowski): 3 części w tej samej tonacji, ta sama obsada bez instrumentów dętych. Część pierwsza ukształtowana binarnie, dwa tematy z krótkim epizodem łącznikowym zamiast przetworzenia.  
+– Marcin Józef Żebrowski, Sinfonia Ouverture IV.
 
+#### Etap II  
+– Antoni Haczewski – Sinfonia ex D: bardzo uproszczona, o karczemno-ludowej melodyce  
+– Jan Namieyski, Symfonia in D: odpis z ok. 1760. Układ 5-częściowy z 2 menuetami  
+– Bazyli Bohdanowicz – Sinfonia ex D  
+– Jakub Gołąbek – Symfonia D  
+– Jan Engel: 11 symfonii, z czego zachowanych 6
 
+Budowa 3-częściowa (dziedzictwo uwertury włoskiej) lub 5-częściowa z dwoma częściami tanecznymi (dziedzictwo suity względnie divertimenta). W 3-częściowych w części środkowej zazwyczaj zmiana tonacji na subdominantową oraz zmniejszenie obsady, część ta zazwyczaj oparta na wariacjach. Obsada rozbudowana, dochodzą instrumenty dęte drewniane: flety i oboje, rzadziej klarnety (Namieyski) i fagoty (Engel, Sinfonia F), oraz rogi. U Engela występuje jeszcze b.c. Następuje ewolucja struktury tematów. Od krótkich, progresywnie powtarzanych, jednotałkowych motywów do bardziej zróżnicowanych, skontrastowanych kierunków linii melodycznej. Tematy I i II w Allegro oparte na podobnych motywach, choć różni je melodyka cantabile. Przeciwne tematy jednak także występują (Gołąbek). Przetworzenie bardzo krótkie. Partia repryzowa także skrócona, niekiedy rozszerzona się o III temat. Pojawia się także przedklasyczne rondo (Gołąbek). Symfonia D-dur Gołąbka w ostatniej części Presto następuje stopniowa eliminacja instrumentów (jak u Haydna w Abschied Symphonie fis-moll).
+
+#### Etap III  
+– Antoni Milwid, Symfonia C-dur  
+– Franciszek Ścigalski, Symfonia D-dur  
+– Jan Wański, Symfonia G-dur  
+– Wojciech Dankowski, Symfonia Es
+
+Formowanie się dojrzałego stylu klasycznego: stabilizacja cyklu w formie czteroczęściowej, w równowadze i symetrii ogniw allegra sonatowego. Dynamizm i dominacja tematu głównego, zawartego w zindywidualizowanym motywie. Bardziej złożona faktura (techniki imitacyjne, polifoniczne, silniejsze piętno narodowe: rytmy krakowiakowe, dumkowe, nuty ludowe). Należy jednak pamiętać, że polonez w XVIII wieku nie stanowił domeny wyłącznie polskiej. W nagłówkach pojawia się termin „grand Symphonie” (w obsadzie wówczas figuruje trąbki i kotły, choć nie zawsze). Przetworzenie ulega znacznemu rozszerzeniu, aż do rozmiarów ekspozycji. Wański w Symfonii G-dur opiera Finał na formie sonatowej. Tematy zawierają przeciwieństwo ruchu, brzmienia i dynamiki. Technika polifoniczna w Symfonii D-dur Wańskiego.
