@@ -328,7 +328,13 @@ Koncerty kościelne można podzielić ze względu na liczbę głosów:
 - **Solowe** i na kilka głosów
 W Polsce koncerty kościelne są dominującym gatunkiem muzyki religijnej w tym okresie. Nie zawsze da się je odróżnić od motetów.
 ### 3.2.3 Bartłomiej Pękiel - *Dulcis amor Jesu*
-Koncert 
+Koncert jednochórowy (2 C, A, T, B) + Basso Continuo. Obsada typowa dla późnorenesansowego madyrgału. Gdyby nie religijny tekst utwór można by uznać za świecki
+### 3.2.3 Kaspar Forster Młodszy
+Autor wiekszej ilości koncerrtów kościelnych z lat 60 XVII wieku oraz z późniejszego okresu (okres na dworze Fryderyka II Króla Danii). Zachowały się m.in.:
+- **3 koncerty solowe** - Laudate Dominum, Jesus dulcis memoria, Inter brachia Salbatoris mei
+- **4 koncerty na 2 soprany** - Celebramus te Jehova, Dulcis amor Jesu, Redemptor Deus, O dulcis Jesu
+- **Koncert na alt i tenor** - Cred, quod Redemptor
+- 15 koncertów na 3 głosy
 ## 3.3 Franciszek Lilius
 Syn Vincenza (zmarłeo około 1639 r.). W latach 1620-1630 cłonek **Kapeli Królewskiej**, następnie kapelmistrz kapeli wawelskiej, gdzie kształcił chłopców - sopranistów. 
 Uprawiał prawie wszystkie gatunki muzyczne w *prima i seconda pratica*. Lilius **utrzymywał kontakty ze środowiskiem rzymskim**.
@@ -344,6 +350,8 @@ Silnie zaznaczona retoryka (np. w *crucifixus*), kumulacje opóźnień dysonanso
 Muzyczne opracowanie Psalmu 100 (*Jubilate Deo omnis terra*) przeznaczone na 2 Canto, Alt, Tenor, Bas, 2 Skrzypce, Viole, 2 Tromboni, Fagot i Organy realizujące Basso Continuo. Koncert Kościelny. Rękopis przechowywany jest w Bibliotece Uniwersyteckiej w Królewcu. Jeden z najwspanialszych utworów w tym gatunku powstałych na terenie Polski.
 
 ## 3.4 Marcin Mielczewski
+Jeden z najbardziej uzdolnionych polskich twórców I połowy XVII wieku. Muzyk kapeli królewskiej we Warszawie. 
+W 1644 zostaje kapelmistrzem Karola Fryderyka Wazy, biskupa wrocławskiego i płockiego. Kompozycje (poza dwoma) przetrwały w rękopiśmiennych kopiach. Ze 129 utworów zachowanych około 70 pełnych. Reprezentują one zarówno **Prima*** jak i ***Seconda Pratica***.
 ## 3.5 Kapelmistrzowie Włoscy w Polsce
 ### 3.5.1 Annibale Stabile
 Uczeń Palestriny. Najprawdopodobniej zmarł w drodze do Krakowa w **1595** roku. 
