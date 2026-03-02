@@ -32,7 +32,6 @@ Wczesna twórczość Bacha charakteryzuję się formą przekomponowaną lub łuk
 
 - Gottes Zeit - muzyka pogrzebowa, wykorzystuje c. f., jest to kantata chorałowa polegająca na opracowaniu każdej strofy w innym stylu.
 
-  
 
 > [!important] Forma Przekomponowanie - Cząstki tekstu otrzymuję inne opracowanie muzyczne.
 
