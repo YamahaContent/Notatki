@@ -127,7 +127,7 @@ html, body {
 
 .nav-item {
   display: block;
-  padding: 7px 20px 7px 24px;
+  padding: 7px 20px 7px 14px;
   font-size: 0.875rem;
   color: var(--ink-muted);
   cursor: pointer;
@@ -159,17 +159,6 @@ html, body {
   font-size: 0.82rem;
 }
 
-/* ── Folder items ── */
-.nav-folder {
-  padding: 8px 20px 5px 24px;
-  font-size: 0.72rem;
-  font-family: var(--font-mono);
-  color: var(--ink-subtle);
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  border-top: 1px solid var(--border-light);
-  margin-top: 6px;
-}
 
 /* ── Main Content ── */
 .main-content {
@@ -468,6 +457,60 @@ html, body {
   height: 2px;
   background: var(--ink-muted);
   border-radius: 1px;
+}
+
+/* ── Folder Tree ── */
+.nav-subtree {
+  list-style: none;
+  display: block;
+}
+
+.nav-folder-item {
+  display: block;
+}
+
+.nav-folder-toggle {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 20px 6px 14px;
+  cursor: pointer;
+  user-select: none;
+  border-left: 2px solid transparent;
+  transition: background 0.15s;
+}
+
+.nav-folder-toggle:hover {
+  background: var(--bg-overlay);
+}
+
+.nav-folder-arrow {
+  font-size: 0.75rem;
+  color: var(--ink-subtle);
+  transition: transform 0.18s ease;
+  display: inline-block;
+  width: 10px;
+  flex-shrink: 0;
+}
+
+.nav-folder-arrow:not(.open) {
+  transform: rotate(-90deg);
+}
+
+.nav-folder-icon {
+  font-size: 0.78rem;
+  flex-shrink: 0;
+}
+
+.nav-folder-name {
+  font-size: 0.78rem;
+  font-family: var(--font-mono);
+  color: var(--ink-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* ── Scroll fade-in on load ── */

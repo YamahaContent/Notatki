@@ -170,11 +170,12 @@ async function loadFile(filePath, displayName) {
   }
 }
 
-// ── Render nav item ───────────────────────────────────────
-function makeNavItem(name, path) {
+// ── Render a file nav item ────────────────────────────────
+function makeNavItem(name, path, depth) {
   const li = document.createElement('li');
-  const displayName = name.replace('.md', '');
+  const displayName = name.replace(/\.md$/i, '');
   li.className = 'nav-item';
+  li.style.paddingLeft = `${14 + depth * 14}px`;
   li.textContent = displayName;
   li.title = displayName;
   li.dataset.path = path;
@@ -186,44 +187,78 @@ function makeNavItem(name, path) {
   return li;
 }
 
-// ── Render folder label ───────────────────────────────────
-function makeFolderLabel(name) {
+// ── Render a collapsible folder ───────────────────────────
+function makeFolderItem(name, depth, childrenUl) {
   const li = document.createElement('li');
-  li.className = 'nav-folder';
-  li.textContent = '📁 ' + name;
+  li.className = 'nav-folder-item';
+
+  const toggle = document.createElement('div');
+  toggle.className = 'nav-folder-toggle';
+  toggle.style.paddingLeft = `${14 + depth * 14}px`;
+
+  const arrow = document.createElement('span');
+  arrow.className = 'nav-folder-arrow open';
+  arrow.textContent = '▾';
+
+  const icon = document.createElement('span');
+  icon.className = 'nav-folder-icon';
+  icon.textContent = '📁';
+
+  const label = document.createElement('span');
+  label.className = 'nav-folder-name';
+  label.textContent = name;
+
+  toggle.appendChild(arrow);
+  toggle.appendChild(icon);
+  toggle.appendChild(label);
+  li.appendChild(toggle);
+  li.appendChild(childrenUl);
+
+  toggle.addEventListener('click', () => {
+    const isOpen = arrow.classList.toggle('open');
+    childrenUl.style.display = isOpen ? 'block' : 'none';
+  });
+
   return li;
 }
 
-// ── Fetch and populate sidebar ────────────────────────────
-async function loadNavTree(path = NOTES_PATH, container = navList, depth = 0) {
+// ── Recursively fetch and build nav tree ──────────────────
+async function buildNavTree(path, depth) {
+  const res = await fetch(`${API_BASE}/${encodeURI(path)}?ref=${BRANCH}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const items = await res.json();
+
+  items.sort((a, b) => {
+    if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
+    return a.name.localeCompare(b.name, 'pl');
+  });
+
+  const ul = document.createElement('ul');
+  ul.className = 'nav-subtree';
+
+  for (const item of items) {
+    if (item.name.startsWith('.')) continue;
+    if (item.type === 'dir') {
+      const childrenUl = await buildNavTree(item.path, depth + 1);
+      ul.appendChild(makeFolderItem(item.name, depth, childrenUl));
+    } else if (item.name.endsWith('.md')) {
+      ul.appendChild(makeNavItem(item.name, item.path, depth));
+    }
+  }
+
+  return ul;
+}
+
+// ── Load and render full nav tree into sidebar ────────────
+async function loadNavTree() {
   try {
-    const res = await fetch(`${API_BASE}/${encodeURI(path)}?ref=${BRANCH}`);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const items = await res.json();
-
-    // Sort: dirs first, then files
-    items.sort((a, b) => {
-      if (a.type === b.type) return a.name.localeCompare(b.name, 'pl');
-      return a.type === 'dir' ? -1 : 1;
-    });
-
-    for (const item of items) {
-      if (item.name.startsWith('.')) continue; // skip hidden
-
-      if (item.type === 'dir') {
-        if (depth === 0) {
-          container.appendChild(makeFolderLabel(item.name));
-        }
-        await loadNavTree(item.path, container, depth + 1);
-      } else if (item.name.endsWith('.md')) {
-        container.appendChild(makeNavItem(item.name, item.path));
-      }
+    const tree = await buildNavTree(NOTES_PATH, 0);
+    navList.innerHTML = '';
+    for (const child of Array.from(tree.children)) {
+      navList.appendChild(child);
     }
   } catch (err) {
-    const li = document.createElement('li');
-    li.className = 'nav-item loading';
-    li.textContent = '⚠ Błąd ładowania listy';
-    container.appendChild(li);
+    navList.innerHTML = '<li class="nav-item loading">⚠ Błąd ładowania listy</li>';
     console.error('loadNavTree error:', err);
   }
 }
