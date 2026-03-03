@@ -222,43 +222,89 @@ function makeFolderItem(name, depth, childrenUl) {
   return li;
 }
 
-// ── Recursively fetch and build nav tree ──────────────────
-async function buildNavTree(path, depth) {
-  const res = await fetch(`${API_BASE}/${encodeURI(path)}?ref=${BRANCH}`);
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const items = await res.json();
+// ── Build nested node tree from flat git/trees list ──────
+// items: [{ path, type }] — all paths relative to repo root
+// prefix: the root folder we care about (e.g. "Notatki")
+function buildTreeFromFlat(items, prefix) {
+  // Strip prefix, keep only items inside it
+  const relative = items
+    .filter(i => i.path.startsWith(prefix + '/') && !i.path.replace(prefix + '/', '').startsWith('.'))
+    .map(i => ({ ...i, rel: i.path.slice(prefix.length + 1) }));
 
-  items.sort((a, b) => {
-    if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
-    return a.name.localeCompare(b.name, 'pl');
-  });
+  // Build nested structure: { name, type, path, children }
+  function insert(nodes, parts, item) {
+    const [head, ...rest] = parts;
+    let node = nodes.find(n => n.name === head);
+    if (!node) {
+      node = { name: head, type: rest.length ? 'dir' : item.type, path: item.path, children: [] };
+      nodes.push(node);
+    }
+    if (rest.length) insert(node.children, rest, item);
+  }
 
+  const roots = [];
+  for (const item of relative) {
+    const parts = item.rel.split('/');
+    // Skip hidden parts
+    if (parts.some(p => p.startsWith('.'))) continue;
+    insert(roots, parts, item);
+  }
+
+  // Sort: dirs first, then alpha
+  function sortNodes(nodes) {
+    nodes.sort((a, b) => {
+      if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
+      return a.name.localeCompare(b.name, 'pl');
+    });
+    nodes.forEach(n => sortNodes(n.children));
+  }
+  sortNodes(roots);
+  return roots;
+}
+
+// ── Render tree nodes into a <ul> ────────────────────────
+function renderTreeNodes(nodes, depth) {
   const ul = document.createElement('ul');
   ul.className = 'nav-subtree';
 
-  for (const item of items) {
-    if (item.name.startsWith('.')) continue;
-    if (item.type === 'dir') {
-      const childrenUl = await buildNavTree(item.path, depth + 1);
-      ul.appendChild(makeFolderItem(item.name, depth, childrenUl));
-    } else if (item.name.endsWith('.md')) {
-      ul.appendChild(makeNavItem(item.name, item.path, depth));
+  for (const node of nodes) {
+    if (node.type === 'dir') {
+      const childrenUl = renderTreeNodes(node.children, depth + 1);
+      ul.appendChild(makeFolderItem(node.name, depth, childrenUl));
+    } else if (node.type === 'blob' && node.name.endsWith('.md')) {
+      ul.appendChild(makeNavItem(node.name, node.path, depth));
     }
   }
-
   return ul;
 }
 
 // ── Load and render full nav tree into sidebar ────────────
+// Uses git/trees?recursive=1 — single request, no rate limit issues
 async function loadNavTree() {
   try {
-    const tree = await buildNavTree(NOTES_PATH, 0);
+    const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/git/trees/${BRANCH}?recursive=1`;
+    const res = await fetch(url);
+
+    if (res.status === 403 || res.status === 429) {
+      throw new Error('GitHub API rate limit. Odśwież stronę za chwilę.');
+    }
+    if (!res.ok) throw new Error(`GitHub API: HTTP ${res.status}`);
+
+    const data = await res.json();
+
+    if (data.truncated) {
+      console.warn('Tree truncated by GitHub — some files may be missing');
+    }
+
+    const nodes = buildTreeFromFlat(data.tree, NOTES_PATH);
+    const tree = renderTreeNodes(nodes, 0);
+
     navList.innerHTML = '';
     for (const child of Array.from(tree.children)) {
       navList.appendChild(child);
     }
   } catch (err) {
-    navList.innerHTML = '<li class="nav-item loading">⚠ Błąd ładowania listy</li>';
+    navList.innerHTML = `<li class="nav-item loading">⚠ ${err.message}</li>`;
     console.error('loadNavTree error:', err);
   }
 }
