@@ -1,43 +1,65 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notatki - Muzykologia UAM</title>
-    <link rel="stylesheet" href="styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Notatki — Muzykologia UAM</title>
+  <link rel="stylesheet" href="styles.css" />
+  <!-- Marked.js for Markdown rendering -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
 </head>
 <body>
-    <header class="main-header">
-        <div class="header-content">
-            <h1 class="logo">Notatki</h1>
-            <span class="subtitle">Muzykologia UAM</span>
-        </div>
-    </header>
 
-    <div class="notes-container">
-        <aside class="notes-sidebar">
-            <h3>📚 Notatki</h3>
-            <ul class="folder-tree" id="folderTree">
-                <li class="loading">Ładowanie...</li>
-            </ul>
-        </aside>
+<div class="app-container">
 
-        <main class="notes-content">
-            <div id="noteContent">
-                <div class="note-header">
-                    <h1>Przeglądaj notatki</h1>
-                    <p class="note-meta">Wybierz notatkę z menu po lewej stronie</p>
-                </div>
-                <div class="markdown-content">
-                    <p>Witaj! Wybierz plik z menu aby go wyświetlić.</p>
-                    <p>Wszystkie notatki są automatycznie synchronizowane z Obsidian.</p>
-                </div>
-            </div>
-        </main>
+  <!-- ── Sidebar ── -->
+  <nav class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <div class="sidebar-title" id="nav-home" style="cursor:pointer" onclick="loadReadme()">
+        Notatki
+      </div>
+      <div class="sidebar-subtitle">Muzykologia UAM</div>
     </div>
 
-    <script src="script.js"></script>
-    <script src="notes.js"></script>
+    <div class="sidebar-section-label">📚 Notatki</div>
+
+    <ul class="nav-list" id="nav-list">
+      <li class="nav-item loading">Ładowanie…</li>
+    </ul>
+
+    <div class="sidebar-footer">
+      harbor · obsidian sync
+    </div>
+  </nav>
+
+  <!-- ── Main ── -->
+  <div class="main-content">
+
+    <!-- Top Bar -->
+    <div class="top-bar">
+      <!-- Mobile menu toggle -->
+      <div class="menu-toggle" id="menu-toggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </div>
+      <div class="top-bar-title" id="top-bar-title">Przeglądaj notatki</div>
+      <div class="top-bar-meta" id="top-bar-meta"></div>
+    </div>
+
+    <!-- Notes Content -->
+    <div id="notes-content">
+      <div class="welcome-screen">
+        <h2>Przeglądaj notatki</h2>
+        <p>Wybierz notatkę z menu po lewej stronie</p>
+        <p style="margin-top:6px;font-size:.82rem;opacity:.55">
+          Wszystkie notatki są automatycznie synchronizowane z Obsidian.
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
