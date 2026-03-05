@@ -200,11 +200,12 @@ async function loadFile(filePath, displayName) {
   }
 }
 
-// ── Render nav item ───────────────────────────────────────
-function makeNavItem(name, path) {
+// ── Render a file nav item ────────────────────────────────
+function makeNavItem(name, path, depth) {
   const li = document.createElement('li');
-  const displayName = name.replace('.md', '');
+  const displayName = name.replace(/\.md$/i, '');
   li.className = 'nav-item';
+  li.style.paddingLeft = `${14 + depth * 14}px`;
   li.textContent = displayName;
   li.title = displayName;
   li.dataset.path = path;
@@ -216,44 +217,124 @@ function makeNavItem(name, path) {
   return li;
 }
 
-// ── Render folder label ───────────────────────────────────
-function makeFolderLabel(name) {
+// ── Render a collapsible folder ───────────────────────────
+function makeFolderItem(name, depth, childrenUl) {
   const li = document.createElement('li');
-  li.className = 'nav-folder';
-  li.textContent = '📁 ' + name;
+  li.className = 'nav-folder-item';
+
+  const toggle = document.createElement('div');
+  toggle.className = 'nav-folder-toggle';
+  toggle.style.paddingLeft = `${14 + depth * 14}px`;
+
+  const arrow = document.createElement('span');
+  arrow.className = 'nav-folder-arrow open';
+  arrow.textContent = '▾';
+
+  const icon = document.createElement('span');
+  icon.className = 'nav-folder-icon';
+  icon.textContent = '📁';
+
+  const label = document.createElement('span');
+  label.className = 'nav-folder-name';
+  label.textContent = name;
+
+  toggle.appendChild(arrow);
+  toggle.appendChild(icon);
+  toggle.appendChild(label);
+  li.appendChild(toggle);
+  li.appendChild(childrenUl);
+
+  toggle.addEventListener('click', () => {
+    const isOpen = arrow.classList.toggle('open');
+    childrenUl.style.display = isOpen ? 'block' : 'none';
+  });
+
   return li;
 }
 
-// ── Fetch and populate sidebar ────────────────────────────
-async function loadNavTree(path = NOTES_PATH, container = navList, depth = 0) {
-  try {
-    const res = await fetch(`${API_BASE}/${encodeURI(path)}?ref=${BRANCH}`);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const items = await res.json();
+// ── Build nested node tree from flat git/trees list ──────
+// items: [{ path, type }] — all paths relative to repo root
+// prefix: the root folder we care about (e.g. "Notatki")
+function buildTreeFromFlat(items, prefix) {
+  // Strip prefix, keep only items inside it
+  const relative = items
+    .filter(i => i.path.startsWith(prefix + '/') && !i.path.replace(prefix + '/', '').startsWith('.'))
+    .map(i => ({ ...i, rel: i.path.slice(prefix.length + 1) }));
 
-    // Sort: dirs first, then files
-    items.sort((a, b) => {
-      if (a.type === b.type) return a.name.localeCompare(b.name, 'pl');
-      return a.type === 'dir' ? -1 : 1;
+  // Build nested structure: { name, type, path, children }
+  function insert(nodes, parts, item) {
+    const [head, ...rest] = parts;
+    let node = nodes.find(n => n.name === head);
+    if (!node) {
+      node = { name: head, type: rest.length ? 'dir' : item.type, path: item.path, children: [] };
+      nodes.push(node);
+    }
+    if (rest.length) insert(node.children, rest, item);
+  }
+
+  const roots = [];
+  for (const item of relative) {
+    const parts = item.rel.split('/');
+    // Skip hidden parts
+    if (parts.some(p => p.startsWith('.'))) continue;
+    insert(roots, parts, item);
+  }
+
+  // Sort: dirs first, then alpha
+  function sortNodes(nodes) {
+    nodes.sort((a, b) => {
+      if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
+      return a.name.localeCompare(b.name, 'pl');
     });
+    nodes.forEach(n => sortNodes(n.children));
+  }
+  sortNodes(roots);
+  return roots;
+}
 
-    for (const item of items) {
-      if (item.name.startsWith('.')) continue; // skip hidden
+// ── Render tree nodes into a <ul> ────────────────────────
+function renderTreeNodes(nodes, depth) {
+  const ul = document.createElement('ul');
+  ul.className = 'nav-subtree';
 
-      if (item.type === 'dir') {
-        if (depth === 0) {
-          container.appendChild(makeFolderLabel(item.name));
-        }
-        await loadNavTree(item.path, container, depth + 1);
-      } else if (item.name.endsWith('.md')) {
-        container.appendChild(makeNavItem(item.name, item.path));
-      }
+  for (const node of nodes) {
+    if (node.type === 'dir') {
+      const childrenUl = renderTreeNodes(node.children, depth + 1);
+      ul.appendChild(makeFolderItem(node.name, depth, childrenUl));
+    } else if (node.type === 'blob' && node.name.endsWith('.md')) {
+      ul.appendChild(makeNavItem(node.name, node.path, depth));
+    }
+  }
+  return ul;
+}
+
+// ── Load and render full nav tree into sidebar ────────────
+// Uses git/trees?recursive=1 — single request, no rate limit issues
+async function loadNavTree() {
+  try {
+    const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/git/trees/${BRANCH}?recursive=1`;
+    const res = await fetch(url);
+
+    if (res.status === 403 || res.status === 429) {
+      throw new Error('GitHub API rate limit. Odśwież stronę za chwilę.');
+    }
+    if (!res.ok) throw new Error(`GitHub API: HTTP ${res.status}`);
+
+    const data = await res.json();
+
+    if (data.truncated) {
+      console.warn('Tree truncated by GitHub — some files may be missing');
+    }
+
+    const nodes = buildTreeFromFlat(data.tree, NOTES_PATH);
+    const tree = renderTreeNodes(nodes, 0);
+
+    navList.innerHTML = '';
+    for (const child of Array.from(tree.children)) {
+      navList.appendChild(child);
     }
   } catch (err) {
-    const li = document.createElement('li');
-    li.className = 'nav-item loading';
-    li.textContent = '⚠ Błąd ładowania listy';
-    container.appendChild(li);
+    navList.innerHTML = `<li class="nav-item loading">⚠ ${err.message}</li>`;
     console.error('loadNavTree error:', err);
   }
 }
