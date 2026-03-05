@@ -76,7 +76,11 @@ async function loadReadme() {
     const text = await res.text();
     notesContent.innerHTML = renderMarkdown(text);
     // Fix relative links to point to GitHub
+<<<<<<< HEAD
     fixLinks(notesContent, '');
+=======
+    fixLinks(notesContent);
+>>>>>>> origin/main
   } catch (err) {
     notesContent.innerHTML = `
       <div class="welcome-screen">
@@ -87,6 +91,7 @@ async function loadReadme() {
   }
 }
 
+<<<<<<< HEAD
 // ── Fix relative links in rendered markdown ───────────────
 function fixLinks(container, basePath) {
   container.querySelectorAll('a[href]').forEach(a => {
@@ -106,6 +111,64 @@ function fixLinks(container, basePath) {
         const filePath = decodeURIComponent(href);
         loadFile(`${NOTES_PATH}/${filePath}`, filePath.replace(/^.*\//, '').replace('.md', ''));
       });
+=======
+// ── Extract repo file path from any GitHub link to this repo ─
+// Handles formats:
+//   https://github.com/USER/REPO/blob/BRANCH/path/to/File.md
+//   https://raw.githubusercontent.com/USER/REPO/BRANCH/path/to/File.md
+//   Notatki/Aktualne/File.md   (relative)
+//   ./File.md                  (relative)
+function extractRepoPath(href) {
+  const decoded = decodeURIComponent(href);
+
+  // github.com blob URL
+  const blobPattern = new RegExp(
+    `https?://github\\.com/${GITHUB_USER}/${GITHUB_REPO}/blob/${BRANCH}/(.+\\.md)(?:#.*)?$`
+  );
+  const blobMatch = decoded.match(blobPattern);
+  if (blobMatch) return blobMatch[1];
+
+  // raw.githubusercontent.com URL
+  const rawPattern = new RegExp(
+    `https?://raw\\.githubusercontent\\.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/(.+\\.md)(?:#.*)?$`
+  );
+  const rawMatch = decoded.match(rawPattern);
+  if (rawMatch) return rawMatch[1];
+
+  // Relative path ending in .md (no protocol)
+  if (!href.startsWith('http') && decoded.endsWith('.md')) {
+    // Strip leading ./
+    return decoded.replace(/^\.\//, '');
+  }
+
+  return null;
+}
+
+// ── Fix links in rendered markdown ───────────────────────
+function fixLinks(container) {
+  container.querySelectorAll('a[href]').forEach(a => {
+    const href = a.getAttribute('href');
+    if (!href || href.startsWith('#') || href.startsWith('mailto:')) return;
+
+    const repoPath = extractRepoPath(href);
+
+    if (repoPath) {
+      // It's a link to a note in this repo — intercept and load inline
+      a.setAttribute('href', '#');
+      a.addEventListener('click', (e) => {
+        e.preventDefault();
+        const displayName = repoPath.split('/').pop().replace(/\.md$/i, '');
+        // Highlight matching nav item
+        document.querySelectorAll('.nav-item').forEach(el => {
+          el.classList.toggle('active', el.dataset.path === repoPath);
+        });
+        loadFile(repoPath, displayName);
+      });
+    } else {
+      // External link — open in new tab
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+>>>>>>> origin/main
     }
   });
 }
@@ -126,7 +189,11 @@ async function loadFile(filePath, displayName) {
     const text = await res.text();
     notesContent.innerHTML = renderMarkdown(text);
     notesContent.scrollTop = 0;
+<<<<<<< HEAD
     fixLinks(notesContent, filePath.split('/').slice(0,-1).join('/'));
+=======
+    fixLinks(notesContent);
+>>>>>>> origin/main
   } catch (err) {
     notesContent.innerHTML = `<p style="color:var(--accent-rust);font-family:var(--font-mono);font-size:.85rem">
       Błąd ładowania pliku: ${escapeHtml(err.message)}</p>`;
@@ -204,4 +271,8 @@ async function init() {
   await loadNavTree();
 }
 
+<<<<<<< HEAD
 document.addEventListener('DOMContentLoaded', init);
+=======
+document.addEventListener('DOMContentLoaded', init);
+>>>>>>> origin/main
