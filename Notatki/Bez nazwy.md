@@ -1,0 +1,5 @@
+---
+Data utworzenia:
+przedmiot:
+Typ:
+---
