@@ -226,9 +226,10 @@ function makeFolderItem(name, depth, childrenUl) {
 // prefix: the root folder we care about (e.g. "Notatki")
 function buildTreeFromFlat(items, prefix) {
   // Strip prefix, keep only items inside it
+  // Normalize GitHub API type: 'tree' (directory) → 'dir', keep 'blob' as-is
   const relative = items
     .filter(i => i.path.startsWith(prefix + '/') && !i.path.replace(prefix + '/', '').startsWith('.'))
-    .map(i => ({ ...i, rel: i.path.slice(prefix.length + 1) }));
+    .map(i => ({ ...i, rel: i.path.slice(prefix.length + 1), type: i.type === 'tree' ? 'dir' : i.type }));
 
   // Build nested structure: { name, type, path, children }
   function insert(nodes, parts, item) {
