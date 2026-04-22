@@ -75,12 +75,7 @@ async function loadReadme() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const text = await res.text();
     notesContent.innerHTML = renderMarkdown(text);
-    // Fix relative links to point to GitHub
-<<<<<<< HEAD
-    fixLinks(notesContent, '');
-=======
     fixLinks(notesContent);
->>>>>>> origin/main
   } catch (err) {
     notesContent.innerHTML = `
       <div class="welcome-screen">
@@ -91,27 +86,6 @@ async function loadReadme() {
   }
 }
 
-<<<<<<< HEAD
-// ── Fix relative links in rendered markdown ───────────────
-function fixLinks(container, basePath) {
-  container.querySelectorAll('a[href]').forEach(a => {
-    const href = a.getAttribute('href');
-    if (!href) return;
-    // Already absolute
-    if (href.startsWith('http') || href.startsWith('#') || href.startsWith('mailto')) return;
-    // GitHub blob links → open in new tab
-    a.setAttribute('target', '_blank');
-    a.setAttribute('rel', 'noopener noreferrer');
-    // Build full GitHub URL for relative .md links
-    if (href.endsWith('.md')) {
-      const ghPath = `https://github.com/${GITHUB_USER}/${GITHUB_REPO}/blob/${BRANCH}/${NOTES_PATH}/${href}`;
-      // Try to intercept and load inline
-      a.addEventListener('click', (e) => {
-        e.preventDefault();
-        const filePath = decodeURIComponent(href);
-        loadFile(`${NOTES_PATH}/${filePath}`, filePath.replace(/^.*\//, '').replace('.md', ''));
-      });
-=======
 // ── Extract repo file path from any GitHub link to this repo ─
 // Handles formats:
 //   https://github.com/USER/REPO/blob/BRANCH/path/to/File.md
@@ -168,7 +142,6 @@ function fixLinks(container) {
       // External link — open in new tab
       a.setAttribute('target', '_blank');
       a.setAttribute('rel', 'noopener noreferrer');
->>>>>>> origin/main
     }
   });
 }
@@ -189,11 +162,7 @@ async function loadFile(filePath, displayName) {
     const text = await res.text();
     notesContent.innerHTML = renderMarkdown(text);
     notesContent.scrollTop = 0;
-<<<<<<< HEAD
-    fixLinks(notesContent, filePath.split('/').slice(0,-1).join('/'));
-=======
     fixLinks(notesContent);
->>>>>>> origin/main
   } catch (err) {
     notesContent.innerHTML = `<p style="color:var(--accent-rust);font-family:var(--font-mono);font-size:.85rem">
       Błąd ładowania pliku: ${escapeHtml(err.message)}</p>`;
@@ -257,9 +226,10 @@ function makeFolderItem(name, depth, childrenUl) {
 // prefix: the root folder we care about (e.g. "Notatki")
 function buildTreeFromFlat(items, prefix) {
   // Strip prefix, keep only items inside it
+  // Normalize GitHub API type: 'tree' (directory) → 'dir', keep 'blob' as-is
   const relative = items
     .filter(i => i.path.startsWith(prefix + '/') && !i.path.replace(prefix + '/', '').startsWith('.'))
-    .map(i => ({ ...i, rel: i.path.slice(prefix.length + 1) }));
+    .map(i => ({ ...i, rel: i.path.slice(prefix.length + 1), type: i.type === 'tree' ? 'dir' : i.type }));
 
   // Build nested structure: { name, type, path, children }
   function insert(nodes, parts, item) {
@@ -352,8 +322,4 @@ async function init() {
   await loadNavTree();
 }
 
-<<<<<<< HEAD
 document.addEventListener('DOMContentLoaded', init);
-=======
-document.addEventListener('DOMContentLoaded', init);
->>>>>>> origin/main
