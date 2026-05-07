@@ -22,7 +22,7 @@ Finał Alla Polacca B-dur
 
 Schumann napisał długi esej recenzyjny w Allegemine Musiikalische Zietschrift, ze słynnym zwrotem "hut ab Ihr Herren, ein Geine", tekst wyśmiewany przez Chopina.
 
-Programowość autobiograficzna - utwór zatytułowany jest do Tytusa xxx.
+Programowość autobiograficzna - utwór zatytułowany jest do Tytusa Wojciechowskiego.
 
 
 # Fantazja na Tematy Polskie A-dur op. 13 (1828-1829)
@@ -33,3 +33,15 @@ Forma Fantazji:
 4. Temat z Kurpińskiego ([[1. Karol Kurpiński - Perspektywa Biograficzna i Kompozytorska|Elegia na śmierć T. Kościuszki]])
 5. Temat pieśni *Jedzie Jasio od Torunia*
 Wycieczka do berlina, spotkanie z Dr. Falkensteinem w biblitoece, wytłumacznie niemcowi kościuszke.pl
+# Rondo á la Krakowiak F-dur op. 14 (1828)
+Utwór składa się z 5 faz, które miałyby odpowiadać konkretnym zdarzeniom zarysowanym w poemacie. Przekonująca wydaje się tylko faza I i II. 
+
+I. Wiesław przybrany syn gospodarza z Proszowa wyrusza w podróż do Krakowa; dramatyczne wspomnienia gospodarzy o rosyjskiej przemocy podczas powstania kościuszkowego i starcie syna oraz córki
+
+II. Wiesław wraca z Krakowa i spotyka wesele na drodze; zostaje zaproszony na to wesele gdzie spotyka Halinę (flety)...
+
+Tonacja F-dur, wskazuję na kategorię pastorale, odpowiednik sielanki; dużo unisona; styl brillant, bardzo wirtuozowski
+
+# Koncerty Fortepianowe 
+## Koncert Fortepianowy f-moll op. 21 (1829-1830)
+Część II - Larghetto As-dur - nokturn, w miłosnej tonacji (opera włoska), z udramatyzowanym recitativo w grobowej tonacji as-moll (możliwy wzór Koncert g-moll Ignaza Moschelesa lub Koncert As-dur I. F. Dobrzyńskiego)
