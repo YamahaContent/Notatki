@@ -3,36 +3,36 @@
    Calm, paper-light, Nordic ink accents
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap');
 
-/* ── Harbor Color Palette ── */
+/* ── Color Palette (colors.toml) ── */
 :root {
-  --bg-base:       #f0ebe0;   /* papier — główne tło */
-  --bg-surface:    #e8e2d4;   /* lekko ciemniejsze tło paneli */
-  --bg-overlay:    #ddd7c8;   /* hover, aktywne elementy */
-  --bg-muted:      #d4cebb;   /* subtelne elementy */
+  --bg-base:       #2c2821;   /* background */
+  --bg-surface:    #342f29;   /* lekko jaśniejsze tło paneli */
+  --bg-overlay:    #3d3830;   /* hover, aktywne elementy */
+  --bg-muted:      #46403a;   /* subtelne elementy */
 
-  --ink-base:      #2c2a26;   /* główny tekst */
-  --ink-muted:     #5a5650;   /* drugorzędny tekst */
-  --ink-subtle:    #8a8478;   /* placeholder, caption */
+  --ink-base:      #d1cdc7;   /* foreground */
+  --ink-muted:     #b8aa94;   /* color8 — drugorzędny tekst */
+  --ink-subtle:    #8a8478;   /* przyciemniony tekst pomocniczy */
 
-  --accent-blue:   #4a7fa5;   /* nordycki niebieski — linki, akcenty */
-  --accent-teal:   #3d8a7a;   /* zieleń nordycka */
-  --accent-rust:   #a05c40;   /* rdzawy — headingi, podkreślenia */
-  --accent-gold:   #8a7340;   /* złoto-brązowy */
+  --accent-blue:   #cea257;   /* accent — linki, akcenty */
+  --accent-teal:   #d4b784;   /* color6 */
+  --accent-rust:   #bf9f69;   /* color1 — headingi */
+  --accent-gold:   #e9b865;   /* color12 */
 
-  --border:        #c8c2b2;   /* obramowania */
-  --border-light:  #ddd8cc;   /* subtelne linie */
+  --border:        #46403a;   /* obramowania */
+  --border-light:  #3d3830;   /* subtelne linie */
 
-  --shadow-sm:     0 1px 3px rgba(44,42,38,0.08);
-  --shadow-md:     0 3px 10px rgba(44,42,38,0.12);
-  --shadow-lg:     0 8px 24px rgba(44,42,38,0.15);
+  --shadow-sm:     0 1px 3px rgba(0,0,0,0.25);
+  --shadow-md:     0 3px 10px rgba(0,0,0,0.35);
+  --shadow-lg:     0 8px 24px rgba(0,0,0,0.45);
 
   --radius-sm:     3px;
   --radius-md:     6px;
   --radius-lg:     10px;
 
-  --font-serif:    'Crimson Pro', 'Libre Baskerville', Georgia, serif;
+  --font-serif:    'JetBrains Mono', 'Fira Code', monospace;
   --font-mono:     'JetBrains Mono', 'Fira Code', monospace;
   --sidebar-width: 280px;
 }
@@ -498,8 +498,7 @@ html, body {
 }
 
 .nav-folder-icon {
-  font-size: 0.78rem;
-  flex-shrink: 0;
+  display: none;
 }
 
 .nav-folder-name {

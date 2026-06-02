@@ -201,7 +201,7 @@ function makeFolderItem(name, depth, childrenUl) {
 
   const icon = document.createElement('span');
   icon.className = 'nav-folder-icon';
-  icon.textContent = '📁';
+  icon.textContent = '';
 
   const label = document.createElement('span');
   label.className = 'nav-folder-name';
