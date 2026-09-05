@@ -11,4 +11,6 @@ Z powodu wybuchu wojny Rózycki przerwał prace nad Operą, którą sfinalizowa�
 Dramat Żuławskiego oceniany był przez krytyków (szczególnie tych Krakowskich) brutalnie. 
 Tadeusz Boy-Żeleński nazwał go: "*ulubionymi jasełkami filozoficznymi dla dużych dzieci*". Zarzucając mu tanią iluzję głębi.
 Lorentowicz pisał wprost o "zlepku operowych obrazów" bez głębszej narracji. 
-Pomimo tak chłodnej recepcji dramat Żuławskiego
+Pomimo tak chłodnej recepcji dramat Żuławskiego cieszył się popularnością wśród kompzytorów, poza omawianym Różyckim sięgali po niego Szopski, Popławski czy Kassern.
+
+Różycki, po sukcjesie *Meduzy*, rozpoczął poszukiwania nowego tematu do opery
