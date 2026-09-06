@@ -4,12 +4,14 @@ Data utworzenia: 2026-08-31
 tags:
 Typ: Notatka
 ---
+
+
 # Wprowadzenie
 ---
 Dramat Żuławskiego oceniany był przez krytyków (szczególnie tych Krakowskich) szczególnie brutalnie. 
 Tadeusz Boy-Żeleński nazwał go: "*ulubionymi jasełkami filozoficznymi dla dużych dzieci*". Zarzucając mu tanią iluzję głębi.
 Lorentowicz pisał wprost o "zlepku operowych obrazów" bez głębszej narracji. 
-Nawet najbardziej pszychylna recenzja anonimowego autora podpisanego iniciałami J.Z. określiła dramat mianem "pięknego scenicznego kinematografu", sugerując widowiskowość okupioną brakiem głębi. 
+Nawet najbardziej pszychylna recenzja ==anonimowego autora podpisanego iniciałami J.Z.== określiła dramat mianem "pięknego scenicznego kinematografu", sugerując widowiskowość okupioną brakiem głębi. 
 
 Pomimo tak chłodnej recepcji dramat Żuławskiego cieszył się popularnością wśród kompzytorów. Dramat został opracowany przez czterech kompozytorów: Ludomira Różyckiego, Felicjana Szopskiego, Marcelego Popławskiego i Taddeusza Zygfryda Kasserna. Odpowiedz na pytanie o tak dużą popularność dramatu Żuławskiego wśród twórców operowych, udziela po części sam Różycki "[dramat] zbudowany, jak gdyby autor, pisząc dzieło, przewidywał, że stanie się ono kiedyś librettem", zwracając uwagę na liczne, zamknięte w sobie fragmenty wierszowane.
 
@@ -45,9 +47,9 @@ Ta redukcja architektoniczna ma bezpośrednie przełożenie na warstwę muzyczn�
 ---
 Różycki buduje w partyturze system znaczeń niezależnych od samego tekstu libretta. Zamiast tradycyjnego, jednoznacznego leitmotywu, kompozytor posługuje się siecią tonacji, różnicującą nie tyle co same postaci, co ich stany i wcielenia. Najlepiej widać to na przykładzie samego Erosa, który w partyturze funkcjonuje pod dwiema, wyraźnie odróznionymi tonacjami, zależnie od tego, w jakiej roli się pojawia.
 
-Pierwsza z nich to E-dur - Tonacja Erosa jako kochanka niepoznanego. Pojawia się ona w scenie przebudzenia Psyche i Erosa w obrazie arkadyjskim, w czułym duecie, w którym bóg prosi ukochaną, by jeszcze nie otwierała oczu. To moment intywny ale zarazem moment w którym Psyche wciąż nie wiek, kim jest jej kochanek. 
+==Pierwsza z nich to E-dur== - Tonacja Erosa jako kochanka niepoznanego. Pojawia się ona w scenie przebudzenia Psyche i Erosa w obrazie arkadyjskim, w czułym duecie, w którym bóg prosi ukochaną, by jeszcze nie otwierała oczu. To moment intywny ale zarazem moment w którym Psyche wciąż nie wiek, kim jest jej kochanek. 
 
-Erosowi właściwemu, temu, który w finale przybiera oblicze Tantaosa przypisana jest tonacja Ges-dur, często sprzężona ze swoją minorową paralelą es-moll. Tonacje Erosa właściwego i ukrytego można prześledzić podczas sceny arkadyjskiej. Psyche zaczyna przyzywać Erosa, początkowo pojawia się Des-dur (dominanta od Ges-dur). W momencie, gdy bóg faktycznie wkracza na scene, rozbrzmiewa czyste Ges-dur. 
+Erosowi właściwemu, temu, który w finale przybiera oblicze Tantaosa przypisana ==jest tonacja Ges-dur==, często sprzężona ze swoją minorową paralelą es-moll. Tonacje Erosa właściwego i ukrytego można prześledzić podczas sceny arkadyjskiej. Psyche zaczyna przyzywać Erosa, początkowo pojawia się Des-dur (dominanta od Ges-dur). W momencie, gdy bóg faktycznie wkracza na scene, rozbrzmiewa czyste Ges-dur. 
 
 Te samo spątanie Ges-dur i es-moll powraca w momencie gdy Psyche brutalnie poznaje prawdziwą tożsamość Erosa za sprawą Blaksa. W rozpaczliwym okrzyki "O Eros! Kochanku! Już go nie ujrzą nigdy oczy moje?" słyszymy tę samą pare tonacji, która wcześniej towarzyszyła wejsciu boga na scene. Od tego momentu fabuły Eros fizycznie nie pojawi się już w operze, ale bedzie nadal obecny jako swego rodzaju sceniczny cień i muzyczne echo, poprzez reminiscencje swojego motywu przewodniego.
 
