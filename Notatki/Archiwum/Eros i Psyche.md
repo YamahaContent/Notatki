@@ -34,4 +34,7 @@ W liscie z 24 lutego 1914 Żuławski proponował wykreślić obraz *Rewolucja* a
 
 Najbardziej spornym obrazem okazał się obraz *Na Przełomie*. Żuławski w liscie z 6 marca 1914 roku, bronił obrazu z pasją, tłumacząc, że to "oś całego dzieła", punkt, do którego Psyche życiowo się wznosi (opadając wewnętrzenie), a od którego zewnętrznie upada, oczyszczając się w duchu. Mimo sprzeciwu Żuławskiego, Różycki zredukował obraz niemal do minimum.
 
-Ostateczna wersja (oparta na najbardziej dojrzałej, ale i najbardziej pesymistycznej czwartej redakcji dramatu), wzmacnia wyraźny kontrast: rajska harmonia zderzona z ponurymi wizjami średniowiecza, krwawej rowlty i rozpaczliwego hedonizmu. 
+Ostateczna wersja (oparta na najbardziej dojrzałej, ale i najbardziej pesymistycznej czwartej redakcji dramatu), wzmacnia wyraźny kontrast: rajska harmonia zderzona z ponurymi wizjami średniowiecza, krwawej rowlty i rozpaczliwego hedonizmu. Uwypukla to *zło istnienia* i rozdarcie człowieka między duchowymi tęsknotami a pułapkami ciała i świata.
+
+Ta redukcja architektoniczna ma bezpośrednie przełożenie na warstwę muzyczną. Mniej obrazów, przekłada się na mocniejszą rolę tonacji i leitmotywów jako spoiwa ideowego całości. 
+
